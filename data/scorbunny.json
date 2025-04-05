@@ -1,0 +1,43 @@
+{
+  "name": "Scorbunny",
+  "korName": "염버니",
+  "species": "토끼포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/scorbunny.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 71,
+    "defense": 40,
+    "spAtk": 40,
+    "spDef": 40,
+    "speed": 69,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Scorbunny",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/scorbunny.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Raboot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/raboot.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Cinderace",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cinderace.jpg",
+      "types": [
+        "Fire"
+      ]
+    }
+  ]
+}

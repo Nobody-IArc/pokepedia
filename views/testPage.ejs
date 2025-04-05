@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <title><%= korName %> (<%= name %>)</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        img { width: 200px; }
+        .stat-box, .type-box, .evo-box { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+<h1><%= korName %> (<%= name %>)</h1>
+<h3><%= species %></h3>
+
+<img src="<%= imageUrl %>" alt="<%= name %>" />
+
+<div class="type-box">
+    <h4>타입</h4>
+    <ul>
+        <% types.forEach(type => { %>
+            <li><%= type %></li>
+        <% }) %>
+    </ul>
+</div>
+
+<div class="stat-box">
+    <h4>종족값</h4>
+    <ul>
+        <% for (const stat in baseStats) { %>
+            <li><strong><%= stat %>:</strong> <%= baseStats[stat] %></li>
+        <% } %>
+    </ul>
+</div>
+
+<div class="evo-box">
+    <h4>진화 정보</h4>
+    <% if (typeof evolutions === 'string') { %>
+        <p><%= evolutions %></p>
+    <% } else if (Array.isArray(evolutions[0])) { %>
+        <% evolutions.forEach((branch, i) => { %>
+            <div>
+                <p><strong>진화 루트 <%= i + 1 %>:</strong></p>
+                <ul>
+                    <% branch.forEach(stage => { %>
+                        <li>
+                            <%= stage.name %>
+                            <% if (stage.evolveMethod) { %> → <em><%= stage.evolveMethod %></em><% } %>
+                        </li>
+                    <% }) %>
+                </ul>
+            </div>
+        <% }) %>
+    <% } else { %>
+        <ul>
+            <% evolutions.forEach(stage => { %>
+                <li>
+                    <%= stage.name %>
+                    <% if (stage.evolveMethod) { %> → <em><%= stage.evolveMethod %></em><% } %>
+                </li>
+            <% }) %>
+        </ul>
+    <% } %>
+</div>
+</body>
+</html>

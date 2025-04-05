@@ -1,4 +1,6 @@
-// Bellsprout 사용 첫 테스트 용 코드
+// 이름만 변경하면 사용 가능 - 추후 변경 예정 사용
+
+import fs from 'fs';
 
 // 종족값 인터페이스
 interface BaseStats {
@@ -25,8 +27,8 @@ type EvolutionData = EvolutionStage[] | EvolutionStage[][];
 import axios from 'axios'; // http 요청을 보내기 위한 라이브러리
 import * as cheerio from 'cheerio'; // html 파싱 및 요소 조작을 위한 라이브러리
 
-const crawlBellsprout = async () => {
-  const url = 'https://pokemondb.net/pokedex/bellsprout';
+const crawlPokemon = async () => {
+  const url = 'https://pokemondb.net/pokedex/scorbunny';
 
   try {
     const { data } = await axios.get(url);
@@ -34,6 +36,14 @@ const crawlBellsprout = async () => {
 
     // 이름
     const name: string = $('main h1').text().trim();
+
+    // 한글명
+    const koreanName: string = $('th:contains("Korean")')
+      .next('td').text().trim().split(' ')[0];
+
+    // 종족
+    const species: string = $('th')
+      .filter((_, el) => $(el).text().includes('Korean')).eq(1).next('td').text();
 
     // 이미지 URL
     let imageUrl: string | undefined;
@@ -63,65 +73,28 @@ const crawlBellsprout = async () => {
     const evolutions: EvolutionData | string | null = getEvolutionData($);
 
     console.log('이름: ', name);
+    console.log('한글명: ', koreanName);
+    console.log('종족: ', species);
     console.log('이미지 링크: ', imageUrl);
     console.log('타입: ', types);
     console.log('종족값: ', baseStats);
     console.log('진화 정보: ', evolutions);
+
+    const jsonData = {
+      name: name,
+      korName: koreanName,
+      species: species,
+      imageUrl: imageUrl,
+      types: types,
+      baseStats: baseStats,
+      evolutions: evolutions,
+    }
+
+    fs.writeFileSync(`./data/${name.toLowerCase()}.json`, JSON.stringify(jsonData, null, 2));
   } catch (error) {
     console.log(error);
   }
 }
-
-// 테스트용 안쓰는 코드
-// const getBaseStats = ($: cheerio.Root): BaseStats | null => {
-//   const stats: Partial<BaseStats> = {};
-//
-//   const rows = $(
-//     '#tab-basic-69 > div:nth-child(2) > div.grid-col.span-md-12.span-lg-8 > div.resp-scroll > table > tbody > tr'
-//   );
-//
-//   rows.each((_, el) => {
-//     const label = $(el).find('th').text().trim();
-//     const value = Number($(el).find('td').text().trim());
-//
-//     switch (label) {
-//       case 'HP':
-//         stats.hp = Number(value);
-//         break;
-//       case 'Attack':
-//         stats.attack = Number(value);
-//         break;
-//       case 'Defense':
-//         stats.defense = Number(value);
-//         break;
-//       case 'Sp. Atk':
-//         stats.spAtk = Number(value);
-//         break;
-//       case 'Sp. Def':
-//         stats.spDef = Number(value);
-//         break;
-//       case 'Speed':
-//         stats.speed = Number(value);
-//         break;
-//       case 'Total':
-//         stats.total = Number(value);
-//         break;
-//     }
-//   });
-//   if (
-//     stats.hp !== null &&
-//     stats.attack !== null &&
-//     stats.defense !== null &&
-//     stats.spAtk !== null &&
-//     stats.spDef !== null &&
-//     stats.speed !== null &&
-//     stats.total !== null
-//   ) {
-//     return stats as BaseStats;
-//   }
-//
-//   return null;
-// }
 
 const getBaseStats = ($: cheerio.Root): BaseStats | null => {
   const values = $('.cell-num')
@@ -208,4 +181,4 @@ const parseInfoCard = ($: cheerio.Root, el: cheerio.Element): EvolutionStage => 
 }
 
 
-void crawlBellsprout();
+void crawlPokemon();

@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "crawltest": "npx ts-node src/crawler/bellsprout.ts",
+    "crawltest": "npx ts-node src/crawler/pokemon.crawler.ts",
     "lint": "eslint . --ext .ts",
     "format": "prettier --write ."
   },
@@ -14,11 +14,14 @@
   "description": "",
   "dependencies": {
     "axios": "^1.8.4",
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.23.0",
     "@types/cheerio": "^0.22.35",
+    "@types/express": "^5.0.1",
     "@types/node": "^22.14.0",
     "@typescript-eslint/eslint-plugin": "^8.29.0",
     "@typescript-eslint/parser": "^8.29.0",
@@ -28,7 +31,7 @@
     "globals": "^16.0.0",
     "prettier": "^3.5.3",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.2",
+    "typescript": "^5.8.3",
     "typescript-eslint": "^8.29.0"
   }
 }
