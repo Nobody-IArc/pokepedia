@@ -1,6 +1,6 @@
 import { PokemonType } from './pokemonTypes';
 
-export const typeEffectiveness: {
+export const attackEffectiveness: {
   [attacking in PokemonType]: {
     [defending in PokemonType]?: number;
   };
