@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "crawltest": "npx ts-node src/crawler/pokemon.crawler.ts",
+    "calculate": "npx ts-node src/utils/calculateEffectiveness.ts",
     "lint": "eslint . --ext .ts",
     "format": "prettier --write ."
   },
