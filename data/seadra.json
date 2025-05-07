@@ -1,0 +1,44 @@
+{
+  "name": "Seadra",
+  "korName": "시드라",
+  "species": "드래곤포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/seadra.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "spAtk": 95,
+    "spDef": 45,
+    "speed": 85,
+    "total": 440
+  },
+  "evolutions": [
+    {
+      "name": "Horsea",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/horsea.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Seadra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/seadra.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(trade holding Dragon Scale)"
+    },
+    {
+      "name": "Kingdra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kingdra.jpg",
+      "types": [
+        "Water",
+        "Dragon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Cufant",
+  "korName": "끼리동",
+  "species": "동상포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cufant.avif",
+  "types": [
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 80,
+    "defense": 49,
+    "spAtk": 40,
+    "spDef": 49,
+    "speed": 40,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Cufant",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cufant.jpg",
+      "types": [
+        "Steel"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Copperajah",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/copperajah.jpg",
+      "types": [
+        "Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Persian",
+  "korName": "페르시온",
+  "species": "샴고양이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/persian.avif",
+  "types": [
+    "Normal",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "spAtk": 65,
+    "spDef": 65,
+    "speed": 115,
+    "total": 440
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Meowth",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowth.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Persian",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/persian.jpg",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowth",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowth-alolan.jpg",
+        "types": [
+          "Dark"
+        ]
+      },
+      {
+        "name": "Persian",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/persian-alolan.jpg",
+        "types": [
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowth",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowth-galarian.jpg",
+        "types": [
+          "Steel"
+        ]
+      },
+      {
+        "name": "Perrserker",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/perrserker.jpg",
+        "types": [
+          "Steel"
+        ]
+      }
+    ]
+  ]
+}

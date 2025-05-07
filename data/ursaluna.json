@@ -1,0 +1,47 @@
+{
+  "name": "Ursaluna",
+  "korName": "다투곰이탄포켓몬",
+  "species": "이탄포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ursaluna.avif",
+  "types": [
+    "Ground",
+    "Normal",
+    "Ground",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 130,
+    "attack": 140,
+    "defense": 105,
+    "spAtk": 45,
+    "spDef": 80,
+    "speed": 50,
+    "total": 550
+  },
+  "evolutions": [
+    {
+      "name": "Teddiursa",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/teddiursa.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Ursaring",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ursaring.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(use Peat Block, under a full moon, in Legends: Arceus)"
+    },
+    {
+      "name": "Ursaluna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ursaluna.jpg",
+      "types": [
+        "Ground",
+        "Normal"
+      ]
+    }
+  ]
+}

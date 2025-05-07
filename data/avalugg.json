@@ -1,0 +1,65 @@
+{
+  "name": "Avalugg",
+  "korName": "크레베이스",
+  "species": "빙산포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/avalugg.avif",
+  "types": [
+    "Ice",
+    "Ice",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 117,
+    "defense": 184,
+    "spAtk": 44,
+    "spDef": 46,
+    "speed": 28,
+    "total": 514
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Bergmite",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/bergmite.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Avalugg",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/avalugg.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Avalugg",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/avalugg-hisuian.jpg",
+        "types": [
+          "Ice",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Avalugg",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/avalugg.jpg",
+        "types": [
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Avalugg",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/avalugg-hisuian.jpg",
+        "types": [
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ]
+}

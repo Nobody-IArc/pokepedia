@@ -1,0 +1,46 @@
+{
+  "name": "Shiftry",
+  "korName": "다탱구",
+  "species": "부정하기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shiftry.avif",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "spAtk": 90,
+    "spDef": 60,
+    "speed": 80,
+    "total": 480
+  },
+  "evolutions": [
+    {
+      "name": "Seedot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/seedot.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 14)"
+    },
+    {
+      "name": "Nuzleaf",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nuzleaf.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "evolveMethod": "(use Leaf Stone)"
+    },
+    {
+      "name": "Shiftry",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shiftry.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ]
+    }
+  ]
+}

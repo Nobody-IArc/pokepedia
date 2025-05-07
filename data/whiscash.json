@@ -1,0 +1,38 @@
+{
+  "name": "Whiscash",
+  "korName": "메깅",
+  "species": "수염물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/whiscash.avif",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "spAtk": 76,
+    "spDef": 71,
+    "speed": 60,
+    "total": 468
+  },
+  "evolutions": [
+    {
+      "name": "Barboach",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/barboach.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Whiscash",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/whiscash.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ]
+    }
+  ]
+}

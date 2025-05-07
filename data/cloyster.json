@@ -1,0 +1,37 @@
+{
+  "name": "Cloyster",
+  "korName": "파르셀",
+  "species": "두조개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cloyster.avif",
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "spAtk": 85,
+    "spDef": 45,
+    "speed": 70,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Shellder",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shellder.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(use Water Stone)"
+    },
+    {
+      "name": "Cloyster",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cloyster.jpg",
+      "types": [
+        "Water",
+        "Ice"
+      ]
+    }
+  ]
+}

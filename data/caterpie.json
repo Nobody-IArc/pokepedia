@@ -1,0 +1,44 @@
+{
+  "name": "Caterpie",
+  "korName": "캐터피",
+  "species": "애벌레포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/caterpie.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "spAtk": 20,
+    "spDef": 20,
+    "speed": 45,
+    "total": 195
+  },
+  "evolutions": [
+    {
+      "name": "Caterpie",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/caterpie.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 7)"
+    },
+    {
+      "name": "Metapod",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/metapod.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 10)"
+    },
+    {
+      "name": "Butterfree",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/butterfree.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

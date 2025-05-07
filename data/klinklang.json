@@ -1,0 +1,43 @@
+{
+  "name": "Klinklang",
+  "korName": "기기기어르",
+  "species": "톱니바퀴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/klinklang.avif",
+  "types": [
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "spAtk": 70,
+    "spDef": 85,
+    "speed": 90,
+    "total": 520
+  },
+  "evolutions": [
+    {
+      "name": "Klink",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/klink.jpg",
+      "types": [
+        "Steel"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Klang",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/klang.jpg",
+      "types": [
+        "Steel"
+      ],
+      "evolveMethod": "(Level 49)"
+    },
+    {
+      "name": "Klinklang",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/klinklang.jpg",
+      "types": [
+        "Steel"
+      ]
+    }
+  ]
+}

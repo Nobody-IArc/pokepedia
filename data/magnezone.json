@@ -1,0 +1,47 @@
+{
+  "name": "Magnezone",
+  "korName": "자포코일",
+  "species": "자기장포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/magnezone.avif",
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "spAtk": 130,
+    "spDef": 90,
+    "speed": 60,
+    "total": 535
+  },
+  "evolutions": [
+    {
+      "name": "Magnemite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magnemite.jpg",
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Magneton",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magneton.jpg",
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "evolveMethod": "(use Thunder Stone, in Gen 8+, or level up in a Magnetic Field area)"
+    },
+    {
+      "name": "Magnezone",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magnezone.jpg",
+      "types": [
+        "Electric",
+        "Steel"
+      ]
+    }
+  ]
+}

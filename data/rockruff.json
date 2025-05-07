@@ -1,0 +1,78 @@
+{
+  "name": "Rockruff",
+  "korName": "암멍이",
+  "species": "강아지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rockruff.avif",
+  "types": [
+    "Rock",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "spAtk": 30,
+    "spDef": 40,
+    "speed": 60,
+    "total": 280
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Rockruff",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rockruff.jpg",
+        "types": [
+          "Rock"
+        ]
+      },
+      {
+        "name": "Lycanroc",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lycanroc-midday.jpg",
+        "types": [
+          "Rock"
+        ]
+      },
+      {
+        "name": "Lycanroc",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lycanroc-midnight.jpg",
+        "types": [
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Lycanroc",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lycanroc-midday.jpg",
+        "types": [
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Lycanroc",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lycanroc-midnight.jpg",
+        "types": [
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Rockruff",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rockruff-own-tempo.jpg",
+        "types": [
+          "Rock"
+        ]
+      },
+      {
+        "name": "Lycanroc",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lycanroc-dusk.jpg",
+        "types": [
+          "Rock"
+        ]
+      }
+    ]
+  ]
+}

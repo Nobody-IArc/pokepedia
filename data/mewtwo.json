@@ -1,0 +1,22 @@
+{
+  "name": "Mewtwo",
+  "korName": "뮤츠",
+  "species": "유전자포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mewtwo.avif",
+  "types": [
+    "Psychic",
+    "Psychic",
+    "Fighting",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "spAtk": 154,
+    "spDef": 90,
+    "speed": 130,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Pidgeotto",
+  "korName": "피죤",
+  "species": "새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pidgeotto.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 63,
+    "attack": 60,
+    "defense": 55,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 71,
+    "total": 349
+  },
+  "evolutions": [
+    {
+      "name": "Pidgey",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pidgey.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Pidgeotto",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pidgeotto.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Pidgeot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pidgeot.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

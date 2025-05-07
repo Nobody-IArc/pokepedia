@@ -1,0 +1,20 @@
+{
+  "name": "Celesteela",
+  "korName": "철화구야",
+  "species": "쏴올리기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/celesteela.avif",
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 97,
+    "attack": 101,
+    "defense": 103,
+    "spAtk": 107,
+    "spDef": 101,
+    "speed": 61,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

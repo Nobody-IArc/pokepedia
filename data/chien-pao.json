@@ -1,0 +1,20 @@
+{
+  "name": "Chien-Pao",
+  "korName": "파오젠재액포켓몬",
+  "species": "재액포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/chien-pao.avif",
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "spAtk": 90,
+    "spDef": 65,
+    "speed": 135,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

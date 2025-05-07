@@ -1,0 +1,45 @@
+{
+  "name": "Quaquaval",
+  "korName": "웨이니발댄서포켓몬",
+  "species": "댄서포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/quaquaval.avif",
+  "types": [
+    "Water",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 120,
+    "defense": 80,
+    "spAtk": 85,
+    "spDef": 75,
+    "speed": 85,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Quaxly",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxly.png",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Quaxwell",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxwell.png",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Quaquaval",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/quaquaval.png",
+      "types": [
+        "Water",
+        "Fighting"
+      ]
+    }
+  ]
+}

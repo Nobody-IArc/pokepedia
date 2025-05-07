@@ -1,0 +1,38 @@
+{
+  "name": "Toedscool",
+  "korName": "들눈해목이버섯포켓몬",
+  "species": "목이버섯포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/toedscool.avif",
+  "types": [
+    "Ground",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "spAtk": 50,
+    "spDef": 100,
+    "speed": 70,
+    "total": 335
+  },
+  "evolutions": [
+    {
+      "name": "Toedscool",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/toedscool.png",
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Toedscruel",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/toedscruel.png",
+      "types": [
+        "Ground",
+        "Grass"
+      ]
+    }
+  ]
+}

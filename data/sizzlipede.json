@@ -1,0 +1,38 @@
+{
+  "name": "Sizzlipede",
+  "korName": "태우지네",
+  "species": "발열포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sizzlipede.avif",
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 45,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Sizzlipede",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sizzlipede.jpg",
+      "types": [
+        "Fire",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 28)"
+    },
+    {
+      "name": "Centiskorch",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/centiskorch.jpg",
+      "types": [
+        "Fire",
+        "Bug"
+      ]
+    }
+  ]
+}

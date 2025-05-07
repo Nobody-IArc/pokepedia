@@ -1,0 +1,38 @@
+{
+  "name": "Tirtouga",
+  "korName": "프로토가",
+  "species": "옛날거북포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tirtouga.avif",
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 54,
+    "attack": 78,
+    "defense": 103,
+    "spAtk": 53,
+    "spDef": 45,
+    "speed": 22,
+    "total": 355
+  },
+  "evolutions": [
+    {
+      "name": "Tirtouga",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tirtouga.jpg",
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Carracosta",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/carracosta.jpg",
+      "types": [
+        "Water",
+        "Rock"
+      ]
+    }
+  ]
+}

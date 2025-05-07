@@ -1,0 +1,20 @@
+{
+  "name": "Nihilego",
+  "korName": "텅비드",
+  "species": "기생포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nihilego.avif",
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "spAtk": 127,
+    "spDef": 131,
+    "speed": 103,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

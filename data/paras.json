@@ -1,0 +1,38 @@
+{
+  "name": "Paras",
+  "korName": "파라스",
+  "species": "버섯포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/paras.avif",
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 70,
+    "defense": 55,
+    "spAtk": 45,
+    "spDef": 55,
+    "speed": 25,
+    "total": 285
+  },
+  "evolutions": [
+    {
+      "name": "Paras",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/paras.jpg",
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Parasect",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/parasect.jpg",
+      "types": [
+        "Bug",
+        "Grass"
+      ]
+    }
+  ]
+}

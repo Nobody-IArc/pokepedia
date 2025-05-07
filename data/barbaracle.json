@@ -1,0 +1,38 @@
+{
+  "name": "Barbaracle",
+  "korName": "거북손데스",
+  "species": "집합포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/barbaracle.avif",
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 105,
+    "defense": 115,
+    "spAtk": 54,
+    "spDef": 86,
+    "speed": 68,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Binacle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/binacle.jpg",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "evolveMethod": "(Level 39)"
+    },
+    {
+      "name": "Barbaracle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/barbaracle.jpg",
+      "types": [
+        "Rock",
+        "Water"
+      ]
+    }
+  ]
+}

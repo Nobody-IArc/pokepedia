@@ -1,0 +1,38 @@
+{
+  "name": "Duraludon",
+  "korName": "두랄루돈",
+  "species": "합금포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/duraludon.avif",
+  "types": [
+    "Steel",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 115,
+    "spAtk": 120,
+    "spDef": 50,
+    "speed": 85,
+    "total": 535
+  },
+  "evolutions": [
+    {
+      "name": "Duraludon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/duraludon.jpg",
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "evolveMethod": "(use Metal Alloy)"
+    },
+    {
+      "name": "Archaludon",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/archaludon.png",
+      "types": [
+        "Steel",
+        "Dragon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Perrserker",
+  "korName": "나이킹",
+  "species": "바이킹포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/perrserker.avif",
+  "types": [
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 100,
+    "spAtk": 50,
+    "spDef": 60,
+    "speed": 50,
+    "total": 440
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Meowth",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowth.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Persian",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/persian.jpg",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowth",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowth-alolan.jpg",
+        "types": [
+          "Dark"
+        ]
+      },
+      {
+        "name": "Persian",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/persian-alolan.jpg",
+        "types": [
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowth",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowth-galarian.jpg",
+        "types": [
+          "Steel"
+        ]
+      },
+      {
+        "name": "Perrserker",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/perrserker.jpg",
+        "types": [
+          "Steel"
+        ]
+      }
+    ]
+  ]
+}

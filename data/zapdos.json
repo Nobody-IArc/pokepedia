@@ -1,0 +1,22 @@
+{
+  "name": "Zapdos",
+  "korName": "썬더",
+  "species": "전기포켓몬건각포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/zapdos.avif",
+  "types": [
+    "Electric",
+    "Flying",
+    "Fighting",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "spAtk": 125,
+    "spDef": 90,
+    "speed": 100,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

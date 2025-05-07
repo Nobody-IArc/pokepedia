@@ -1,0 +1,38 @@
+{
+  "name": "Helioptile",
+  "korName": "목도리키텔",
+  "species": "발전포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/helioptile.avif",
+  "types": [
+    "Electric",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "spAtk": 61,
+    "spDef": 43,
+    "speed": 70,
+    "total": 289
+  },
+  "evolutions": [
+    {
+      "name": "Helioptile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/helioptile.jpg",
+      "types": [
+        "Electric",
+        "Normal"
+      ],
+      "evolveMethod": "(use Sun Stone)"
+    },
+    {
+      "name": "Heliolisk",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/heliolisk.jpg",
+      "types": [
+        "Electric",
+        "Normal"
+      ]
+    }
+  ]
+}

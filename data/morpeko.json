@@ -1,0 +1,22 @@
+{
+  "name": "Morpeko",
+  "korName": "모르페코",
+  "species": "양면포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/morpeko-full-belly.avif",
+  "types": [
+    "Electric",
+    "Dark",
+    "Electric",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 58,
+    "spAtk": 70,
+    "spDef": 58,
+    "speed": 97,
+    "total": 436
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

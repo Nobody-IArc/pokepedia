@@ -1,0 +1,35 @@
+{
+  "name": "Barraskewda",
+  "korName": "꼬치조",
+  "species": "꼬치포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/barraskewda.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 61,
+    "attack": 123,
+    "defense": 60,
+    "spAtk": 60,
+    "spDef": 50,
+    "speed": 136,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Arrokuda",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/arrokuda.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Barraskewda",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/barraskewda.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

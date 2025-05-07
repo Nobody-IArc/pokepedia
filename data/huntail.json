@@ -1,0 +1,61 @@
+{
+  "name": "Huntail",
+  "korName": "헌테일",
+  "species": "깊은바다포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/huntail.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "spAtk": 94,
+    "spDef": 75,
+    "speed": 52,
+    "total": 485
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Clamperl",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/clamperl.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Huntail",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Gorebyss",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Huntail",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Gorebyss",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ]
+  ]
+}

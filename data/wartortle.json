@@ -1,0 +1,43 @@
+{
+  "name": "Wartortle",
+  "korName": "어니부기",
+  "species": "거북포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wartortle.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "spAtk": 65,
+    "spDef": 80,
+    "speed": 58,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Squirtle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/squirtle.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Wartortle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wartortle.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Blastoise",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blastoise.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

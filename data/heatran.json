@@ -1,0 +1,20 @@
+{
+  "name": "Heatran",
+  "korName": "히드런",
+  "species": "화구포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/heatran.avif",
+  "types": [
+    "Fire",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "spAtk": 130,
+    "spDef": 106,
+    "speed": 77,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

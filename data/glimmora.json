@@ -1,0 +1,38 @@
+{
+  "name": "Glimmora",
+  "korName": "킬라플로르광석포켓몬",
+  "species": "광석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/glimmora.avif",
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 83,
+    "attack": 55,
+    "defense": 90,
+    "spAtk": 130,
+    "spDef": 81,
+    "speed": 86,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Glimmet",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/glimmet.png",
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Glimmora",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/glimmora.png",
+      "types": [
+        "Rock",
+        "Poison"
+      ]
+    }
+  ]
+}

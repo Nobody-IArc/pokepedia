@@ -1,0 +1,19 @@
+{
+  "name": "Cryogonal",
+  "korName": "프리지오",
+  "species": "결정포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cryogonal.avif",
+  "types": [
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 50,
+    "spAtk": 95,
+    "spDef": 135,
+    "speed": 105,
+    "total": 515
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

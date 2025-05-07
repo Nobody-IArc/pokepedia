@@ -1,0 +1,38 @@
+{
+  "name": "Inkay",
+  "korName": "오케이징",
+  "species": "회전포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/inkay.avif",
+  "types": [
+    "Dark",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 53,
+    "attack": 54,
+    "defense": 53,
+    "spAtk": 37,
+    "spDef": 46,
+    "speed": 45,
+    "total": 288
+  },
+  "evolutions": [
+    {
+      "name": "Inkay",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/inkay.jpg",
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 30, holding console upside down)"
+    },
+    {
+      "name": "Malamar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/malamar.jpg",
+      "types": [
+        "Dark",
+        "Psychic"
+      ]
+    }
+  ]
+}

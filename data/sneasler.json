@@ -1,0 +1,57 @@
+{
+  "name": "Sneasler",
+  "korName": "포푸니크클라이밍포켓몬",
+  "species": "클라이밍포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sneasler.avif",
+  "types": [
+    "Fighting",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 130,
+    "defense": 60,
+    "spAtk": 40,
+    "spDef": 80,
+    "speed": 120,
+    "total": 510
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Sneasel",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sneasel.jpg",
+        "types": [
+          "Dark",
+          "Ice"
+        ]
+      },
+      {
+        "name": "Weavile",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/weavile.jpg",
+        "types": [
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Sneasel",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sneasel-hisuian.jpg",
+        "types": [
+          "Fighting",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Sneasler",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sneasler.jpg",
+        "types": [
+          "Fighting",
+          "Poison"
+        ]
+      }
+    ]
+  ]
+}

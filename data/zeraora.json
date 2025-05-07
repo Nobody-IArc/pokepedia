@@ -1,0 +1,19 @@
+{
+  "name": "Zeraora",
+  "korName": "제라오라",
+  "species": "신뢰포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/zeraora.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "spAtk": 102,
+    "spDef": 80,
+    "speed": 143,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

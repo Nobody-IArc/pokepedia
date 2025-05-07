@@ -1,0 +1,38 @@
+{
+  "name": "Numel",
+  "korName": "둔타",
+  "species": "둔감포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/numel.avif",
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "spAtk": 65,
+    "spDef": 45,
+    "speed": 35,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Numel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/numel.jpg",
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/camerupt.jpg",
+      "types": [
+        "Fire",
+        "Ground"
+      ]
+    }
+  ]
+}

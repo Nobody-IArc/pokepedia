@@ -1,0 +1,38 @@
+{
+  "name": "Centiskorch",
+  "korName": "다태우지네",
+  "species": "발열포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/centiskorch.avif",
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 115,
+    "defense": 65,
+    "spAtk": 90,
+    "spDef": 90,
+    "speed": 65,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Sizzlipede",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sizzlipede.jpg",
+      "types": [
+        "Fire",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 28)"
+    },
+    {
+      "name": "Centiskorch",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/centiskorch.jpg",
+      "types": [
+        "Fire",
+        "Bug"
+      ]
+    }
+  ]
+}

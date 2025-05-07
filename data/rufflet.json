@@ -1,0 +1,67 @@
+{
+  "name": "Rufflet",
+  "korName": "수리둥보",
+  "species": "새끼독수리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rufflet.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 83,
+    "defense": 50,
+    "spAtk": 37,
+    "spDef": 50,
+    "speed": 60,
+    "total": 350
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Rufflet",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rufflet.jpg",
+        "types": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary.jpg",
+        "types": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary-hisuian.jpg",
+        "types": [
+          "Psychic",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary.jpg",
+        "types": [
+          "Normal",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary-hisuian.jpg",
+        "types": [
+          "Psychic",
+          "Flying"
+        ]
+      }
+    ]
+  ]
+}

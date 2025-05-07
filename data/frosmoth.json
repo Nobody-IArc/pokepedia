@@ -1,0 +1,38 @@
+{
+  "name": "Frosmoth",
+  "korName": "모스노우",
+  "species": "얼음나방포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/frosmoth.avif",
+  "types": [
+    "Ice",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "spAtk": 125,
+    "spDef": 90,
+    "speed": 65,
+    "total": 475
+  },
+  "evolutions": [
+    {
+      "name": "Snom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/snom.jpg",
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "evolveMethod": "(high Friendship, Nighttime)"
+    },
+    {
+      "name": "Frosmoth",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/frosmoth.jpg",
+      "types": [
+        "Ice",
+        "Bug"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Seviper",
+  "korName": "세비퍼",
+  "species": "송곳뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/seviper.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "spAtk": 100,
+    "spDef": 60,
+    "speed": 65,
+    "total": 458
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

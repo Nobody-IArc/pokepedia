@@ -1,0 +1,22 @@
+{
+  "name": "Sableye",
+  "korName": "깜까미",
+  "species": "어둠포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sableye.avif",
+  "types": [
+    "Dark",
+    "Ghost",
+    "Dark",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "spAtk": 65,
+    "spDef": 65,
+    "speed": 50,
+    "total": 380
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

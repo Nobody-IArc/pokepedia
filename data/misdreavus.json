@@ -1,0 +1,35 @@
+{
+  "name": "Misdreavus",
+  "korName": "무우마",
+  "species": "야명포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/misdreavus.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "spAtk": 85,
+    "spDef": 85,
+    "speed": 85,
+    "total": 435
+  },
+  "evolutions": [
+    {
+      "name": "Misdreavus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/misdreavus.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(use Dusk Stone)"
+    },
+    {
+      "name": "Mismagius",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mismagius.jpg",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

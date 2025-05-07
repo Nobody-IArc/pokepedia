@@ -1,0 +1,19 @@
+{
+  "name": "Xurkitree",
+  "korName": "전수목",
+  "species": "전기장식포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/xurkitree.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "spAtk": 173,
+    "spDef": 71,
+    "speed": 83,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Tyranitar",
+  "korName": "마기라스",
+  "species": "갑옷포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tyranitar.avif",
+  "types": [
+    "Rock",
+    "Dark",
+    "Rock",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "spAtk": 95,
+    "spDef": 100,
+    "speed": 61,
+    "total": 600
+  },
+  "evolutions": [
+    {
+      "name": "Larvitar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/larvitar.jpg",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Pupitar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pupitar.jpg",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 55)"
+    },
+    {
+      "name": "Tyranitar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tyranitar.jpg",
+      "types": [
+        "Rock",
+        "Dark"
+      ]
+    }
+  ]
+}

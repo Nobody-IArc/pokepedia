@@ -1,0 +1,38 @@
+{
+  "name": "Ferroseed",
+  "korName": "철시드",
+  "species": "가시열매포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ferroseed.avif",
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 44,
+    "attack": 50,
+    "defense": 91,
+    "spAtk": 24,
+    "spDef": 86,
+    "speed": 10,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Ferroseed",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ferroseed.jpg",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Ferrothorn",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ferrothorn.jpg",
+      "types": [
+        "Grass",
+        "Steel"
+      ]
+    }
+  ]
+}

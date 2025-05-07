@@ -1,0 +1,43 @@
+{
+  "name": "Cinderace",
+  "korName": "에이스번",
+  "species": "스트라이커포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cinderace.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 116,
+    "defense": 75,
+    "spAtk": 65,
+    "spDef": 75,
+    "speed": 119,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Scorbunny",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/scorbunny.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Raboot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/raboot.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Cinderace",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cinderace.jpg",
+      "types": [
+        "Fire"
+      ]
+    }
+  ]
+}

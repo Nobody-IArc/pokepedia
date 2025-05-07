@@ -1,0 +1,38 @@
+{
+  "name": "Cradily",
+  "korName": "릴리요",
+  "species": "바위단지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cradily.avif",
+  "types": [
+    "Rock",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "spAtk": 81,
+    "spDef": 107,
+    "speed": 43,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Lileep",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lileep.jpg",
+      "types": [
+        "Rock",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Cradily",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cradily.jpg",
+      "types": [
+        "Rock",
+        "Grass"
+      ]
+    }
+  ]
+}

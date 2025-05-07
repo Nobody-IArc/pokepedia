@@ -1,0 +1,35 @@
+{
+  "name": "Alcremie",
+  "korName": "마휘핑",
+  "species": "크림포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/alcremie.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "spAtk": 110,
+    "spDef": 121,
+    "speed": 64,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Milcery",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/milcery.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(spin around holding Sweet)"
+    },
+    {
+      "name": "Alcremie",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/alcremie.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

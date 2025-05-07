@@ -1,0 +1,38 @@
+{
+  "name": "Girafarig",
+  "korName": "키링키",
+  "species": "긴목포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/girafarig.avif",
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "spAtk": 90,
+    "spDef": 65,
+    "speed": 85,
+    "total": 455
+  },
+  "evolutions": [
+    {
+      "name": "Girafarig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/girafarig.jpg",
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "evolveMethod": "(after Twin Beam learned)"
+    },
+    {
+      "name": "Farigiraf",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/farigiraf.png",
+      "types": [
+        "Normal",
+        "Psychic"
+      ]
+    }
+  ]
+}

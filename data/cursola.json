@@ -1,0 +1,35 @@
+{
+  "name": "Cursola",
+  "korName": "산호르곤",
+  "species": "산호포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cursola.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 50,
+    "spAtk": 145,
+    "spDef": 130,
+    "speed": 30,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Corsola",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/corsola-galarian.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Cursola",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cursola.jpg",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

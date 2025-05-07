@@ -1,0 +1,38 @@
+{
+  "name": "Woobat",
+  "korName": "또르박쥐",
+  "species": "박쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/woobat.avif",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 43,
+    "spAtk": 55,
+    "spDef": 43,
+    "speed": 72,
+    "total": 323
+  },
+  "evolutions": [
+    {
+      "name": "Woobat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/woobat.jpg",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swoobat.jpg",
+      "types": [
+        "Psychic",
+        "Flying"
+      ]
+    }
+  ]
+}

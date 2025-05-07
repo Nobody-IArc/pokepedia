@@ -1,0 +1,20 @@
+{
+  "name": "Arctovish",
+  "korName": "어치르돈",
+  "species": "화석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arctovish.avif",
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "spAtk": 80,
+    "spDef": 90,
+    "speed": 55,
+    "total": 505
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

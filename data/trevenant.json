@@ -1,0 +1,38 @@
+{
+  "name": "Trevenant",
+  "korName": "대로트",
+  "species": "고목포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/trevenant.avif",
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 76,
+    "spAtk": 65,
+    "spDef": 82,
+    "speed": 56,
+    "total": 474
+  },
+  "evolutions": [
+    {
+      "name": "Phantump",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/phantump.jpg",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Trevenant",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trevenant.jpg",
+      "types": [
+        "Ghost",
+        "Grass"
+      ]
+    }
+  ]
+}

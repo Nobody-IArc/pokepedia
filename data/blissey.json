@@ -1,0 +1,43 @@
+{
+  "name": "Blissey",
+  "korName": "해피너스",
+  "species": "행복포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/blissey.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "spAtk": 75,
+    "spDef": 135,
+    "speed": 55,
+    "total": 540
+  },
+  "evolutions": [
+    {
+      "name": "Happiny",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/happiny.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(hold Oval Stone, Daytime)"
+    },
+    {
+      "name": "Chansey",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chansey.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Blissey",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blissey.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

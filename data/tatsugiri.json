@@ -1,0 +1,24 @@
+{
+  "name": "Tatsugiri",
+  "korName": "싸리용의태포켓몬",
+  "species": "의태포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tatsugiri-curly.avif",
+  "types": [
+    "Dragon",
+    "Water",
+    "Dragon",
+    "Water",
+    "Dragon",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 50,
+    "defense": 60,
+    "spAtk": 120,
+    "spDef": 95,
+    "speed": 82,
+    "total": 475
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

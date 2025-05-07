@@ -1,0 +1,35 @@
+{
+  "name": "Feebas",
+  "korName": "빈티나",
+  "species": "물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/feebas.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "spAtk": 10,
+    "spDef": 55,
+    "speed": 80,
+    "total": 200
+  },
+  "evolutions": [
+    {
+      "name": "Feebas",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/feebas.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(trade holding Prism Scale, or level up with max Beauty)"
+    },
+    {
+      "name": "Milotic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/milotic.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

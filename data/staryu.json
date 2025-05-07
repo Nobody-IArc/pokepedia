@@ -1,0 +1,36 @@
+{
+  "name": "Staryu",
+  "korName": "별가사리",
+  "species": "별포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/staryu.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "spAtk": 70,
+    "spDef": 55,
+    "speed": 85,
+    "total": 340
+  },
+  "evolutions": [
+    {
+      "name": "Staryu",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/staryu.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(use Water Stone)"
+    },
+    {
+      "name": "Starmie",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/starmie.jpg",
+      "types": [
+        "Water",
+        "Psychic"
+      ]
+    }
+  ]
+}

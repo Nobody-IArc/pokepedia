@@ -1,0 +1,20 @@
+{
+  "name": "Pheromosa",
+  "korName": "페로코체",
+  "species": "염미포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pheromosa.avif",
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 71,
+    "attack": 137,
+    "defense": 37,
+    "spAtk": 137,
+    "spDef": 37,
+    "speed": 151,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

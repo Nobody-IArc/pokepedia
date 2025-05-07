@@ -1,0 +1,44 @@
+{
+  "name": "Frogadier",
+  "korName": "개굴반장",
+  "species": "거품개구리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/frogadier.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 54,
+    "attack": 63,
+    "defense": 52,
+    "spAtk": 83,
+    "spDef": 56,
+    "speed": 97,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Froakie",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/froakie.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Frogadier",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/frogadier.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Greninja",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/greninja.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ]
+    }
+  ]
+}

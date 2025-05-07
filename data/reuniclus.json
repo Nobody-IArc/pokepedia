@@ -1,0 +1,43 @@
+{
+  "name": "Reuniclus",
+  "korName": "란쿨루스",
+  "species": "증폭포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/reuniclus.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 65,
+    "defense": 75,
+    "spAtk": 125,
+    "spDef": 85,
+    "speed": 30,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Solosis",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/solosis.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Duosion",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/duosion.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 41)"
+    },
+    {
+      "name": "Reuniclus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/reuniclus.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

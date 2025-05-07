@@ -1,0 +1,45 @@
+{
+  "name": "Rolycoly",
+  "korName": "탄동",
+  "species": "석탄포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rolycoly.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 30,
+    "total": 240
+  },
+  "evolutions": [
+    {
+      "name": "Rolycoly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rolycoly.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Carkol",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/carkol.jpg",
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Coalossal",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/coalossal.jpg",
+      "types": [
+        "Rock",
+        "Fire"
+      ]
+    }
+  ]
+}

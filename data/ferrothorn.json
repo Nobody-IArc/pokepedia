@@ -1,0 +1,38 @@
+{
+  "name": "Ferrothorn",
+  "korName": "너트령",
+  "species": "가시공포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ferrothorn.avif",
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 74,
+    "attack": 94,
+    "defense": 131,
+    "spAtk": 54,
+    "spDef": 116,
+    "speed": 20,
+    "total": 489
+  },
+  "evolutions": [
+    {
+      "name": "Ferroseed",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ferroseed.jpg",
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Ferrothorn",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ferrothorn.jpg",
+      "types": [
+        "Grass",
+        "Steel"
+      ]
+    }
+  ]
+}

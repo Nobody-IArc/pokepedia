@@ -1,0 +1,35 @@
+{
+  "name": "Dachsbun",
+  "korName": "바우첼개포켓몬",
+  "species": "개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dachsbun.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 115,
+    "spAtk": 50,
+    "spDef": 80,
+    "speed": 95,
+    "total": 477
+  },
+  "evolutions": [
+    {
+      "name": "Fidough",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/fidough.png",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dachsbun.png",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

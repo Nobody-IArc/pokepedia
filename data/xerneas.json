@@ -1,0 +1,19 @@
+{
+  "name": "Xerneas",
+  "korName": "제르네아스",
+  "species": "생명포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/xerneas.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "spAtk": 131,
+    "spDef": 98,
+    "speed": 99,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

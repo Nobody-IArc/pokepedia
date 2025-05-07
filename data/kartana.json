@@ -1,0 +1,20 @@
+{
+  "name": "Kartana",
+  "korName": "종이신도",
+  "species": "발도포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kartana.avif",
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "spAtk": 59,
+    "spDef": 31,
+    "speed": 109,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

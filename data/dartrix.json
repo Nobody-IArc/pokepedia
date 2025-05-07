@@ -1,0 +1,75 @@
+{
+  "name": "Dartrix",
+  "korName": "빼미스로우",
+  "species": "칼날깃포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dartrix.avif",
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 75,
+    "defense": 75,
+    "spAtk": 70,
+    "spDef": 70,
+    "speed": 52,
+    "total": 420
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Rowlet",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rowlet.jpg",
+        "types": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Dartrix",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dartrix.jpg",
+        "types": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Decidueye",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/decidueye.jpg",
+        "types": [
+          "Grass",
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Decidueye",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/decidueye-hisuian.jpg",
+        "types": [
+          "Grass",
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Decidueye",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/decidueye.jpg",
+        "types": [
+          "Grass",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Decidueye",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/decidueye-hisuian.jpg",
+        "types": [
+          "Grass",
+          "Fighting"
+        ]
+      }
+    ]
+  ]
+}

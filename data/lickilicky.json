@@ -1,0 +1,35 @@
+{
+  "name": "Lickilicky",
+  "korName": "내룸벨트",
+  "species": "핥기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lickilicky.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "spAtk": 80,
+    "spDef": 95,
+    "speed": 50,
+    "total": 515
+  },
+  "evolutions": [
+    {
+      "name": "Lickitung",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lickitung.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(after Rollout learned)"
+    },
+    {
+      "name": "Lickilicky",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lickilicky.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

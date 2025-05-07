@@ -1,0 +1,19 @@
+{
+  "name": "Iron Bundle",
+  "korName": "무쇠보따리패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Ice",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 56,
+    "attack": 80,
+    "defense": 114,
+    "spAtk": 124,
+    "spDef": 60,
+    "speed": 136,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

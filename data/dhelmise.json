@@ -1,0 +1,20 @@
+{
+  "name": "Dhelmise",
+  "korName": "타타륜",
+  "species": "해초조각포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dhelmise.avif",
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 131,
+    "defense": 100,
+    "spAtk": 86,
+    "spDef": 90,
+    "speed": 40,
+    "total": 517
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

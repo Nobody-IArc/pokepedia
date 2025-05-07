@@ -1,0 +1,20 @@
+{
+  "name": "Stakataka",
+  "korName": "차곡차곡",
+  "species": "돌담포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/stakataka.avif",
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 61,
+    "attack": 131,
+    "defense": 211,
+    "spAtk": 53,
+    "spDef": 101,
+    "speed": 13,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

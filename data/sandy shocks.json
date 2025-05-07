@@ -1,0 +1,19 @@
+{
+  "name": "Sandy Shocks",
+  "korName": "모래털가죽패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Electric",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 81,
+    "defense": 97,
+    "spAtk": 121,
+    "spDef": 85,
+    "speed": 101,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

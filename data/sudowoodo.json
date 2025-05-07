@@ -1,0 +1,35 @@
+{
+  "name": "Sudowoodo",
+  "korName": "꼬지모",
+  "species": "흉내포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sudowoodo.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "spAtk": 30,
+    "spDef": 65,
+    "speed": 30,
+    "total": 410
+  },
+  "evolutions": [
+    {
+      "name": "Bonsly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bonsly.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(after Mimic learned)"
+    },
+    {
+      "name": "Sudowoodo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sudowoodo.jpg",
+      "types": [
+        "Rock"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Shuckle",
+  "korName": "단단지",
+  "species": "발효포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shuckle.avif",
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "spAtk": 10,
+    "spDef": 230,
+    "speed": 5,
+    "total": 505
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

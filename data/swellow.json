@@ -1,0 +1,38 @@
+{
+  "name": "Swellow",
+  "korName": "스왈로",
+  "species": "제비포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swellow.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "spAtk": 75,
+    "spDef": 50,
+    "speed": 125,
+    "total": 455
+  },
+  "evolutions": [
+    {
+      "name": "Taillow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/taillow.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Swellow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swellow.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

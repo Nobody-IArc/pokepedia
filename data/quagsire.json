@@ -1,0 +1,57 @@
+{
+  "name": "Quagsire",
+  "korName": "누오",
+  "species": "수어포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/quagsire.avif",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "spAtk": 65,
+    "spDef": 65,
+    "speed": 35,
+    "total": 430
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Wooper",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/wooper.jpg",
+        "types": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Quagsire",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/quagsire.jpg",
+        "types": [
+          "Water",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Wooper",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/wooper-paldean.png",
+        "types": [
+          "Poison",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Clodsire",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/clodsire.png",
+        "types": [
+          "Poison",
+          "Ground"
+        ]
+      }
+    ]
+  ]
+}

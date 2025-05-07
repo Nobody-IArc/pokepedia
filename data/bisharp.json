@@ -1,0 +1,47 @@
+{
+  "name": "Bisharp",
+  "korName": "절각참",
+  "species": "도인포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bisharp.avif",
+  "types": [
+    "Dark",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "spAtk": 60,
+    "spDef": 70,
+    "speed": 70,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Pawniard",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pawniard.jpg",
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "evolveMethod": "(Level 52)"
+    },
+    {
+      "name": "Bisharp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bisharp.jpg",
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "evolveMethod": "(defeat 3 Bisharp that are holding Leader's Crest)"
+    },
+    {
+      "name": "Kingambit",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png",
+      "types": [
+        "Dark",
+        "Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Cacnea",
+  "korName": "선인왕",
+  "species": "선인장포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cacnea.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "spAtk": 85,
+    "spDef": 40,
+    "speed": 35,
+    "total": 335
+  },
+  "evolutions": [
+    {
+      "name": "Cacnea",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cacnea.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Cacturne",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cacturne.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ]
+    }
+  ]
+}

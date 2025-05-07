@@ -1,0 +1,44 @@
+{
+  "name": "Torracat",
+  "korName": "냐오히트",
+  "species": "불고양이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/torracat.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 50,
+    "spAtk": 80,
+    "spDef": 50,
+    "speed": 90,
+    "total": 420
+  },
+  "evolutions": [
+    {
+      "name": "Litten",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/litten.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Torracat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torracat.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Incineroar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/incineroar.jpg",
+      "types": [
+        "Fire",
+        "Dark"
+      ]
+    }
+  ]
+}

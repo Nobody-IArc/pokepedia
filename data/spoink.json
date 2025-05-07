@@ -1,0 +1,35 @@
+{
+  "name": "Spoink",
+  "korName": "피그점프",
+  "species": "바운스포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spoink.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "spAtk": 70,
+    "spDef": 80,
+    "speed": 60,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Spoink",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spoink.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Grumpig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grumpig.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

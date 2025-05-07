@@ -1,0 +1,36 @@
+{
+  "name": "Magikarp",
+  "korName": "잉어킹",
+  "species": "물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/magikarp.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "spAtk": 15,
+    "spDef": 20,
+    "speed": 80,
+    "total": 200
+  },
+  "evolutions": [
+    {
+      "name": "Magikarp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magikarp.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Gyarados",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gyarados.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ]
+    }
+  ]
+}

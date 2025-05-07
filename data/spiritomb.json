@@ -1,0 +1,20 @@
+{
+  "name": "Spiritomb",
+  "korName": "화강돌",
+  "species": "봉인포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spiritomb.avif",
+  "types": [
+    "Ghost",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "spAtk": 92,
+    "spDef": 108,
+    "speed": 35,
+    "total": 485
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

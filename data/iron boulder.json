@@ -1,0 +1,19 @@
+{
+  "name": "Iron Boulder",
+  "korName": "",
+  "species": "",
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 80,
+    "spAtk": 68,
+    "spDef": 108,
+    "speed": 124,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

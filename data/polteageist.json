@@ -1,0 +1,35 @@
+{
+  "name": "Polteageist",
+  "korName": "포트데스",
+  "species": "홍차포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/polteageist.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 65,
+    "spAtk": 134,
+    "spDef": 114,
+    "speed": 70,
+    "total": 508
+  },
+  "evolutions": [
+    {
+      "name": "Sinistea",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sinistea.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(use Cracked Pot)"
+    },
+    {
+      "name": "Polteageist",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/polteageist.jpg",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

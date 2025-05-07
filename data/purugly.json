@@ -1,0 +1,35 @@
+{
+  "name": "Purugly",
+  "korName": "몬냥이",
+  "species": "얼룩고양이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/purugly.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 71,
+    "attack": 82,
+    "defense": 64,
+    "spAtk": 64,
+    "spDef": 59,
+    "speed": 112,
+    "total": 452
+  },
+  "evolutions": [
+    {
+      "name": "Glameow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/glameow.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Purugly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/purugly.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Dolliv",
+  "korName": "올리뇨올리브포켓몬",
+  "species": "올리브포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dolliv.avif",
+  "types": [
+    "Grass",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 52,
+    "attack": 53,
+    "defense": 60,
+    "spAtk": 78,
+    "spDef": 78,
+    "speed": 33,
+    "total": 354
+  },
+  "evolutions": [
+    {
+      "name": "Smoliv",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/smoliv.png",
+      "types": [
+        "Grass",
+        "Normal"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Dolliv",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dolliv.png",
+      "types": [
+        "Grass",
+        "Normal"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Arboliva",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/arboliva.png",
+      "types": [
+        "Grass",
+        "Normal"
+      ]
+    }
+  ]
+}

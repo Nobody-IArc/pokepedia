@@ -1,0 +1,36 @@
+{
+  "name": "Bidoof",
+  "korName": "비버니",
+  "species": "둥글쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bidoof.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "spAtk": 35,
+    "spDef": 40,
+    "speed": 31,
+    "total": 250
+  },
+  "evolutions": [
+    {
+      "name": "Bidoof",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bidoof.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Bibarel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bibarel.jpg",
+      "types": [
+        "Normal",
+        "Water"
+      ]
+    }
+  ]
+}

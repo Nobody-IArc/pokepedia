@@ -1,0 +1,63 @@
+{
+  "name": "Cubone",
+  "korName": "탕구리",
+  "species": "고독포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cubone.avif",
+  "types": [
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 35,
+    "total": 320
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Cubone",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cubone.jpg",
+        "types": [
+          "Ground"
+        ]
+      },
+      {
+        "name": "Marowak",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/marowak.jpg",
+        "types": [
+          "Ground"
+        ]
+      },
+      {
+        "name": "Marowak",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/marowak-alolan.jpg",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Marowak",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/marowak.jpg",
+        "types": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Marowak",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/marowak-alolan.jpg",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

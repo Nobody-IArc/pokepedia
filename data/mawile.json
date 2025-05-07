@@ -1,0 +1,22 @@
+{
+  "name": "Mawile",
+  "korName": "입치트",
+  "species": "배반포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mawile.avif",
+  "types": [
+    "Steel",
+    "Fairy",
+    "Steel",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 50,
+    "total": 380
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

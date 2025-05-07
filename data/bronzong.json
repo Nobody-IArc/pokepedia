@@ -1,0 +1,38 @@
+{
+  "name": "Bronzong",
+  "korName": "동탁군",
+  "species": "동탁포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bronzong.avif",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "spAtk": 79,
+    "spDef": 116,
+    "speed": 33,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Bronzor",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bronzor.jpg",
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Bronzong",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bronzong.jpg",
+      "types": [
+        "Steel",
+        "Psychic"
+      ]
+    }
+  ]
+}

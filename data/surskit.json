@@ -1,0 +1,38 @@
+{
+  "name": "Surskit",
+  "korName": "비구술",
+  "species": "소금쟁이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/surskit.avif",
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "spAtk": 50,
+    "spDef": 52,
+    "speed": 65,
+    "total": 269
+  },
+  "evolutions": [
+    {
+      "name": "Surskit",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/surskit.jpg",
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Masquerain",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/masquerain.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

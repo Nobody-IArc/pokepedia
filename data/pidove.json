@@ -1,0 +1,47 @@
+{
+  "name": "Pidove",
+  "korName": "콩둘기",
+  "species": "아기비둘기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pidove.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "spAtk": 36,
+    "spDef": 30,
+    "speed": 43,
+    "total": 264
+  },
+  "evolutions": [
+    {
+      "name": "Pidove",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pidove.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 21)"
+    },
+    {
+      "name": "Tranquill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tranquill.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Unfezant",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/unfezant.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

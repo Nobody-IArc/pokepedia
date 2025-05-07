@@ -1,0 +1,19 @@
+{
+  "name": "Great Tusk",
+  "korName": "위대한엄니패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Ground",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 131,
+    "defense": 131,
+    "spAtk": 53,
+    "spDef": 53,
+    "speed": 87,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

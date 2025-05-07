@@ -1,0 +1,19 @@
+{
+  "name": "Regidrago",
+  "korName": "레지드래고",
+  "species": "용옥포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/regidrago.avif",
+  "types": [
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 200,
+    "attack": 100,
+    "defense": 50,
+    "spAtk": 100,
+    "spDef": 50,
+    "speed": 80,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

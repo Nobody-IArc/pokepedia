@@ -1,0 +1,56 @@
+{
+  "name": "Voltorb",
+  "korName": "찌리리공",
+  "species": "볼포켓몬구체포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/voltorb.avif",
+  "types": [
+    "Electric",
+    "Electric",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 100,
+    "total": 330
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Voltorb",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/voltorb.jpg",
+        "types": [
+          "Electric"
+        ]
+      },
+      {
+        "name": "Electrode",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/electrode.jpg",
+        "types": [
+          "Electric"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Voltorb",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/voltorb-hisuian.jpg",
+        "types": [
+          "Electric",
+          "Grass"
+        ]
+      },
+      {
+        "name": "Electrode",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/electrode-hisuian.jpg",
+        "types": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ]
+}

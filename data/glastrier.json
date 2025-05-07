@@ -1,0 +1,19 @@
+{
+  "name": "Glastrier",
+  "korName": "블리자포스",
+  "species": "사나운말포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/glastrier.avif",
+  "types": [
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 145,
+    "defense": 130,
+    "spAtk": 65,
+    "spDef": 110,
+    "speed": 30,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

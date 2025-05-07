@@ -1,0 +1,38 @@
+{
+  "name": "Masquerain",
+  "korName": "비나방",
+  "species": "안구포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/masquerain.avif",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "spAtk": 100,
+    "spDef": 82,
+    "speed": 80,
+    "total": 454
+  },
+  "evolutions": [
+    {
+      "name": "Surskit",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/surskit.jpg",
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Masquerain",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/masquerain.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

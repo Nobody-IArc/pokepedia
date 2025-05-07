@@ -1,0 +1,38 @@
+{
+  "name": "Skorupi",
+  "korName": "스콜피",
+  "species": "전갈포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/skorupi.avif",
+  "types": [
+    "Poison",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 90,
+    "spAtk": 30,
+    "spDef": 55,
+    "speed": 65,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Skorupi",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/skorupi.jpg",
+      "types": [
+        "Poison",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Drapion",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drapion.jpg",
+      "types": [
+        "Poison",
+        "Dark"
+      ]
+    }
+  ]
+}

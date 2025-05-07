@@ -1,0 +1,44 @@
+{
+  "name": "Pumpkaboo",
+  "korName": "호바귀",
+  "species": "호박포켓몬",
+  "imageUrl": "https://img.pokemondb.net/sprites/home/normal/2x/avif/pumpkaboo-average.avif",
+  "types": [
+    "Ghost",
+    "Grass",
+    "Ghost",
+    "Grass",
+    "Ghost",
+    "Grass",
+    "Ghost",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 49,
+    "attack": 66,
+    "defense": 70,
+    "spAtk": 44,
+    "spDef": 55,
+    "speed": 51,
+    "total": 335
+  },
+  "evolutions": [
+    {
+      "name": "Pumpkaboo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pumpkaboo-average.jpg",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Gourgeist",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gourgeist-average.jpg",
+      "types": [
+        "Ghost",
+        "Grass"
+      ]
+    }
+  ]
+}

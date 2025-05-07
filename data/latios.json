@@ -1,0 +1,22 @@
+{
+  "name": "Latios",
+  "korName": "라티오스",
+  "species": "무한포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/latios.avif",
+  "types": [
+    "Dragon",
+    "Psychic",
+    "Dragon",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 90,
+    "defense": 80,
+    "spAtk": 130,
+    "spDef": 110,
+    "speed": 110,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

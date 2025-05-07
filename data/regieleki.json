@@ -1,0 +1,19 @@
+{
+  "name": "Regieleki",
+  "korName": "레지에레키",
+  "species": "일렉트론포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/regieleki.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 50,
+    "spAtk": 100,
+    "spDef": 50,
+    "speed": 200,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

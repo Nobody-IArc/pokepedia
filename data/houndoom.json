@@ -1,0 +1,40 @@
+{
+  "name": "Houndoom",
+  "korName": "헬가",
+  "species": "다크포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/houndoom.avif",
+  "types": [
+    "Dark",
+    "Fire",
+    "Dark",
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "spAtk": 110,
+    "spDef": 80,
+    "speed": 95,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Houndour",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/houndour.jpg",
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Houndoom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/houndoom.jpg",
+      "types": [
+        "Dark",
+        "Fire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Toedscruel",
+  "korName": "육파리목이버섯포켓몬",
+  "species": "목이버섯포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/toedscruel.avif",
+  "types": [
+    "Ground",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "spAtk": 80,
+    "spDef": 120,
+    "speed": 100,
+    "total": 515
+  },
+  "evolutions": [
+    {
+      "name": "Toedscool",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/toedscool.png",
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Toedscruel",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/toedscruel.png",
+      "types": [
+        "Ground",
+        "Grass"
+      ]
+    }
+  ]
+}

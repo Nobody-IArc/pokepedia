@@ -1,0 +1,35 @@
+{
+  "name": "Aromatisse",
+  "korName": "프레프티르",
+  "species": "방향포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/aromatisse.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "spAtk": 99,
+    "spDef": 89,
+    "speed": 29,
+    "total": 462
+  },
+  "evolutions": [
+    {
+      "name": "Spritzee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spritzee.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(trade holding Sachet)"
+    },
+    {
+      "name": "Aromatisse",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aromatisse.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

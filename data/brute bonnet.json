@@ -1,0 +1,19 @@
+{
+  "name": "Brute Bonnet",
+  "korName": "사나운버섯패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 111,
+    "attack": 127,
+    "defense": 99,
+    "spAtk": 79,
+    "spDef": 99,
+    "speed": 55,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

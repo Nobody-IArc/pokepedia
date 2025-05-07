@@ -1,0 +1,19 @@
+{
+  "name": "Iron Moth",
+  "korName": "무쇠독나방패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Fire",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 60,
+    "spAtk": 140,
+    "spDef": 110,
+    "speed": 110,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

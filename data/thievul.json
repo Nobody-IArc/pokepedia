@@ -1,0 +1,35 @@
+{
+  "name": "Thievul",
+  "korName": "폭슬라이",
+  "species": "여우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/thievul.avif",
+  "types": [
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 58,
+    "defense": 58,
+    "spAtk": 87,
+    "spDef": 92,
+    "speed": 90,
+    "total": 455
+  },
+  "evolutions": [
+    {
+      "name": "Nickit",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nickit.jpg",
+      "types": [
+        "Dark"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Thievul",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/thievul.jpg",
+      "types": [
+        "Dark"
+      ]
+    }
+  ]
+}

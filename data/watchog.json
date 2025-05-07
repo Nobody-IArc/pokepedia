@@ -1,0 +1,35 @@
+{
+  "name": "Watchog",
+  "korName": "보르그",
+  "species": "경계포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/watchog.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "spAtk": 60,
+    "spDef": 69,
+    "speed": 77,
+    "total": 420
+  },
+  "evolutions": [
+    {
+      "name": "Patrat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/patrat.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Watchog",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/watchog.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

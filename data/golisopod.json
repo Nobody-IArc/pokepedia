@@ -1,0 +1,38 @@
+{
+  "name": "Golisopod",
+  "korName": "갑주무사",
+  "species": "장갑포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/golisopod.avif",
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 140,
+    "spAtk": 60,
+    "spDef": 90,
+    "speed": 40,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Wimpod",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wimpod.jpg",
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Golisopod",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/golisopod.jpg",
+      "types": [
+        "Bug",
+        "Water"
+      ]
+    }
+  ]
+}

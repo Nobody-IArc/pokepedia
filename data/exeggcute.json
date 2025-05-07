@@ -1,0 +1,67 @@
+{
+  "name": "Exeggcute",
+  "korName": "아라리",
+  "species": "알포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/exeggcute.avif",
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "spAtk": 60,
+    "spDef": 45,
+    "speed": 40,
+    "total": 325
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Exeggcute",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/exeggcute.jpg",
+        "types": [
+          "Grass",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Exeggutor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/exeggutor.jpg",
+        "types": [
+          "Grass",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Exeggutor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/exeggutor-alolan.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Exeggutor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/exeggutor.jpg",
+        "types": [
+          "Grass",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Exeggutor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/exeggutor-alolan.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Florges",
+  "korName": "플라제스",
+  "species": "가든포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/florges.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "spAtk": 112,
+    "spDef": 154,
+    "speed": 75,
+    "total": 552
+  },
+  "evolutions": [
+    {
+      "name": "Flabébé",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/flabebe.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 19)"
+    },
+    {
+      "name": "Floette",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/floette.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(use Shiny Stone)"
+    },
+    {
+      "name": "Florges",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/florges.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

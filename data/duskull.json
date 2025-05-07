@@ -1,0 +1,43 @@
+{
+  "name": "Duskull",
+  "korName": "해골몽",
+  "species": "마중포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/duskull.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "spAtk": 30,
+    "spDef": 90,
+    "speed": 25,
+    "total": 295
+  },
+  "evolutions": [
+    {
+      "name": "Duskull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/duskull.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Dusclops",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dusclops.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(trade holding Reaper Cloth)"
+    },
+    {
+      "name": "Dusknoir",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dusknoir.jpg",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

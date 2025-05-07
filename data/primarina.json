@@ -1,0 +1,45 @@
+{
+  "name": "Primarina",
+  "korName": "누리레느",
+  "species": "솔리스트포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/primarina.avif",
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 74,
+    "defense": 74,
+    "spAtk": 126,
+    "spDef": 116,
+    "speed": 60,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Popplio",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/popplio.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Brionne",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/brionne.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Primarina",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/primarina.jpg",
+      "types": [
+        "Water",
+        "Fairy"
+      ]
+    }
+  ]
+}

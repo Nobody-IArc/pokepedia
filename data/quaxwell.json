@@ -1,0 +1,44 @@
+{
+  "name": "Quaxwell",
+  "korName": "아꾸왁레슨포켓몬",
+  "species": "레슨포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/quaxwell.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "spAtk": 65,
+    "spDef": 60,
+    "speed": 65,
+    "total": 410
+  },
+  "evolutions": [
+    {
+      "name": "Quaxly",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxly.png",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Quaxwell",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/quaxwell.png",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Quaquaval",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/quaquaval.png",
+      "types": [
+        "Water",
+        "Fighting"
+      ]
+    }
+  ]
+}

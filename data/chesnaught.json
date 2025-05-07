@@ -1,0 +1,45 @@
+{
+  "name": "Chesnaught",
+  "korName": "브리가론",
+  "species": "가시갑옷포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/chesnaught.avif",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 107,
+    "defense": 122,
+    "spAtk": 74,
+    "spDef": 75,
+    "speed": 64,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Chespin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chespin.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Quilladin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/quilladin.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Chesnaught",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chesnaught.jpg",
+      "types": [
+        "Grass",
+        "Fighting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bellibolt",
+  "korName": "찌리배리전기개구리포켓몬",
+  "species": "전기개구리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bellibolt.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 109,
+    "attack": 64,
+    "defense": 91,
+    "spAtk": 103,
+    "spDef": 83,
+    "speed": 45,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Tadbulb",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/tadbulb.png",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(use Thunder Stone)"
+    },
+    {
+      "name": "Bellibolt",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/bellibolt.png",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

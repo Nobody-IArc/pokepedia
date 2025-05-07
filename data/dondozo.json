@@ -1,0 +1,19 @@
+{
+  "name": "Dondozo",
+  "korName": "어써러셔큰메기포켓몬",
+  "species": "큰메기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dondozo.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 115,
+    "spAtk": 65,
+    "spDef": 65,
+    "speed": 35,
+    "total": 530
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

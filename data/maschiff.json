@@ -1,0 +1,35 @@
+{
+  "name": "Maschiff",
+  "korName": "오라티프애송이포켓몬",
+  "species": "애송이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/maschiff.avif",
+  "types": [
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 78,
+    "defense": 60,
+    "spAtk": 40,
+    "spDef": 51,
+    "speed": 51,
+    "total": 340
+  },
+  "evolutions": [
+    {
+      "name": "Maschiff",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/maschiff.png",
+      "types": [
+        "Dark"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/mabosstiff.png",
+      "types": [
+        "Dark"
+      ]
+    }
+  ]
+}

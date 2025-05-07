@@ -1,0 +1,43 @@
+{
+  "name": "Abra",
+  "korName": "캐이시",
+  "species": "초능력포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/abra.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "spAtk": 105,
+    "spDef": 55,
+    "speed": 90,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Abra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/abra.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Kadabra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kadabra.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Alakazam",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/alakazam.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Audino",
+  "korName": "다부니",
+  "species": "히어링포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/audino.avif",
+  "types": [
+    "Normal",
+    "Normal",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "spAtk": 60,
+    "spDef": 86,
+    "speed": 50,
+    "total": 445
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Bulbasaur",
+  "korName": "이상해씨",
+  "species": "씨앗포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bulbasaur.avif",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "spAtk": 65,
+    "spDef": 65,
+    "speed": 45,
+    "total": 318
+  },
+  "evolutions": [
+    {
+      "name": "Bulbasaur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bulbasaur.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Ivysaur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ivysaur.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Venusaur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/venusaur.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ]
+    }
+  ]
+}

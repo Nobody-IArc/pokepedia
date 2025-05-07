@@ -1,0 +1,19 @@
+{
+  "name": "Druddigon",
+  "korName": "크리만",
+  "species": "동굴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/druddigon.avif",
+  "types": [
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "spAtk": 60,
+    "spDef": 90,
+    "speed": 48,
+    "total": 485
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

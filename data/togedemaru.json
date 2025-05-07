@@ -1,0 +1,20 @@
+{
+  "name": "Togedemaru",
+  "korName": "토게데마루",
+  "species": "동글동글포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/togedemaru.avif",
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 98,
+    "defense": 63,
+    "spAtk": 40,
+    "spDef": 73,
+    "speed": 96,
+    "total": 435
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

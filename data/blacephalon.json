@@ -1,0 +1,20 @@
+{
+  "name": "Blacephalon",
+  "korName": "두파팡",
+  "species": "불꽃놀이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/blacephalon.avif",
+  "types": [
+    "Fire",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 53,
+    "attack": 127,
+    "defense": 53,
+    "spAtk": 151,
+    "spDef": 79,
+    "speed": 107,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

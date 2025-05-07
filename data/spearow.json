@@ -1,0 +1,38 @@
+{
+  "name": "Spearow",
+  "korName": "깨비참",
+  "species": "아기새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spearow.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "spAtk": 31,
+    "spDef": 31,
+    "speed": 70,
+    "total": 262
+  },
+  "evolutions": [
+    {
+      "name": "Spearow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spearow.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Fearow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fearow.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ekans",
+  "korName": "아보",
+  "species": "뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ekans.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "spAtk": 40,
+    "spDef": 54,
+    "speed": 55,
+    "total": 288
+  },
+  "evolutions": [
+    {
+      "name": "Ekans",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ekans.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Arbok",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/arbok.jpg",
+      "types": [
+        "Poison"
+      ]
+    }
+  ]
+}

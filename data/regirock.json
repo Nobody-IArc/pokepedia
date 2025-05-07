@@ -1,0 +1,19 @@
+{
+  "name": "Regirock",
+  "korName": "레지락",
+  "species": "바위산포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/regirock.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 200,
+    "spAtk": 50,
+    "spDef": 100,
+    "speed": 50,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

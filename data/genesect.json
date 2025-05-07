@@ -1,0 +1,20 @@
+{
+  "name": "Genesect",
+  "korName": "게노세크트",
+  "species": "고생대포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/genesect.avif",
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "spAtk": 120,
+    "spDef": 95,
+    "speed": 99,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

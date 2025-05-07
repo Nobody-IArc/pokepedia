@@ -1,0 +1,70 @@
+{
+  "name": "Dewott",
+  "korName": "쌍검자비",
+  "species": "수행포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dewott.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "spAtk": 83,
+    "spDef": 60,
+    "speed": 60,
+    "total": 413
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Oshawott",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/oshawott.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Dewott",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dewott.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Samurott",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/samurott.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Samurott",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/samurott-hisuian.jpg",
+        "types": [
+          "Water",
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Samurott",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/samurott.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Samurott",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/samurott-hisuian.jpg",
+        "types": [
+          "Water",
+          "Dark"
+        ]
+      }
+    ]
+  ]
+}

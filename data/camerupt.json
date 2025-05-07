@@ -1,0 +1,40 @@
+{
+  "name": "Camerupt",
+  "korName": "폭타",
+  "species": "분화포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/camerupt.avif",
+  "types": [
+    "Fire",
+    "Ground",
+    "Fire",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "spAtk": 105,
+    "spDef": 75,
+    "speed": 40,
+    "total": 460
+  },
+  "evolutions": [
+    {
+      "name": "Numel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/numel.jpg",
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/camerupt.jpg",
+      "types": [
+        "Fire",
+        "Ground"
+      ]
+    }
+  ]
+}

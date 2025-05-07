@@ -1,0 +1,20 @@
+{
+  "name": "Drampa",
+  "korName": "할비롱",
+  "species": "느긋누긋포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/drampa.avif",
+  "types": [
+    "Normal",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "spAtk": 135,
+    "spDef": 91,
+    "speed": 36,
+    "total": 485
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

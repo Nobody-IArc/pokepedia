@@ -1,0 +1,22 @@
+{
+  "name": "Indeedee",
+  "korName": "에써르",
+  "species": "감정포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/indeedee-male.avif",
+  "types": [
+    "Psychic",
+    "Normal",
+    "Psychic",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 55,
+    "spAtk": 105,
+    "spDef": 95,
+    "speed": 95,
+    "total": 475
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

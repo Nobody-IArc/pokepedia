@@ -1,0 +1,19 @@
+{
+  "name": "Illumise",
+  "korName": "네오비트",
+  "species": "반딧불포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/illumise.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "spAtk": 73,
+    "spDef": 85,
+    "speed": 85,
+    "total": 430
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

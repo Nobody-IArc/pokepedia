@@ -1,0 +1,20 @@
+{
+  "name": "Virizion",
+  "korName": "비리디온",
+  "species": "초원포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/virizion.avif",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 72,
+    "spAtk": 90,
+    "spDef": 129,
+    "speed": 108,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

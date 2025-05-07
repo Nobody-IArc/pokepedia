@@ -1,0 +1,35 @@
+{
+  "name": "Buizel",
+  "korName": "브이젤",
+  "species": "바다족제비포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/buizel.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "spAtk": 60,
+    "spDef": 30,
+    "speed": 85,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Buizel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/buizel.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Floatzel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/floatzel.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

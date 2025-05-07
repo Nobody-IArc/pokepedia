@@ -1,0 +1,56 @@
+{
+  "name": "Grimer",
+  "korName": "질퍽이",
+  "species": "오물포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/grimer.avif",
+  "types": [
+    "Poison",
+    "Poison",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 25,
+    "total": 325
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Grimer",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/grimer.jpg",
+        "types": [
+          "Poison"
+        ]
+      },
+      {
+        "name": "Muk",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/muk.jpg",
+        "types": [
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Grimer",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/grimer-alolan.jpg",
+        "types": [
+          "Poison",
+          "Dark"
+        ]
+      },
+      {
+        "name": "Muk",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/muk-alolan.jpg",
+        "types": [
+          "Poison",
+          "Dark"
+        ]
+      }
+    ]
+  ]
+}

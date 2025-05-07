@@ -1,0 +1,19 @@
+{
+  "name": "Azelf",
+  "korName": "아그놈",
+  "species": "의지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/azelf.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "spAtk": 125,
+    "spDef": 70,
+    "speed": 115,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

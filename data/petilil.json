@@ -1,0 +1,63 @@
+{
+  "name": "Petilil",
+  "korName": "치릴리",
+  "species": "뿌리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/petilil.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 50,
+    "spAtk": 70,
+    "spDef": 50,
+    "speed": 30,
+    "total": 280
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Petilil",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/petilil.jpg",
+        "types": [
+          "Grass"
+        ]
+      },
+      {
+        "name": "Lilligant",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lilligant.jpg",
+        "types": [
+          "Grass"
+        ]
+      },
+      {
+        "name": "Lilligant",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lilligant-hisuian.jpg",
+        "types": [
+          "Grass",
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Lilligant",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lilligant.jpg",
+        "types": [
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Lilligant",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lilligant-hisuian.jpg",
+        "types": [
+          "Grass",
+          "Fighting"
+        ]
+      }
+    ]
+  ]
+}

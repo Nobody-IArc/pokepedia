@@ -1,0 +1,44 @@
+{
+  "name": "Fuecoco",
+  "korName": "뜨아거불꽃악어포켓몬",
+  "species": "불꽃악어포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/fuecoco.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 45,
+    "defense": 59,
+    "spAtk": 63,
+    "spDef": 40,
+    "speed": 36,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Fuecoco",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/fuecoco.png",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Crocalor",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/crocalor.png",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Skeledirge",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/skeledirge.png",
+      "types": [
+        "Fire",
+        "Ghost"
+      ]
+    }
+  ]
+}

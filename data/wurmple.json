@@ -1,0 +1,93 @@
+{
+  "name": "Wurmple",
+  "korName": "개무소",
+  "species": "애벌레포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wurmple.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "spAtk": 20,
+    "spDef": 30,
+    "speed": 20,
+    "total": 195
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Wurmple",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/wurmple.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Silcoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/silcoon.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Beautifly",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/beautifly.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Cascoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cascoon.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Dustox",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dustox.jpg",
+        "types": [
+          "Bug",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Silcoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/silcoon.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Beautifly",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/beautifly.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Cascoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cascoon.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Dustox",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dustox.jpg",
+        "types": [
+          "Bug",
+          "Poison"
+        ]
+      }
+    ]
+  ]
+}

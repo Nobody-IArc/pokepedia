@@ -1,0 +1,35 @@
+{
+  "name": "Drowzee",
+  "korName": "슬리프",
+  "species": "최면포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/drowzee.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "spAtk": 43,
+    "spDef": 90,
+    "speed": 42,
+    "total": 328
+  },
+  "evolutions": [
+    {
+      "name": "Drowzee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drowzee.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Hypno",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hypno.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

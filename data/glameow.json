@@ -1,0 +1,35 @@
+{
+  "name": "Glameow",
+  "korName": "나옹마",
+  "species": "내숭포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/glameow.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 49,
+    "attack": 55,
+    "defense": 42,
+    "spAtk": 42,
+    "spDef": 37,
+    "speed": 85,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Glameow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/glameow.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Purugly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/purugly.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

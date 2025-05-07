@@ -1,0 +1,44 @@
+{
+  "name": "Metapod",
+  "korName": "단데기",
+  "species": "번데기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/metapod.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "spAtk": 25,
+    "spDef": 25,
+    "speed": 30,
+    "total": 205
+  },
+  "evolutions": [
+    {
+      "name": "Caterpie",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/caterpie.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 7)"
+    },
+    {
+      "name": "Metapod",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/metapod.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 10)"
+    },
+    {
+      "name": "Butterfree",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/butterfree.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Moltres",
+  "korName": "파이어",
+  "species": "화염포켓몬사악포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/moltres.avif",
+  "types": [
+    "Fire",
+    "Flying",
+    "Dark",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "spAtk": 125,
+    "spDef": 85,
+    "speed": 90,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

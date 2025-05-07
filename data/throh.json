@@ -1,0 +1,19 @@
+{
+  "name": "Throh",
+  "korName": "던지미",
+  "species": "유도포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/throh.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 120,
+    "attack": 100,
+    "defense": 85,
+    "spAtk": 30,
+    "spDef": 85,
+    "speed": 45,
+    "total": 465
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

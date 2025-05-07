@@ -1,0 +1,66 @@
+{
+  "name": "Ceruledge",
+  "korName": "파라블레이즈불의검사포켓몬",
+  "species": "불의검사포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ceruledge.avif",
+  "types": [
+    "Fire",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 80,
+    "spAtk": 60,
+    "spDef": 100,
+    "speed": 85,
+    "total": 525
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Charcadet",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/charcadet.png",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Armarouge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/armarouge.png",
+        "types": [
+          "Fire",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Ceruledge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/ceruledge.png",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Armarouge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/armarouge.png",
+        "types": [
+          "Fire",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Ceruledge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/ceruledge.png",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

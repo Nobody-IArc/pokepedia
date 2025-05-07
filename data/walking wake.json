@@ -1,0 +1,19 @@
+{
+  "name": "Walking Wake",
+  "korName": "굽이치는물결패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Water",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 99,
+    "attack": 83,
+    "defense": 91,
+    "spAtk": 125,
+    "spDef": 83,
+    "speed": 109,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

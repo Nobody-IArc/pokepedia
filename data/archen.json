@@ -1,0 +1,38 @@
+{
+  "name": "Archen",
+  "korName": "아켄",
+  "species": "최초새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/archen.avif",
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 112,
+    "defense": 45,
+    "spAtk": 74,
+    "spDef": 45,
+    "speed": 70,
+    "total": 401
+  },
+  "evolutions": [
+    {
+      "name": "Archen",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/archen.jpg",
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Archeops",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/archeops.jpg",
+      "types": [
+        "Rock",
+        "Flying"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Palkia",
+  "korName": "펄기아",
+  "species": "공간포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/palkia.avif",
+  "types": [
+    "Water",
+    "Dragon",
+    "Water",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "spAtk": 150,
+    "spDef": 120,
+    "speed": 100,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

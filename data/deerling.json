@@ -1,0 +1,38 @@
+{
+  "name": "Deerling",
+  "korName": "사철록",
+  "species": "계절포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/deerling.avif",
+  "types": [
+    "Normal",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 75,
+    "total": 335
+  },
+  "evolutions": [
+    {
+      "name": "Deerling",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/deerling.jpg",
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Sawsbuck",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sawsbuck.jpg",
+      "types": [
+        "Normal",
+        "Grass"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Chewtle",
+  "korName": "깨물부기",
+  "species": "물고늘어지기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/chewtle.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "spAtk": 38,
+    "spDef": 38,
+    "speed": 44,
+    "total": 284
+  },
+  "evolutions": [
+    {
+      "name": "Chewtle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chewtle.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Drednaw",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drednaw.jpg",
+      "types": [
+        "Water",
+        "Rock"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Hippopotas",
+  "korName": "히포포타스",
+  "species": "하마포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hippopotas.avif",
+  "types": [
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 72,
+    "defense": 78,
+    "spAtk": 38,
+    "spDef": 42,
+    "speed": 32,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Hippopotas",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hippopotas.jpg",
+      "types": [
+        "Ground"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Hippowdon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hippowdon.jpg",
+      "types": [
+        "Ground"
+      ]
+    }
+  ]
+}

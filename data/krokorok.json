@@ -1,0 +1,47 @@
+{
+  "name": "Krokorok",
+  "korName": "악비르",
+  "species": "사막악어포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/krokorok.avif",
+  "types": [
+    "Ground",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 82,
+    "defense": 45,
+    "spAtk": 45,
+    "spDef": 45,
+    "speed": 74,
+    "total": 351
+  },
+  "evolutions": [
+    {
+      "name": "Sandile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandile.jpg",
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "evolveMethod": "(Level 29)"
+    },
+    {
+      "name": "Krokorok",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/krokorok.jpg",
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Krookodile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/krookodile.jpg",
+      "types": [
+        "Ground",
+        "Dark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Togepi",
+  "korName": "토게피",
+  "species": "바늘알포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/togepi.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 20,
+    "defense": 65,
+    "spAtk": 40,
+    "spDef": 65,
+    "speed": 20,
+    "total": 245
+  },
+  "evolutions": [
+    {
+      "name": "Togepi",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/togepi.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Togetic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/togetic.jpg",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "evolveMethod": "(use Shiny Stone)"
+    },
+    {
+      "name": "Togekiss",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/togekiss.jpg",
+      "types": [
+        "Fairy",
+        "Flying"
+      ]
+    }
+  ]
+}

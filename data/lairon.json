@@ -1,0 +1,47 @@
+{
+  "name": "Lairon",
+  "korName": "갱도라",
+  "species": "철갑옷포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lairon.avif",
+  "types": [
+    "Steel",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 40,
+    "total": 430
+  },
+  "evolutions": [
+    {
+      "name": "Aron",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aron.jpg",
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Lairon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lairon.jpg",
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Aggron",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aggron.jpg",
+      "types": [
+        "Steel",
+        "Rock"
+      ]
+    }
+  ]
+}

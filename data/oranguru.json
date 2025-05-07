@@ -1,0 +1,20 @@
+{
+  "name": "Oranguru",
+  "korName": "하랑우탄",
+  "species": "현자포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/oranguru.avif",
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 80,
+    "spAtk": 90,
+    "spDef": 110,
+    "speed": 60,
+    "total": 490
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

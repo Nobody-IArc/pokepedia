@@ -1,0 +1,22 @@
+{
+  "name": "Stunfisk",
+  "korName": "메더",
+  "species": "트랩포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/stunfisk.avif",
+  "types": [
+    "Ground",
+    "Electric",
+    "Ground",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "spAtk": 81,
+    "spDef": 99,
+    "speed": 32,
+    "total": 471
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

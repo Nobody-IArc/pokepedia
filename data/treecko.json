@@ -1,0 +1,43 @@
+{
+  "name": "Treecko",
+  "korName": "나무지기",
+  "species": "숲도마뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/treecko.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "spAtk": 65,
+    "spDef": 55,
+    "speed": 70,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Treecko",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/treecko.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Grovyle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grovyle.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Sceptile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sceptile.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

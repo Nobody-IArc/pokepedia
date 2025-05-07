@@ -1,0 +1,19 @@
+{
+  "name": "Miltank",
+  "korName": "밀탱크",
+  "species": "젖소포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/miltank.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "spAtk": 40,
+    "spDef": 70,
+    "speed": 100,
+    "total": 490
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

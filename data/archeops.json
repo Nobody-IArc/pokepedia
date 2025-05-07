@@ -1,0 +1,38 @@
+{
+  "name": "Archeops",
+  "korName": "아케오스",
+  "species": "최초새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/archeops.avif",
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 140,
+    "defense": 65,
+    "spAtk": 112,
+    "spDef": 65,
+    "speed": 110,
+    "total": 567
+  },
+  "evolutions": [
+    {
+      "name": "Archen",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/archen.jpg",
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Archeops",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/archeops.jpg",
+      "types": [
+        "Rock",
+        "Flying"
+      ]
+    }
+  ]
+}

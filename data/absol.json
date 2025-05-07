@@ -1,0 +1,20 @@
+{
+  "name": "Absol",
+  "korName": "앱솔",
+  "species": "재난포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/absol.avif",
+  "types": [
+    "Dark",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "spAtk": 75,
+    "spDef": 60,
+    "speed": 75,
+    "total": 465
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Galvantula",
+  "korName": "전툴라",
+  "species": "전기거미포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/galvantula.avif",
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "spAtk": 97,
+    "spDef": 60,
+    "speed": 108,
+    "total": 472
+  },
+  "evolutions": [
+    {
+      "name": "Joltik",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/joltik.jpg",
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Galvantula",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/galvantula.jpg",
+      "types": [
+        "Bug",
+        "Electric"
+      ]
+    }
+  ]
+}

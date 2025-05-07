@@ -1,0 +1,19 @@
+{
+  "name": "Orthworm",
+  "korName": "꿈트렁지렁이포켓몬",
+  "species": "지렁이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/orthworm.avif",
+  "types": [
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 145,
+    "spAtk": 60,
+    "spDef": 55,
+    "speed": 65,
+    "total": 480
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

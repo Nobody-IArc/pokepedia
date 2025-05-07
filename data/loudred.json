@@ -1,0 +1,43 @@
+{
+  "name": "Loudred",
+  "korName": "노공룡",
+  "species": "큰목소리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/loudred.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "spAtk": 71,
+    "spDef": 43,
+    "speed": 48,
+    "total": 360
+  },
+  "evolutions": [
+    {
+      "name": "Whismur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/whismur.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Loudred",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/loudred.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Exploud",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/exploud.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

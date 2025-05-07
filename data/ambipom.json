@@ -1,0 +1,35 @@
+{
+  "name": "Ambipom",
+  "korName": "겟핸보숭",
+  "species": "긴꼬리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ambipom.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 66,
+    "spAtk": 60,
+    "spDef": 66,
+    "speed": 115,
+    "total": 482
+  },
+  "evolutions": [
+    {
+      "name": "Aipom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aipom.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(after Double Hit learned)"
+    },
+    {
+      "name": "Ambipom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ambipom.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Purrloin",
+  "korName": "쌔비냥",
+  "species": "성악포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/purrloin.avif",
+  "types": [
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 37,
+    "spAtk": 50,
+    "spDef": 37,
+    "speed": 66,
+    "total": 281
+  },
+  "evolutions": [
+    {
+      "name": "Purrloin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/purrloin.jpg",
+      "types": [
+        "Dark"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Liepard",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/liepard.jpg",
+      "types": [
+        "Dark"
+      ]
+    }
+  ]
+}

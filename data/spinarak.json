@@ -1,0 +1,38 @@
+{
+  "name": "Spinarak",
+  "korName": "페이검",
+  "species": "실뿜기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spinarak.avif",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "spAtk": 40,
+    "spDef": 40,
+    "speed": 30,
+    "total": 250
+  },
+  "evolutions": [
+    {
+      "name": "Spinarak",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spinarak.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Ariados",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ariados.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ]
+    }
+  ]
+}

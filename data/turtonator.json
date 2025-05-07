@@ -1,0 +1,20 @@
+{
+  "name": "Turtonator",
+  "korName": "폭거북스",
+  "species": "폭발거북포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/turtonator.avif",
+  "types": [
+    "Fire",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 78,
+    "defense": 135,
+    "spAtk": 91,
+    "spDef": 85,
+    "speed": 36,
+    "total": 485
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

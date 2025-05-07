@@ -1,0 +1,35 @@
+{
+  "name": "Yungoos",
+  "korName": "영구스",
+  "species": "순회포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/yungoos.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 70,
+    "defense": 30,
+    "spAtk": 30,
+    "spDef": 30,
+    "speed": 45,
+    "total": 253
+  },
+  "evolutions": [
+    {
+      "name": "Yungoos",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/yungoos.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20, Daytime)"
+    },
+    {
+      "name": "Gumshoos",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gumshoos.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

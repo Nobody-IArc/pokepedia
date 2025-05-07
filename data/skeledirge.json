@@ -1,0 +1,45 @@
+{
+  "name": "Skeledirge",
+  "korName": "라우드본싱어포켓몬",
+  "species": "싱어포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/skeledirge.avif",
+  "types": [
+    "Fire",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 104,
+    "attack": 75,
+    "defense": 100,
+    "spAtk": 110,
+    "spDef": 75,
+    "speed": 66,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Fuecoco",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/fuecoco.png",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Crocalor",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/crocalor.png",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Skeledirge",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/skeledirge.png",
+      "types": [
+        "Fire",
+        "Ghost"
+      ]
+    }
+  ]
+}

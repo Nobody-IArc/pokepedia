@@ -1,0 +1,38 @@
+{
+  "name": "Salazzle",
+  "korName": "염뉴트",
+  "species": "독도마뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/salazzle.avif",
+  "types": [
+    "Poison",
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 64,
+    "defense": 60,
+    "spAtk": 111,
+    "spDef": 60,
+    "speed": 117,
+    "total": 480
+  },
+  "evolutions": [
+    {
+      "name": "Salandit",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/salandit.jpg",
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "evolveMethod": "(Level 33, Female)"
+    },
+    {
+      "name": "Salazzle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/salazzle.jpg",
+      "types": [
+        "Poison",
+        "Fire"
+      ]
+    }
+  ]
+}

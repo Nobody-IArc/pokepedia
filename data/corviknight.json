@@ -1,0 +1,45 @@
+{
+  "name": "Corviknight",
+  "korName": "아머까오",
+  "species": "까마귀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/corviknight.avif",
+  "types": [
+    "Flying",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 98,
+    "attack": 87,
+    "defense": 105,
+    "spAtk": 53,
+    "spDef": 85,
+    "speed": 67,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Rookidee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rookidee.jpg",
+      "types": [
+        "Flying"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Corvisquire",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/corvisquire.jpg",
+      "types": [
+        "Flying"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Corviknight",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/corviknight.jpg",
+      "types": [
+        "Flying",
+        "Steel"
+      ]
+    }
+  ]
+}

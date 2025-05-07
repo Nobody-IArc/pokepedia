@@ -1,0 +1,44 @@
+{
+  "name": "Scatterbug",
+  "korName": "분이벌레",
+  "species": "가루뿜기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/scatterbug.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "spAtk": 27,
+    "spDef": 25,
+    "speed": 35,
+    "total": 200
+  },
+  "evolutions": [
+    {
+      "name": "Scatterbug",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/scatterbug.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 9)"
+    },
+    {
+      "name": "Spewpa",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spewpa.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 12)"
+    },
+    {
+      "name": "Vivillon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vivillon.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

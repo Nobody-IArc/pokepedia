@@ -1,0 +1,38 @@
+{
+  "name": "Wimpod",
+  "korName": "꼬시레",
+  "species": "주행포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wimpod.avif",
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "spAtk": 20,
+    "spDef": 30,
+    "speed": 80,
+    "total": 230
+  },
+  "evolutions": [
+    {
+      "name": "Wimpod",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wimpod.jpg",
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Golisopod",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/golisopod.jpg",
+      "types": [
+        "Bug",
+        "Water"
+      ]
+    }
+  ]
+}

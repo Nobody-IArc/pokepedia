@@ -1,0 +1,72 @@
+{
+  "name": "Raichu",
+  "korName": "라이츄",
+  "species": "쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/raichu.avif",
+  "types": [
+    "Electric",
+    "Electric",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "spAtk": 90,
+    "spDef": 80,
+    "speed": 110,
+    "total": 485
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Pichu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/pichu.jpg",
+        "types": [
+          "Electric"
+        ]
+      },
+      {
+        "name": "Pikachu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/pikachu.jpg",
+        "types": [
+          "Electric"
+        ]
+      },
+      {
+        "name": "Raichu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/raichu.jpg",
+        "types": [
+          "Electric"
+        ]
+      },
+      {
+        "name": "Raichu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/raichu-alolan.jpg",
+        "types": [
+          "Electric",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Raichu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/raichu.jpg",
+        "types": [
+          "Electric"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Raichu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/raichu-alolan.jpg",
+        "types": [
+          "Electric",
+          "Psychic"
+        ]
+      }
+    ]
+  ]
+}

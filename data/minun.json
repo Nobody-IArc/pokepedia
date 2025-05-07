@@ -1,0 +1,19 @@
+{
+  "name": "Minun",
+  "korName": "마이농",
+  "species": "응원포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/minun.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "spAtk": 75,
+    "spDef": 85,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

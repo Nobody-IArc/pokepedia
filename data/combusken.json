@@ -1,0 +1,46 @@
+{
+  "name": "Combusken",
+  "korName": "영치코",
+  "species": "꼬마닭포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/combusken.avif",
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "spAtk": 85,
+    "spDef": 60,
+    "speed": 55,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Torchic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torchic.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Combusken",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/combusken.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Blaziken",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blaziken.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    }
+  ]
+}

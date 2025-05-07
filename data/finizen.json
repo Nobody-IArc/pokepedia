@@ -1,0 +1,35 @@
+{
+  "name": "Finizen",
+  "korName": "맨돌핀돌고래포켓몬",
+  "species": "돌고래포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/finizen.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 40,
+    "spAtk": 45,
+    "spDef": 40,
+    "speed": 75,
+    "total": 315
+  },
+  "evolutions": [
+    {
+      "name": "Finizen",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/finizen.png",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 38, while in multiplayer)"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/palafin-zero.png",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

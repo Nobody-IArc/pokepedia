@@ -1,0 +1,43 @@
+{
+  "name": "Whismur",
+  "korName": "소곤룡",
+  "species": "속삭임포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/whismur.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "spAtk": 51,
+    "spDef": 23,
+    "speed": 28,
+    "total": 240
+  },
+  "evolutions": [
+    {
+      "name": "Whismur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/whismur.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Loudred",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/loudred.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Exploud",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/exploud.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Magmar",
+  "korName": "마그마",
+  "species": "불뿜기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/magmar.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "spAtk": 100,
+    "spDef": 85,
+    "speed": 93,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Magby",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magby.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magmar.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(trade holding Magmarizer)"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magmortar.jpg",
+      "types": [
+        "Fire"
+      ]
+    }
+  ]
+}

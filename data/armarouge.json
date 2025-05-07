@@ -1,0 +1,66 @@
+{
+  "name": "Armarouge",
+  "korName": "카디나르마불의전사포켓몬",
+  "species": "불의전사포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/armarouge.avif",
+  "types": [
+    "Fire",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 60,
+    "defense": 100,
+    "spAtk": 125,
+    "spDef": 80,
+    "speed": 75,
+    "total": 525
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Charcadet",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/charcadet.png",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Armarouge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/armarouge.png",
+        "types": [
+          "Fire",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Ceruledge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/ceruledge.png",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Armarouge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/armarouge.png",
+        "types": [
+          "Fire",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Ceruledge",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/ceruledge.png",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

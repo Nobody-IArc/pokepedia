@@ -1,0 +1,46 @@
+{
+  "name": "Togekiss",
+  "korName": "토게키스",
+  "species": "축복포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/togekiss.avif",
+  "types": [
+    "Fairy",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "spAtk": 120,
+    "spDef": 115,
+    "speed": 80,
+    "total": 545
+  },
+  "evolutions": [
+    {
+      "name": "Togepi",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/togepi.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Togetic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/togetic.jpg",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "evolveMethod": "(use Shiny Stone)"
+    },
+    {
+      "name": "Togekiss",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/togekiss.jpg",
+      "types": [
+        "Fairy",
+        "Flying"
+      ]
+    }
+  ]
+}

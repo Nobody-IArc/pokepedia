@@ -1,0 +1,35 @@
+{
+  "name": "Minccino",
+  "korName": "치라미",
+  "species": "친칠라포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/minccino.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 40,
+    "spAtk": 40,
+    "spDef": 40,
+    "speed": 75,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Minccino",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/minccino.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(use Shiny Stone)"
+    },
+    {
+      "name": "Cinccino",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cinccino.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

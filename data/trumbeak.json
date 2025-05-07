@@ -1,0 +1,47 @@
+{
+  "name": "Trumbeak",
+  "korName": "크라파",
+  "species": "나팔입포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/trumbeak.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 75,
+    "total": 355
+  },
+  "evolutions": [
+    {
+      "name": "Pikipek",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pikipek.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 14)"
+    },
+    {
+      "name": "Trumbeak",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trumbeak.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 28)"
+    },
+    {
+      "name": "Toucannon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/toucannon.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

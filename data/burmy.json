@@ -1,0 +1,90 @@
+{
+  "name": "Burmy",
+  "korName": "도롱충이",
+  "species": "도롱이벌레포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/burmy-plant.avif",
+  "types": [
+    "Bug",
+    "Bug",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "spAtk": 29,
+    "spDef": 45,
+    "speed": 36,
+    "total": 224
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Burmy",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/burmy-plant.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Mothim",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mothim.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Burmy",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/burmy-plant.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Wormadam",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/wormadam-plant.jpg",
+        "types": [
+          "Bug",
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Burmy",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/burmy-sandy.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Wormadam",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/wormadam-sandy.jpg",
+        "types": [
+          "Bug",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Burmy",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/burmy-trash.jpg",
+        "types": [
+          "Bug"
+        ]
+      },
+      {
+        "name": "Wormadam",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/wormadam-trash.jpg",
+        "types": [
+          "Bug",
+          "Steel"
+        ]
+      }
+    ]
+  ]
+}

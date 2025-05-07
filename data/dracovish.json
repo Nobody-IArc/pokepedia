@@ -1,0 +1,20 @@
+{
+  "name": "Dracovish",
+  "korName": "어래곤",
+  "species": "화석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dracovish.avif",
+  "types": [
+    "Water",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "spAtk": 70,
+    "spDef": 80,
+    "speed": 75,
+    "total": 505
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

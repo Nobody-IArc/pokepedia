@@ -1,0 +1,19 @@
+{
+  "name": "Iron Crown",
+  "korName": "",
+  "species": "",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 72,
+    "defense": 100,
+    "spAtk": 122,
+    "spDef": 108,
+    "speed": 98,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

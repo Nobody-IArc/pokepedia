@@ -1,0 +1,22 @@
+{
+  "name": "Heracross",
+  "korName": "헤라크로스",
+  "species": "외뿔포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/heracross.avif",
+  "types": [
+    "Bug",
+    "Fighting",
+    "Bug",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "spAtk": 40,
+    "spDef": 95,
+    "speed": 85,
+    "total": 500
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

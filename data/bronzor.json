@@ -1,0 +1,38 @@
+{
+  "name": "Bronzor",
+  "korName": "동미러",
+  "species": "청동포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bronzor.avif",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 57,
+    "attack": 24,
+    "defense": 86,
+    "spAtk": 24,
+    "spDef": 86,
+    "speed": 23,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Bronzor",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bronzor.jpg",
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Bronzong",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bronzong.jpg",
+      "types": [
+        "Steel",
+        "Psychic"
+      ]
+    }
+  ]
+}

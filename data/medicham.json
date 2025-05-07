@@ -1,0 +1,40 @@
+{
+  "name": "Medicham",
+  "korName": "요가램",
+  "species": "명상포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/medicham.avif",
+  "types": [
+    "Fighting",
+    "Psychic",
+    "Fighting",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "spAtk": 60,
+    "spDef": 75,
+    "speed": 80,
+    "total": 410
+  },
+  "evolutions": [
+    {
+      "name": "Meditite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/meditite.jpg",
+      "types": [
+        "Fighting",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Medicham",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/medicham.jpg",
+      "types": [
+        "Fighting",
+        "Psychic"
+      ]
+    }
+  ]
+}

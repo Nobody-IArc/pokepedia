@@ -27,8 +27,42 @@ type EvolutionData = EvolutionStage[] | EvolutionStage[][];
 import axios from 'axios'; // http 요청을 보내기 위한 라이브러리
 import * as cheerio from 'cheerio'; // html 파싱 및 요소 조작을 위한 라이브러리
 
-const crawlPokemon = async () => {
-  const url = 'https://pokemondb.net/pokedex/scorbunny';
+const crawlAll = async() => {
+  const listUrl = 'https://pokemondb.net/pokedex/national';
+  try {
+    const { data } = await axios.get(listUrl);
+    const $ = cheerio.load(data);
+
+    const links = new Set<string>();
+
+    $('a.ent-name').each((_, el) => {
+      const href = $(el).attr('href');
+      if (href && href.startsWith('/pokedex/')) {
+        links.add(`https://pokemondb.net${href}`);
+      }
+    });
+
+    console.log(`${links.size} pokemon found`);
+
+    for (const url of links) {
+      const name = url.split('/').pop();
+      const filePath = `./data/${name?.toLowerCase()}.json()`;
+
+      if (fs.existsSync(filePath)) {
+        console.log(`${name} already exists`);
+        continue;
+      }
+
+      console.log(`${name} is now crawling...`);
+      await crawlPokemon(url);
+    }
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+const crawlPokemon = async (url: string) => {
+  // const url = 'https://pokemondb.net/pokedex/scorbunny';
 
   try {
     const { data } = await axios.get(url);
@@ -181,4 +215,4 @@ const parseInfoCard = ($: cheerio.Root, el: cheerio.Element): EvolutionStage => 
 }
 
 
-void crawlPokemon();
+void crawlAll();

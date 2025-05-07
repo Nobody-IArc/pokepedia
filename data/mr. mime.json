@@ -1,0 +1,84 @@
+{
+  "name": "Mr. Mime",
+  "korName": "마임맨",
+  "species": "배리어포켓몬댄스포켓몬",
+  "types": [
+    "Psychic",
+    "Fairy",
+    "Ice",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "spAtk": 100,
+    "spDef": 120,
+    "speed": 90,
+    "total": 460
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Mime Jr.",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mime-jr.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "name": "Mr. Mime",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mr-mime.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "name": "Mr. Mime",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mr-mime-galarian.jpg",
+        "types": [
+          "Ice",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Mr. Rime",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mr-rime.jpg",
+        "types": [
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Mr. Mime",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mr-mime.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Mr. Mime",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mr-mime-galarian.jpg",
+        "types": [
+          "Ice",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Mr. Rime",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/mr-rime.jpg",
+        "types": [
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ]
+}

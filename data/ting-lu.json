@@ -1,0 +1,20 @@
+{
+  "name": "Ting-Lu",
+  "korName": "딩루재액포켓몬",
+  "species": "재액포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ting-lu.avif",
+  "types": [
+    "Dark",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 155,
+    "attack": 110,
+    "defense": 125,
+    "spAtk": 55,
+    "spDef": 80,
+    "speed": 45,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

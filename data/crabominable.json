@@ -1,0 +1,37 @@
+{
+  "name": "Crabominable",
+  "korName": "모단단게",
+  "species": "털게포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/crabominable.avif",
+  "types": [
+    "Fighting",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 97,
+    "attack": 132,
+    "defense": 77,
+    "spAtk": 62,
+    "spDef": 67,
+    "speed": 43,
+    "total": 478
+  },
+  "evolutions": [
+    {
+      "name": "Crabrawler",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/crabrawler.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(use Ice Stone, or at Mount Lanakila in Alola)"
+    },
+    {
+      "name": "Crabominable",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/crabominable.jpg",
+      "types": [
+        "Fighting",
+        "Ice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tapu Koko",
+  "korName": "카푸꼬꼬꼭",
+  "species": "토속신포켓몬",
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 85,
+    "spAtk": 95,
+    "spDef": 75,
+    "speed": 130,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

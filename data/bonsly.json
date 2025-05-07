@@ -1,0 +1,35 @@
+{
+  "name": "Bonsly",
+  "korName": "꼬지지",
+  "species": "분재포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bonsly.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "spAtk": 10,
+    "spDef": 45,
+    "speed": 10,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Bonsly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bonsly.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(after Mimic learned)"
+    },
+    {
+      "name": "Sudowoodo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sudowoodo.jpg",
+      "types": [
+        "Rock"
+      ]
+    }
+  ]
+}

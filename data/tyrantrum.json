@@ -1,0 +1,38 @@
+{
+  "name": "Tyrantrum",
+  "korName": "견고라스",
+  "species": "폭군포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tyrantrum.avif",
+  "types": [
+    "Rock",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 82,
+    "attack": 121,
+    "defense": 119,
+    "spAtk": 69,
+    "spDef": 59,
+    "speed": 71,
+    "total": 521
+  },
+  "evolutions": [
+    {
+      "name": "Tyrunt",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tyrunt.jpg",
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 39, Daytime)"
+    },
+    {
+      "name": "Tyrantrum",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tyrantrum.jpg",
+      "types": [
+        "Rock",
+        "Dragon"
+      ]
+    }
+  ]
+}

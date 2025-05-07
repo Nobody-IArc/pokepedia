@@ -1,0 +1,36 @@
+{
+  "name": "Rellor",
+  "korName": "구르데굴리기포켓몬",
+  "species": "굴리기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rellor.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 60,
+    "spAtk": 31,
+    "spDef": 58,
+    "speed": 30,
+    "total": 270
+  },
+  "evolutions": [
+    {
+      "name": "Rellor",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/rellor.png",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(walk 1,000 steps in Let's Go mode)"
+    },
+    {
+      "name": "Rabsca",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/rabsca.png",
+      "types": [
+        "Bug",
+        "Psychic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Durant",
+  "korName": "아이앤트",
+  "species": "철개미포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/durant.avif",
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "spAtk": 48,
+    "spDef": 48,
+    "speed": 109,
+    "total": 484
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

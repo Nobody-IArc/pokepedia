@@ -1,0 +1,20 @@
+{
+  "name": "Solrock",
+  "korName": "솔록",
+  "species": "별똥별포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/solrock.avif",
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 85,
+    "spAtk": 55,
+    "spDef": 65,
+    "speed": 70,
+    "total": 460
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

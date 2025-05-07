@@ -1,0 +1,22 @@
+{
+  "name": "Hoopa",
+  "korName": "후파",
+  "species": "장난포켓몬마신포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hoopa-confined.avif",
+  "types": [
+    "Psychic",
+    "Ghost",
+    "Psychic",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "spAtk": 150,
+    "spDef": 130,
+    "speed": 70,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Sobble",
+  "korName": "울머기",
+  "species": "물도마뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sobble.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 40,
+    "spAtk": 70,
+    "spDef": 40,
+    "speed": 70,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Sobble",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sobble.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Drizzile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drizzile.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Inteleon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/inteleon.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

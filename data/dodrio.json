@@ -1,0 +1,38 @@
+{
+  "name": "Dodrio",
+  "korName": "두트리오",
+  "species": "세쌍둥이새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dodrio.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "spAtk": 60,
+    "spDef": 60,
+    "speed": 110,
+    "total": 470
+  },
+  "evolutions": [
+    {
+      "name": "Doduo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/doduo.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 31)"
+    },
+    {
+      "name": "Dodrio",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dodrio.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

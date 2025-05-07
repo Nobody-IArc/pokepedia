@@ -1,0 +1,19 @@
+{
+  "name": "Iron Hands",
+  "korName": "무쇠손패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Fighting",
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 154,
+    "attack": 140,
+    "defense": 108,
+    "spAtk": 50,
+    "spDef": 68,
+    "speed": 50,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Mudkip",
+  "korName": "물짱이",
+  "species": "늪물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mudkip.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 40,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Mudkip",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mudkip.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Marshtomp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/marshtomp.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Swampert",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swampert.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ]
+    }
+  ]
+}

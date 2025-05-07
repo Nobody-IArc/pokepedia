@@ -1,0 +1,37 @@
+{
+  "name": "Diggersby",
+  "korName": "파르토",
+  "species": "땅구멍파기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/diggersby.avif",
+  "types": [
+    "Normal",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "spAtk": 50,
+    "spDef": 77,
+    "speed": 78,
+    "total": 423
+  },
+  "evolutions": [
+    {
+      "name": "Bunnelby",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bunnelby.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Diggersby",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/diggersby.jpg",
+      "types": [
+        "Normal",
+        "Ground"
+      ]
+    }
+  ]
+}

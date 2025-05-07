@@ -1,0 +1,38 @@
+{
+  "name": "Tentacool",
+  "korName": "왕눈해",
+  "species": "해파리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tentacool.avif",
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "spAtk": 50,
+    "spDef": 100,
+    "speed": 70,
+    "total": 335
+  },
+  "evolutions": [
+    {
+      "name": "Tentacool",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tentacool.jpg",
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Tentacruel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tentacruel.jpg",
+      "types": [
+        "Water",
+        "Poison"
+      ]
+    }
+  ]
+}

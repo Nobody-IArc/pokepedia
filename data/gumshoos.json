@@ -1,0 +1,35 @@
+{
+  "name": "Gumshoos",
+  "korName": "형사구스",
+  "species": "잠복포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gumshoos.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 110,
+    "defense": 60,
+    "spAtk": 55,
+    "spDef": 60,
+    "speed": 45,
+    "total": 418
+  },
+  "evolutions": [
+    {
+      "name": "Yungoos",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/yungoos.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20, Daytime)"
+    },
+    {
+      "name": "Gumshoos",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gumshoos.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

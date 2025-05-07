@@ -1,0 +1,38 @@
+{
+  "name": "Tentacruel",
+  "korName": "독파리",
+  "species": "해파리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tentacruel.avif",
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "spAtk": 80,
+    "spDef": 120,
+    "speed": 100,
+    "total": 515
+  },
+  "evolutions": [
+    {
+      "name": "Tentacool",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tentacool.jpg",
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Tentacruel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tentacruel.jpg",
+      "types": [
+        "Water",
+        "Poison"
+      ]
+    }
+  ]
+}

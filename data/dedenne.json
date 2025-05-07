@@ -1,0 +1,20 @@
+{
+  "name": "Dedenne",
+  "korName": "데덴네",
+  "species": "안테나포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dedenne.avif",
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "spAtk": 81,
+    "spDef": 67,
+    "speed": 101,
+    "total": 431
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

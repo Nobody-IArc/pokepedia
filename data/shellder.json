@@ -1,0 +1,36 @@
+{
+  "name": "Shellder",
+  "korName": "셀러",
+  "species": "두조개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shellder.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "spAtk": 45,
+    "spDef": 25,
+    "speed": 40,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Shellder",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shellder.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(use Water Stone)"
+    },
+    {
+      "name": "Cloyster",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cloyster.jpg",
+      "types": [
+        "Water",
+        "Ice"
+      ]
+    }
+  ]
+}

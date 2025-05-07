@@ -1,0 +1,43 @@
+{
+  "name": "Totodile",
+  "korName": "리아코",
+  "species": "큰턱포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/totodile.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "spAtk": 44,
+    "spDef": 48,
+    "speed": 43,
+    "total": 314
+  },
+  "evolutions": [
+    {
+      "name": "Totodile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/totodile.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Croconaw",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/croconaw.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Feraligatr",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/feraligatr.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

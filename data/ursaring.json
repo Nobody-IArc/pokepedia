@@ -1,0 +1,44 @@
+{
+  "name": "Ursaring",
+  "korName": "링곰",
+  "species": "동면포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ursaring.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "spAtk": 75,
+    "spDef": 75,
+    "speed": 55,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Teddiursa",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/teddiursa.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Ursaring",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ursaring.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(use Peat Block, under a full moon, in Legends: Arceus)"
+    },
+    {
+      "name": "Ursaluna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ursaluna.jpg",
+      "types": [
+        "Ground",
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Unown",
+  "korName": "안농",
+  "species": "심볼포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/unown.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "spAtk": 72,
+    "spDef": 48,
+    "speed": 48,
+    "total": 336
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

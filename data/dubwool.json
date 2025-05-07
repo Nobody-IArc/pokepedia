@@ -1,0 +1,35 @@
+{
+  "name": "Dubwool",
+  "korName": "배우르",
+  "species": "양포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dubwool.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 80,
+    "defense": 100,
+    "spAtk": 60,
+    "spDef": 90,
+    "speed": 88,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Wooloo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wooloo.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Dubwool",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dubwool.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Murkrow",
+  "korName": "니로우",
+  "species": "어둠포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/murkrow.avif",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "spAtk": 85,
+    "spDef": 42,
+    "speed": 91,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Murkrow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/murkrow.jpg",
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "evolveMethod": "(use Dusk Stone)"
+    },
+    {
+      "name": "Honchkrow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/honchkrow.jpg",
+      "types": [
+        "Dark",
+        "Flying"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bouffalant",
+  "korName": "버프론",
+  "species": "박치기소포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bouffalant.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "spAtk": 40,
+    "spDef": 95,
+    "speed": 55,
+    "total": 490
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

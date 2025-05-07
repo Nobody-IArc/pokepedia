@@ -1,0 +1,45 @@
+{
+  "name": "Delphox",
+  "korName": "마폭시",
+  "species": "여우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/delphox.avif",
+  "types": [
+    "Fire",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "spAtk": 114,
+    "spDef": 100,
+    "speed": 104,
+    "total": 534
+  },
+  "evolutions": [
+    {
+      "name": "Fennekin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fennekin.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Braixen",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/braixen.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Delphox",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/delphox.jpg",
+      "types": [
+        "Fire",
+        "Psychic"
+      ]
+    }
+  ]
+}

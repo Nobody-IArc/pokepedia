@@ -1,0 +1,43 @@
+{
+  "name": "Clefairy",
+  "korName": "삐삐",
+  "species": "요정포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/clefairy.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "spAtk": 60,
+    "spDef": 65,
+    "speed": 35,
+    "total": 323
+  },
+  "evolutions": [
+    {
+      "name": "Cleffa",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cleffa.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Clefairy",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/clefairy.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(use Moon Stone)"
+    },
+    {
+      "name": "Clefable",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/clefable.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

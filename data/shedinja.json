@@ -1,0 +1,83 @@
+{
+  "name": "Shedinja",
+  "korName": "껍질몬",
+  "species": "허물포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shedinja.avif",
+  "types": [
+    "Bug",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "spAtk": 30,
+    "spDef": 30,
+    "speed": 40,
+    "total": 236
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Nincada",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/nincada.jpg",
+        "types": [
+          "Bug",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Ninjask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninjask.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Ninjask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninjask.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Shedinja",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/shedinja.jpg",
+        "types": [
+          "Bug",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Ninjask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninjask.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Ninjask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninjask.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Shedinja",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/shedinja.jpg",
+        "types": [
+          "Bug",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

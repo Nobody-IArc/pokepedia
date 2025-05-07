@@ -1,0 +1,43 @@
+{
+  "name": "Steenee",
+  "korName": "달무리나",
+  "species": "후르츠포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/steenee.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 52,
+    "attack": 40,
+    "defense": 48,
+    "spAtk": 40,
+    "spDef": 48,
+    "speed": 62,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Bounsweet",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bounsweet.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Steenee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/steenee.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(after Stomp learned)"
+    },
+    {
+      "name": "Tsareena",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tsareena.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

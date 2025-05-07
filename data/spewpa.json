@@ -1,0 +1,44 @@
+{
+  "name": "Spewpa",
+  "korName": "분떠도리",
+  "species": "가루뿜기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spewpa.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "spAtk": 27,
+    "spDef": 30,
+    "speed": 29,
+    "total": 213
+  },
+  "evolutions": [
+    {
+      "name": "Scatterbug",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/scatterbug.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 9)"
+    },
+    {
+      "name": "Spewpa",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spewpa.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 12)"
+    },
+    {
+      "name": "Vivillon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vivillon.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

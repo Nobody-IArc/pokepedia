@@ -1,0 +1,35 @@
+{
+  "name": "Meltan",
+  "korName": "멜탄",
+  "species": "너트포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/meltan.avif",
+  "types": [
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 46,
+    "attack": 65,
+    "defense": 65,
+    "spAtk": 55,
+    "spDef": 35,
+    "speed": 34,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Meltan",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/meltan.jpg",
+      "types": [
+        "Steel"
+      ],
+      "evolveMethod": "(Pokémon GO only, 400 Meltan Candies)"
+    },
+    {
+      "name": "Melmetal",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/melmetal.jpg",
+      "types": [
+        "Steel"
+      ]
+    }
+  ]
+}

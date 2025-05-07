@@ -1,0 +1,35 @@
+{
+  "name": "Arrokuda",
+  "korName": "찌로꼬치",
+  "species": "돌격포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arrokuda.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 41,
+    "attack": 63,
+    "defense": 40,
+    "spAtk": 40,
+    "spDef": 30,
+    "speed": 66,
+    "total": 280
+  },
+  "evolutions": [
+    {
+      "name": "Arrokuda",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/arrokuda.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Barraskewda",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/barraskewda.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

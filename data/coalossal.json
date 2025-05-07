@@ -1,0 +1,46 @@
+{
+  "name": "Coalossal",
+  "korName": "석탄산",
+  "species": "석탄포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/coalossal.avif",
+  "types": [
+    "Rock",
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 120,
+    "spAtk": 80,
+    "spDef": 90,
+    "speed": 30,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Rolycoly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rolycoly.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Carkol",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/carkol.jpg",
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Coalossal",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/coalossal.jpg",
+      "types": [
+        "Rock",
+        "Fire"
+      ]
+    }
+  ]
+}

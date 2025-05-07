@@ -1,0 +1,43 @@
+{
+  "name": "Machop",
+  "korName": "알통몬",
+  "species": "괴력포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/machop.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "spAtk": 35,
+    "spDef": 35,
+    "speed": 35,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Machop",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/machop.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 28)"
+    },
+    {
+      "name": "Machoke",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/machoke.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Machamp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/machamp.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

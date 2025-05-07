@@ -1,0 +1,39 @@
+{
+  "name": "Gyarados",
+  "korName": "갸라도스",
+  "species": "흉악포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gyarados.avif",
+  "types": [
+    "Water",
+    "Flying",
+    "Water",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "spAtk": 60,
+    "spDef": 100,
+    "speed": 81,
+    "total": 540
+  },
+  "evolutions": [
+    {
+      "name": "Magikarp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magikarp.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Gyarados",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gyarados.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ]
+    }
+  ]
+}

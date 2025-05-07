@@ -1,0 +1,46 @@
+{
+  "name": "Emboar",
+  "korName": "염무왕",
+  "species": "큰불돼지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/emboar.avif",
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "spAtk": 100,
+    "spDef": 65,
+    "speed": 65,
+    "total": 528
+  },
+  "evolutions": [
+    {
+      "name": "Tepig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tepig.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Pignite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pignite.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Emboar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/emboar.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    }
+  ]
+}

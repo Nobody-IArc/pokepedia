@@ -1,0 +1,49 @@
+{
+  "name": "Garchomp",
+  "korName": "한카리아스",
+  "species": "마하포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/garchomp.avif",
+  "types": [
+    "Dragon",
+    "Ground",
+    "Dragon",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 108,
+    "attack": 130,
+    "defense": 95,
+    "spAtk": 80,
+    "spDef": 85,
+    "speed": 102,
+    "total": 600
+  },
+  "evolutions": [
+    {
+      "name": "Gible",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gible.jpg",
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Gabite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gabite.jpg",
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 48)"
+    },
+    {
+      "name": "Garchomp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/garchomp.jpg",
+      "types": [
+        "Dragon",
+        "Ground"
+      ]
+    }
+  ]
+}

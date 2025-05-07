@@ -1,0 +1,36 @@
+{
+  "name": "Nosepass",
+  "korName": "코코파스",
+  "species": "컴퍼스포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nosepass.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 135,
+    "spAtk": 45,
+    "spDef": 90,
+    "speed": 30,
+    "total": 375
+  },
+  "evolutions": [
+    {
+      "name": "Nosepass",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nosepass.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(use Thunder Stone, in Gen 8+, or level up in a Magnetic Field area)"
+    },
+    {
+      "name": "Probopass",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/probopass.jpg",
+      "types": [
+        "Rock",
+        "Steel"
+      ]
+    }
+  ]
+}

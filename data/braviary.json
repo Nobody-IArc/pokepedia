@@ -1,0 +1,69 @@
+{
+  "name": "Braviary",
+  "korName": "워글",
+  "species": "용맹포켓몬부르짖기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/braviary.avif",
+  "types": [
+    "Normal",
+    "Flying",
+    "Psychic",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 123,
+    "defense": 75,
+    "spAtk": 57,
+    "spDef": 75,
+    "speed": 80,
+    "total": 510
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Rufflet",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rufflet.jpg",
+        "types": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary.jpg",
+        "types": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary-hisuian.jpg",
+        "types": [
+          "Psychic",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary.jpg",
+        "types": [
+          "Normal",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Braviary",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/braviary-hisuian.jpg",
+        "types": [
+          "Psychic",
+          "Flying"
+        ]
+      }
+    ]
+  ]
+}

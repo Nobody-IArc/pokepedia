@@ -1,0 +1,45 @@
+{
+  "name": "Incineroar",
+  "korName": "어흥염",
+  "species": "힐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/incineroar.avif",
+  "types": [
+    "Fire",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "spAtk": 80,
+    "spDef": 90,
+    "speed": 60,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Litten",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/litten.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Torracat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torracat.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Incineroar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/incineroar.jpg",
+      "types": [
+        "Fire",
+        "Dark"
+      ]
+    }
+  ]
+}

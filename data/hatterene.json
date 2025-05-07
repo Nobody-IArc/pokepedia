@@ -1,0 +1,45 @@
+{
+  "name": "Hatterene",
+  "korName": "브리무음",
+  "species": "정적포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hatterene.avif",
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 57,
+    "attack": 90,
+    "defense": 95,
+    "spAtk": 136,
+    "spDef": 103,
+    "speed": 29,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Hatenna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hatenna.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Hattrem",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hattrem.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Hatterene",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hatterene.jpg",
+      "types": [
+        "Psychic",
+        "Fairy"
+      ]
+    }
+  ]
+}

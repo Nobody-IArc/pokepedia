@@ -1,0 +1,36 @@
+{
+  "name": "Poipole",
+  "korName": "베베놈",
+  "species": "독침포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/poipole.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 73,
+    "defense": 67,
+    "spAtk": 73,
+    "spDef": 67,
+    "speed": 73,
+    "total": 420
+  },
+  "evolutions": [
+    {
+      "name": "Poipole",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/poipole.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(after Dragon Pulse learned)"
+    },
+    {
+      "name": "Naganadel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/naganadel.jpg",
+      "types": [
+        "Poison",
+        "Dragon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kangaskhan",
+  "korName": "캥카",
+  "species": "가족포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kangaskhan.avif",
+  "types": [
+    "Normal",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "spAtk": 40,
+    "spDef": 80,
+    "speed": 90,
+    "total": 490
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

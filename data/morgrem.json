@@ -1,0 +1,47 @@
+{
+  "name": "Morgrem",
+  "korName": "쏘겨모",
+  "species": "성악포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/morgrem.avif",
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 45,
+    "spAtk": 75,
+    "spDef": 55,
+    "speed": 70,
+    "total": 370
+  },
+  "evolutions": [
+    {
+      "name": "Impidimp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/impidimp.jpg",
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Morgrem",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/morgrem.jpg",
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Grimmsnarl",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grimmsnarl.jpg",
+      "types": [
+        "Dark",
+        "Fairy"
+      ]
+    }
+  ]
+}

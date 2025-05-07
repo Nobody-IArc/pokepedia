@@ -1,0 +1,24 @@
+{
+  "name": "Calyrex",
+  "korName": "버드렉스",
+  "species": "킹포켓몬엠페러포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/calyrex.avif",
+  "types": [
+    "Psychic",
+    "Grass",
+    "Psychic",
+    "Ice",
+    "Psychic",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 80,
+    "defense": 80,
+    "spAtk": 80,
+    "spDef": 80,
+    "speed": 80,
+    "total": 500
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

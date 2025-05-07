@@ -1,0 +1,19 @@
+{
+  "name": "Falinks",
+  "korName": "대여르",
+  "species": "진형포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/falinks.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 100,
+    "spAtk": 70,
+    "spDef": 60,
+    "speed": 75,
+    "total": 470
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

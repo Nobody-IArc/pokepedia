@@ -1,0 +1,65 @@
+{
+  "name": "Weezing",
+  "korName": "또도가스",
+  "species": "독가스포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/weezing.avif",
+  "types": [
+    "Poison",
+    "Poison",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "spAtk": 85,
+    "spDef": 70,
+    "speed": 60,
+    "total": 490
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Koffing",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/koffing.jpg",
+        "types": [
+          "Poison"
+        ]
+      },
+      {
+        "name": "Weezing",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/weezing.jpg",
+        "types": [
+          "Poison"
+        ]
+      },
+      {
+        "name": "Weezing",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/weezing-galarian.jpg",
+        "types": [
+          "Poison",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Weezing",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/weezing.jpg",
+        "types": [
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Weezing",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/weezing-galarian.jpg",
+        "types": [
+          "Poison",
+          "Fairy"
+        ]
+      }
+    ]
+  ]
+}

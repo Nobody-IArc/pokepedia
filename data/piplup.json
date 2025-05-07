@@ -1,0 +1,44 @@
+{
+  "name": "Piplup",
+  "korName": "팽도리",
+  "species": "펭귄포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/piplup.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 53,
+    "attack": 51,
+    "defense": 53,
+    "spAtk": 61,
+    "spDef": 56,
+    "speed": 40,
+    "total": 314
+  },
+  "evolutions": [
+    {
+      "name": "Piplup",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/piplup.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Prinplup",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/prinplup.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Empoleon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/empoleon.jpg",
+      "types": [
+        "Water",
+        "Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Dusknoir",
+  "korName": "야느와르몽",
+  "species": "움켜쥐기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dusknoir.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 135,
+    "spAtk": 65,
+    "spDef": 135,
+    "speed": 45,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Duskull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/duskull.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Dusclops",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dusclops.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(trade holding Reaper Cloth)"
+    },
+    {
+      "name": "Dusknoir",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dusknoir.jpg",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

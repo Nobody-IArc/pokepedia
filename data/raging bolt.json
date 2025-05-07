@@ -1,0 +1,19 @@
+{
+  "name": "Raging Bolt",
+  "korName": "",
+  "species": "",
+  "types": [
+    "Electric",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 125,
+    "attack": 73,
+    "defense": 91,
+    "spAtk": 137,
+    "spDef": 89,
+    "speed": 75,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

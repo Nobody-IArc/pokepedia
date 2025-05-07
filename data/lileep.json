@@ -1,0 +1,38 @@
+{
+  "name": "Lileep",
+  "korName": "릴링",
+  "species": "바다나리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lileep.avif",
+  "types": [
+    "Rock",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "spAtk": 61,
+    "spDef": 87,
+    "speed": 23,
+    "total": 355
+  },
+  "evolutions": [
+    {
+      "name": "Lileep",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lileep.jpg",
+      "types": [
+        "Rock",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Cradily",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cradily.jpg",
+      "types": [
+        "Rock",
+        "Grass"
+      ]
+    }
+  ]
+}

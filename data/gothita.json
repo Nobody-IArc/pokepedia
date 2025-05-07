@@ -1,0 +1,43 @@
+{
+  "name": "Gothita",
+  "korName": "고디탱",
+  "species": "응시포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gothita.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "spAtk": 55,
+    "spDef": 65,
+    "speed": 45,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Gothita",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gothita.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Gothorita",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gothorita.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 41)"
+    },
+    {
+      "name": "Gothitelle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gothitelle.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

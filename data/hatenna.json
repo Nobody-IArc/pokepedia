@@ -1,0 +1,44 @@
+{
+  "name": "Hatenna",
+  "korName": "몸지브림",
+  "species": "차분포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hatenna.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 45,
+    "spAtk": 56,
+    "spDef": 53,
+    "speed": 39,
+    "total": 265
+  },
+  "evolutions": [
+    {
+      "name": "Hatenna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hatenna.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Hattrem",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hattrem.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Hatterene",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hatterene.jpg",
+      "types": [
+        "Psychic",
+        "Fairy"
+      ]
+    }
+  ]
+}

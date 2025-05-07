@@ -1,0 +1,44 @@
+{
+  "name": "Blastoise",
+  "korName": "거북왕",
+  "species": "껍질포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/blastoise.avif",
+  "types": [
+    "Water",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "spAtk": 85,
+    "spDef": 105,
+    "speed": 78,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Squirtle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/squirtle.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Wartortle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wartortle.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Blastoise",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blastoise.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

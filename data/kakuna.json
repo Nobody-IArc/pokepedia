@@ -1,0 +1,47 @@
+{
+  "name": "Kakuna",
+  "korName": "딱충이",
+  "species": "번데기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kakuna.avif",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "spAtk": 25,
+    "spDef": 25,
+    "speed": 35,
+    "total": 205
+  },
+  "evolutions": [
+    {
+      "name": "Weedle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/weedle.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 7)"
+    },
+    {
+      "name": "Kakuna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kakuna.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 10)"
+    },
+    {
+      "name": "Beedrill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/beedrill.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ]
+    }
+  ]
+}

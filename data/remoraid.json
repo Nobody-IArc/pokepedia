@@ -1,0 +1,35 @@
+{
+  "name": "Remoraid",
+  "korName": "총어",
+  "species": "분사포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/remoraid.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "spAtk": 65,
+    "spDef": 35,
+    "speed": 65,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Remoraid",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/remoraid.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Octillery",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/octillery.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sawk",
+  "korName": "타격귀",
+  "species": "태권도포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sawk.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 75,
+    "spAtk": 30,
+    "spDef": 75,
+    "speed": 85,
+    "total": 465
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

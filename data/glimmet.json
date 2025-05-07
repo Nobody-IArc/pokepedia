@@ -1,0 +1,38 @@
+{
+  "name": "Glimmet",
+  "korName": "초롱순광석포켓몬",
+  "species": "광석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/glimmet.avif",
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 35,
+    "defense": 42,
+    "spAtk": 105,
+    "spDef": 60,
+    "speed": 60,
+    "total": 350
+  },
+  "evolutions": [
+    {
+      "name": "Glimmet",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/glimmet.png",
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Glimmora",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/glimmora.png",
+      "types": [
+        "Rock",
+        "Poison"
+      ]
+    }
+  ]
+}

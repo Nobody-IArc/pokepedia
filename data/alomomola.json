@@ -1,0 +1,19 @@
+{
+  "name": "Alomomola",
+  "korName": "맘복치",
+  "species": "돌보기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/alomomola.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "spAtk": 40,
+    "spDef": 45,
+    "speed": 65,
+    "total": 470
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

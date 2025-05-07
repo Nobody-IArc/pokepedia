@@ -1,0 +1,19 @@
+{
+  "name": "Kecleon",
+  "korName": "켈리몬",
+  "species": "색변화포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kecleon.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "spAtk": 60,
+    "spDef": 120,
+    "speed": 40,
+    "total": 440
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Barboach",
+  "korName": "미꾸리",
+  "species": "수염물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/barboach.avif",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "spAtk": 46,
+    "spDef": 41,
+    "speed": 60,
+    "total": 288
+  },
+  "evolutions": [
+    {
+      "name": "Barboach",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/barboach.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Whiscash",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/whiscash.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ]
+    }
+  ]
+}

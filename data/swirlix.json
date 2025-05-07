@@ -1,0 +1,35 @@
+{
+  "name": "Swirlix",
+  "korName": "나룸퍼프",
+  "species": "솜사탕포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swirlix.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 62,
+    "attack": 48,
+    "defense": 66,
+    "spAtk": 59,
+    "spDef": 57,
+    "speed": 49,
+    "total": 341
+  },
+  "evolutions": [
+    {
+      "name": "Swirlix",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swirlix.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(trade holding Whipped Dream)"
+    },
+    {
+      "name": "Slurpuff",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/slurpuff.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

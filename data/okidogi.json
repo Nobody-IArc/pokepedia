@@ -1,0 +1,20 @@
+{
+  "name": "Okidogi",
+  "korName": "",
+  "species": "",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/okidogi.avif",
+  "types": [
+    "Poison",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 128,
+    "defense": 115,
+    "spAtk": 58,
+    "spDef": 86,
+    "speed": 80,
+    "total": 555
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luvdisc",
+  "korName": "사랑동이",
+  "species": "랑데부포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/luvdisc.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "spAtk": 40,
+    "spDef": 65,
+    "speed": 97,
+    "total": 330
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

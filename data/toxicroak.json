@@ -1,0 +1,38 @@
+{
+  "name": "Toxicroak",
+  "korName": "독개굴",
+  "species": "독설포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/toxicroak.avif",
+  "types": [
+    "Poison",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 83,
+    "attack": 106,
+    "defense": 65,
+    "spAtk": 86,
+    "spDef": 65,
+    "speed": 85,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Croagunk",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/croagunk.jpg",
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Toxicroak",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxicroak.jpg",
+      "types": [
+        "Poison",
+        "Fighting"
+      ]
+    }
+  ]
+}

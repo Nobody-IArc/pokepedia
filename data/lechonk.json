@@ -1,0 +1,61 @@
+{
+  "name": "Lechonk",
+  "korName": "맛보돈돼지포켓몬",
+  "species": "돼지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lechonk.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 54,
+    "attack": 45,
+    "defense": 40,
+    "spAtk": 35,
+    "spDef": 45,
+    "speed": 35,
+    "total": 254
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Lechonk",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/lechonk.png",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-male.png",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-female.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-male.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-female.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ]
+  ]
+}

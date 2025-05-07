@@ -1,0 +1,22 @@
+{
+  "name": "Dialga",
+  "korName": "디아루가",
+  "species": "시간포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dialga.avif",
+  "types": [
+    "Steel",
+    "Dragon",
+    "Steel",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "spAtk": 150,
+    "spDef": 100,
+    "speed": 90,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

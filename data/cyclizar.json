@@ -1,0 +1,20 @@
+{
+  "name": "Cyclizar",
+  "korName": "모토마라이드포켓몬",
+  "species": "라이드포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cyclizar.avif",
+  "types": [
+    "Dragon",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 65,
+    "spAtk": 85,
+    "spDef": 65,
+    "speed": 121,
+    "total": 501
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

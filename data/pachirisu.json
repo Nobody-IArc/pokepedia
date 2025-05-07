@@ -1,0 +1,19 @@
+{
+  "name": "Pachirisu",
+  "korName": "파치리스",
+  "species": "전기다람쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pachirisu.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "spAtk": 45,
+    "spDef": 90,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

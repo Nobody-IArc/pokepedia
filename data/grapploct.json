@@ -1,0 +1,35 @@
+{
+  "name": "Grapploct",
+  "korName": "케오퍼스",
+  "species": "유술포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/grapploct.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 118,
+    "defense": 90,
+    "spAtk": 70,
+    "spDef": 80,
+    "speed": 42,
+    "total": 480
+  },
+  "evolutions": [
+    {
+      "name": "Clobbopus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/clobbopus.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(after Taunt learned)"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grapploct.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

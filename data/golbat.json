@@ -1,0 +1,47 @@
+{
+  "name": "Golbat",
+  "korName": "골뱃",
+  "species": "박쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/golbat.avif",
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "spAtk": 65,
+    "spDef": 75,
+    "speed": 90,
+    "total": 455
+  },
+  "evolutions": [
+    {
+      "name": "Zubat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/zubat.jpg",
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Golbat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/golbat.jpg",
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Crobat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/crobat.jpg",
+      "types": [
+        "Poison",
+        "Flying"
+      ]
+    }
+  ]
+}

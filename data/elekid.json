@@ -1,0 +1,43 @@
+{
+  "name": "Elekid",
+  "korName": "에레키드",
+  "species": "전류포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/elekid.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "spAtk": 65,
+    "spDef": 55,
+    "speed": 95,
+    "total": 360
+  },
+  "evolutions": [
+    {
+      "name": "Elekid",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/elekid.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Electabuzz",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/electabuzz.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(trade holding Electirizer)"
+    },
+    {
+      "name": "Electivire",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/electivire.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

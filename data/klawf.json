@@ -1,0 +1,19 @@
+{
+  "name": "Klawf",
+  "korName": "절벼게매복포켓몬",
+  "species": "매복포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/klawf.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "spAtk": 35,
+    "spDef": 55,
+    "speed": 75,
+    "total": 450
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

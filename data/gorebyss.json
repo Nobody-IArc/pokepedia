@@ -1,0 +1,61 @@
+{
+  "name": "Gorebyss",
+  "korName": "분홍장이",
+  "species": "남해포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gorebyss.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "spAtk": 114,
+    "spDef": 75,
+    "speed": 52,
+    "total": 485
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Clamperl",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/clamperl.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Huntail",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Gorebyss",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Huntail",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Gorebyss",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ]
+  ]
+}

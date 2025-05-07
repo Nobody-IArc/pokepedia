@@ -1,0 +1,63 @@
+{
+  "name": "Obstagoon",
+  "korName": "가로막구리",
+  "species": "정지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/obstagoon.avif",
+  "types": [
+    "Dark",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 93,
+    "attack": 90,
+    "defense": 101,
+    "spAtk": 60,
+    "spDef": 81,
+    "speed": 95,
+    "total": 520
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Zigzagoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/zigzagoon.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Linoone",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/linoone.jpg",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Zigzagoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/zigzagoon-galarian.jpg",
+        "types": [
+          "Dark",
+          "Normal"
+        ]
+      },
+      {
+        "name": "Linoone",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/linoone-galarian.jpg",
+        "types": [
+          "Dark",
+          "Normal"
+        ]
+      },
+      {
+        "name": "Obstagoon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/obstagoon.jpg",
+        "types": [
+          "Dark",
+          "Normal"
+        ]
+      }
+    ]
+  ]
+}

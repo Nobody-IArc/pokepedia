@@ -1,0 +1,43 @@
+{
+  "name": "Grovyle",
+  "korName": "나무돌이",
+  "species": "숲도마뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/grovyle.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "spAtk": 85,
+    "spDef": 65,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Treecko",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/treecko.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Grovyle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grovyle.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Sceptile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sceptile.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

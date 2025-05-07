@@ -1,0 +1,38 @@
+{
+  "name": "Honchkrow",
+  "korName": "돈크로우",
+  "species": "큰형님포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/honchkrow.avif",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "spAtk": 105,
+    "spDef": 52,
+    "speed": 71,
+    "total": 505
+  },
+  "evolutions": [
+    {
+      "name": "Murkrow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/murkrow.jpg",
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "evolveMethod": "(use Dusk Stone)"
+    },
+    {
+      "name": "Honchkrow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/honchkrow.jpg",
+      "types": [
+        "Dark",
+        "Flying"
+      ]
+    }
+  ]
+}

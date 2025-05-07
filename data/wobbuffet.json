@@ -1,0 +1,35 @@
+{
+  "name": "Wobbuffet",
+  "korName": "마자용",
+  "species": "참기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wobbuffet.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "spAtk": 33,
+    "spDef": 58,
+    "speed": 33,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Wynaut",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wynaut.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Wobbuffet",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wobbuffet.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

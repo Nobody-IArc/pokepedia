@@ -1,0 +1,35 @@
+{
+  "name": "Clobbopus",
+  "korName": "때때무노",
+  "species": "떼쟁이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/clobbopus.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 68,
+    "defense": 60,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 32,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Clobbopus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/clobbopus.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(after Taunt learned)"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grapploct.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

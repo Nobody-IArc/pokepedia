@@ -1,0 +1,19 @@
+{
+  "name": "Komala",
+  "korName": "자말라",
+  "species": "꿈결포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/komala.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 115,
+    "defense": 65,
+    "spAtk": 75,
+    "spDef": 95,
+    "speed": 65,
+    "total": 480
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

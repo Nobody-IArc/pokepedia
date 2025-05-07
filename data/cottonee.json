@@ -1,0 +1,38 @@
+{
+  "name": "Cottonee",
+  "korName": "소미안",
+  "species": "솜뭉치포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cottonee.avif",
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "spAtk": 37,
+    "spDef": 50,
+    "speed": 66,
+    "total": 280
+  },
+  "evolutions": [
+    {
+      "name": "Cottonee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cottonee.jpg",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "evolveMethod": "(use Sun Stone)"
+    },
+    {
+      "name": "Whimsicott",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/whimsicott.jpg",
+      "types": [
+        "Grass",
+        "Fairy"
+      ]
+    }
+  ]
+}

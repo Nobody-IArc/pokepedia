@@ -1,0 +1,56 @@
+{
+  "name": "Dugtrio",
+  "korName": "닥트리오",
+  "species": "두더지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dugtrio.avif",
+  "types": [
+    "Ground",
+    "Ground",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "spAtk": 50,
+    "spDef": 70,
+    "speed": 120,
+    "total": 425
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Diglett",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/diglett.jpg",
+        "types": [
+          "Ground"
+        ]
+      },
+      {
+        "name": "Dugtrio",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dugtrio.jpg",
+        "types": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Diglett",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/diglett-alolan.jpg",
+        "types": [
+          "Ground",
+          "Steel"
+        ]
+      },
+      {
+        "name": "Dugtrio",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dugtrio-alolan.jpg",
+        "types": [
+          "Ground",
+          "Steel"
+        ]
+      }
+    ]
+  ]
+}

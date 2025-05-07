@@ -1,0 +1,35 @@
+{
+  "name": "Swalot",
+  "korName": "꿀꺽몬",
+  "species": "독봉지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swalot.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "spAtk": 73,
+    "spDef": 83,
+    "speed": 55,
+    "total": 467
+  },
+  "evolutions": [
+    {
+      "name": "Gulpin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gulpin.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Swalot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swalot.jpg",
+      "types": [
+        "Poison"
+      ]
+    }
+  ]
+}

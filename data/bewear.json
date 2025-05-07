@@ -1,0 +1,38 @@
+{
+  "name": "Bewear",
+  "korName": "이븐곰",
+  "species": "강한완력포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bewear.avif",
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 120,
+    "attack": 125,
+    "defense": 80,
+    "spAtk": 55,
+    "spDef": 60,
+    "speed": 60,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Stufful",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/stufful.jpg",
+      "types": [
+        "Normal",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 27)"
+    },
+    {
+      "name": "Bewear",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bewear.jpg",
+      "types": [
+        "Normal",
+        "Fighting"
+      ]
+    }
+  ]
+}

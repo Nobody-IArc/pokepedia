@@ -1,0 +1,43 @@
+{
+  "name": "Vigoroth",
+  "korName": "발바로",
+  "species": "성난원숭이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/vigoroth.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 90,
+    "total": 440
+  },
+  "evolutions": [
+    {
+      "name": "Slakoth",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/slakoth.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Vigoroth",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vigoroth.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Slaking",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/slaking.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

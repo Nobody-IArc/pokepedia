@@ -1,0 +1,45 @@
+{
+  "name": "Torterra",
+  "korName": "토대부기",
+  "species": "대륙포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/torterra.avif",
+  "types": [
+    "Grass",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 109,
+    "defense": 105,
+    "spAtk": 75,
+    "spDef": 85,
+    "speed": 56,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Turtwig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/turtwig.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Grotle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grotle.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Torterra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torterra.jpg",
+      "types": [
+        "Grass",
+        "Ground"
+      ]
+    }
+  ]
+}

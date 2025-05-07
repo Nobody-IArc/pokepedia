@@ -1,0 +1,56 @@
+{
+  "name": "Sandshrew",
+  "korName": "모래두지",
+  "species": "쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sandshrew.avif",
+  "types": [
+    "Ground",
+    "Ice",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "spAtk": 20,
+    "spDef": 30,
+    "speed": 40,
+    "total": 300
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Sandshrew",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandshrew.jpg",
+        "types": [
+          "Ground"
+        ]
+      },
+      {
+        "name": "Sandslash",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandslash.jpg",
+        "types": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Sandshrew",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandshrew-alolan.jpg",
+        "types": [
+          "Ice",
+          "Steel"
+        ]
+      },
+      {
+        "name": "Sandslash",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandslash-alolan.jpg",
+        "types": [
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ]
+}

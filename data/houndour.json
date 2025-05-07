@@ -1,0 +1,38 @@
+{
+  "name": "Houndour",
+  "korName": "델빌",
+  "species": "다크포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/houndour.avif",
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "spAtk": 80,
+    "spDef": 50,
+    "speed": 65,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Houndour",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/houndour.jpg",
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Houndoom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/houndoom.jpg",
+      "types": [
+        "Dark",
+        "Fire"
+      ]
+    }
+  ]
+}

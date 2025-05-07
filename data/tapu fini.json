@@ -1,0 +1,19 @@
+{
+  "name": "Tapu Fini",
+  "korName": "카푸느지느",
+  "species": "토속신포켓몬",
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 115,
+    "spAtk": 95,
+    "spDef": 130,
+    "speed": 85,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

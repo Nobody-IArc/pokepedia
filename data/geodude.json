@@ -1,0 +1,75 @@
+{
+  "name": "Geodude",
+  "korName": "꼬마돌",
+  "species": "암석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/geodude.avif",
+  "types": [
+    "Rock",
+    "Ground",
+    "Rock",
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "spAtk": 30,
+    "spDef": 30,
+    "speed": 20,
+    "total": 300
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Geodude",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/geodude.jpg",
+        "types": [
+          "Rock",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Graveler",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/graveler.jpg",
+        "types": [
+          "Rock",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Golem",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/golem.jpg",
+        "types": [
+          "Rock",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Geodude",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/geodude-alolan.jpg",
+        "types": [
+          "Rock",
+          "Electric"
+        ]
+      },
+      {
+        "name": "Graveler",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/graveler-alolan.jpg",
+        "types": [
+          "Rock",
+          "Electric"
+        ]
+      },
+      {
+        "name": "Golem",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/golem-alolan.jpg",
+        "types": [
+          "Rock",
+          "Electric"
+        ]
+      }
+    ]
+  ]
+}

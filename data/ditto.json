@@ -1,0 +1,19 @@
+{
+  "name": "Ditto",
+  "korName": "메타몽",
+  "species": "변신포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ditto.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "spAtk": 48,
+    "spDef": 48,
+    "speed": 48,
+    "total": 288
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

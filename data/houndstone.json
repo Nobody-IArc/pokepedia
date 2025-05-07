@@ -1,0 +1,35 @@
+{
+  "name": "Houndstone",
+  "korName": "묘두기유령개포켓몬",
+  "species": "유령개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/houndstone.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 101,
+    "defense": 100,
+    "spAtk": 50,
+    "spDef": 97,
+    "speed": 68,
+    "total": 488
+  },
+  "evolutions": [
+    {
+      "name": "Greavard",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/greavard.png",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 30, Nighttime)"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/houndstone.png",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

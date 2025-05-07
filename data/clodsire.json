@@ -1,0 +1,57 @@
+{
+  "name": "Clodsire",
+  "korName": "토오가시물고기포켓몬",
+  "species": "가시물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/clodsire.avif",
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 130,
+    "attack": 75,
+    "defense": 60,
+    "spAtk": 45,
+    "spDef": 100,
+    "speed": 20,
+    "total": 430
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Wooper",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/wooper.jpg",
+        "types": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Quagsire",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/quagsire.jpg",
+        "types": [
+          "Water",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Wooper",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/wooper-paldean.png",
+        "types": [
+          "Poison",
+          "Ground"
+        ]
+      },
+      {
+        "name": "Clodsire",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/clodsire.png",
+        "types": [
+          "Poison",
+          "Ground"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Heliolisk",
+  "korName": "일레도리자드",
+  "species": "발전포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/heliolisk.avif",
+  "types": [
+    "Electric",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 62,
+    "attack": 55,
+    "defense": 52,
+    "spAtk": 109,
+    "spDef": 94,
+    "speed": 109,
+    "total": 481
+  },
+  "evolutions": [
+    {
+      "name": "Helioptile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/helioptile.jpg",
+      "types": [
+        "Electric",
+        "Normal"
+      ],
+      "evolveMethod": "(use Sun Stone)"
+    },
+    {
+      "name": "Heliolisk",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/heliolisk.jpg",
+      "types": [
+        "Electric",
+        "Normal"
+      ]
+    }
+  ]
+}

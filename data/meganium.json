@@ -1,0 +1,43 @@
+{
+  "name": "Meganium",
+  "korName": "메가니움",
+  "species": "허브포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/meganium.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "spAtk": 83,
+    "spDef": 100,
+    "speed": 80,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Chikorita",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chikorita.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Bayleef",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bayleef.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Meganium",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/meganium.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

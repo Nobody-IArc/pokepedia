@@ -1,0 +1,22 @@
+{
+  "name": "Landorus",
+  "korName": "랜드로스",
+  "species": "풍요포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/landorus-incarnate.avif",
+  "types": [
+    "Ground",
+    "Flying",
+    "Ground",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 89,
+    "attack": 125,
+    "defense": 90,
+    "spAtk": 115,
+    "spDef": 80,
+    "speed": 101,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Pawmi",
+  "korName": "빠모쥐포켓몬",
+  "species": "쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pawmi.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 20,
+    "spAtk": 40,
+    "spDef": 25,
+    "speed": 60,
+    "total": 240
+  },
+  "evolutions": [
+    {
+      "name": "Pawmi",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/pawmi.png",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Pawmo",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/pawmo.png",
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "evolveMethod": "(walk 1,000 steps in Let's Go mode)"
+    },
+    {
+      "name": "Pawmot",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/pawmot.png",
+      "types": [
+        "Electric",
+        "Fighting"
+      ]
+    }
+  ]
+}

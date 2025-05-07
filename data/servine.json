@@ -1,0 +1,43 @@
+{
+  "name": "Servine",
+  "korName": "샤비",
+  "species": "풀뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/servine.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "spAtk": 60,
+    "spDef": 75,
+    "speed": 83,
+    "total": 413
+  },
+  "evolutions": [
+    {
+      "name": "Snivy",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/snivy.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Servine",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/servine.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Serperior",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/serperior.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

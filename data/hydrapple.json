@@ -1,0 +1,100 @@
+{
+  "name": "Hydrapple",
+  "korName": "",
+  "species": "",
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 80,
+    "defense": 110,
+    "spAtk": 120,
+    "spDef": 80,
+    "speed": 44,
+    "total": 540
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Applin",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/applin.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Flapple",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/flapple.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Appletun",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/appletun.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Dipplin",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dipplin.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Hydrapple",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/hydrapple.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Flapple",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/flapple.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Appletun",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/appletun.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Dipplin",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dipplin.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Hydrapple",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/hydrapple.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Seedot",
+  "korName": "도토링",
+  "species": "도토리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/seedot.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "spAtk": 30,
+    "spDef": 30,
+    "speed": 30,
+    "total": 220
+  },
+  "evolutions": [
+    {
+      "name": "Seedot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/seedot.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 14)"
+    },
+    {
+      "name": "Nuzleaf",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nuzleaf.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "evolveMethod": "(use Leaf Stone)"
+    },
+    {
+      "name": "Shiftry",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shiftry.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ]
+    }
+  ]
+}

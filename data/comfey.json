@@ -1,0 +1,19 @@
+{
+  "name": "Comfey",
+  "korName": "큐아링",
+  "species": "꽃따기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/comfey.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "spAtk": 82,
+    "spDef": 110,
+    "speed": 100,
+    "total": 485
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

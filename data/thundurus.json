@@ -1,0 +1,22 @@
+{
+  "name": "Thundurus",
+  "korName": "볼트로스",
+  "species": "뇌격포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/thundurus-incarnate.avif",
+  "types": [
+    "Electric",
+    "Flying",
+    "Electric",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "spAtk": 125,
+    "spDef": 80,
+    "speed": 111,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

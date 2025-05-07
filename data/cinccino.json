@@ -1,0 +1,35 @@
+{
+  "name": "Cinccino",
+  "korName": "치라치노",
+  "species": "스카프포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cinccino.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "spAtk": 65,
+    "spDef": 60,
+    "speed": 115,
+    "total": 470
+  },
+  "evolutions": [
+    {
+      "name": "Minccino",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/minccino.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(use Shiny Stone)"
+    },
+    {
+      "name": "Cinccino",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cinccino.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

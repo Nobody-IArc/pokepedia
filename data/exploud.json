@@ -1,0 +1,43 @@
+{
+  "name": "Exploud",
+  "korName": "폭음룡",
+  "species": "소음포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/exploud.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "spAtk": 91,
+    "spDef": 73,
+    "speed": 68,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Whismur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/whismur.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Loudred",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/loudred.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Exploud",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/exploud.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

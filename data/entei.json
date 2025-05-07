@@ -1,0 +1,19 @@
+{
+  "name": "Entei",
+  "korName": "앤테이",
+  "species": "화산포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/entei.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "spAtk": 90,
+    "spDef": 75,
+    "speed": 100,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

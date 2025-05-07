@@ -1,0 +1,19 @@
+{
+  "name": "Registeel",
+  "korName": "레지스틸",
+  "species": "쇠철포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/registeel.avif",
+  "types": [
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 75,
+    "defense": 150,
+    "spAtk": 75,
+    "spDef": 150,
+    "speed": 50,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

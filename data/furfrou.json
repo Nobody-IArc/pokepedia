@@ -1,0 +1,19 @@
+{
+  "name": "Furfrou",
+  "korName": "트리미앙",
+  "species": "푸들포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/furfrou.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "spAtk": 65,
+    "spDef": 90,
+    "speed": 102,
+    "total": 472
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

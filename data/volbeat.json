@@ -1,0 +1,19 @@
+{
+  "name": "Volbeat",
+  "korName": "볼비트",
+  "species": "반딧불포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/volbeat.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 73,
+    "defense": 75,
+    "spAtk": 47,
+    "spDef": 85,
+    "speed": 85,
+    "total": 430
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

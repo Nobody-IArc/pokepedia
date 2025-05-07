@@ -1,0 +1,35 @@
+{
+  "name": "Blitzle",
+  "korName": "줄뮤마",
+  "species": "하전포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/blitzle.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "spAtk": 50,
+    "spDef": 32,
+    "speed": 76,
+    "total": 295
+  },
+  "evolutions": [
+    {
+      "name": "Blitzle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blitzle.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 27)"
+    },
+    {
+      "name": "Zebstrika",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/zebstrika.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

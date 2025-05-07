@@ -1,0 +1,65 @@
+{
+  "name": "Kubfu",
+  "korName": "치고마",
+  "species": "권법포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kubfu.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 60,
+    "spAtk": 53,
+    "spDef": 50,
+    "speed": 72,
+    "total": 385
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Kubfu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/kubfu.jpg",
+        "types": [
+          "Fighting"
+        ]
+      },
+      {
+        "name": "Urshifu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/urshifu-single-strike.jpg",
+        "types": [
+          "Fighting",
+          "Dark"
+        ]
+      },
+      {
+        "name": "Urshifu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/urshifu-rapid-strike.jpg",
+        "types": [
+          "Fighting",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Urshifu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/urshifu-single-strike.jpg",
+        "types": [
+          "Fighting",
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Urshifu",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/urshifu-rapid-strike.jpg",
+        "types": [
+          "Fighting",
+          "Water"
+        ]
+      }
+    ]
+  ]
+}

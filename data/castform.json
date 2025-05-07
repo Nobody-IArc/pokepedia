@@ -1,0 +1,22 @@
+{
+  "name": "Castform",
+  "korName": "캐스퐁",
+  "species": "날씨포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/castform.avif",
+  "types": [
+    "Normal",
+    "Fire",
+    "Water",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "spAtk": 70,
+    "spDef": 70,
+    "speed": 70,
+    "total": 420
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

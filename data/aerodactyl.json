@@ -1,0 +1,22 @@
+{
+  "name": "Aerodactyl",
+  "korName": "프테라",
+  "species": "화석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/aerodactyl.avif",
+  "types": [
+    "Rock",
+    "Flying",
+    "Rock",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "spAtk": 60,
+    "spDef": 75,
+    "speed": 130,
+    "total": 515
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

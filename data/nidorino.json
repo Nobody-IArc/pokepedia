@@ -1,0 +1,44 @@
+{
+  "name": "Nidorino",
+  "korName": "니드리노",
+  "species": "독침포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nidorino.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 61,
+    "attack": 72,
+    "defense": 57,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 65,
+    "total": 365
+  },
+  "evolutions": [
+    {
+      "name": "Nidoran♂",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidoran-m.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Nidorino",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidorino.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(use Moon Stone)"
+    },
+    {
+      "name": "Nidoking",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidoking.jpg",
+      "types": [
+        "Poison",
+        "Ground"
+      ]
+    }
+  ]
+}

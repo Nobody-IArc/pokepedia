@@ -1,0 +1,21 @@
+{
+  "name": "Zacian",
+  "korName": "자시안",
+  "species": "강자포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/zacian-hero.avif",
+  "types": [
+    "Fairy",
+    "Fairy",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 92,
+    "attack": 120,
+    "defense": 115,
+    "spAtk": 80,
+    "spDef": 115,
+    "speed": 138,
+    "total": 660
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

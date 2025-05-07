@@ -1,0 +1,43 @@
+{
+  "name": "Gurdurr",
+  "korName": "토쇠골",
+  "species": "근골포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gurdurr.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 85,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 40,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Timburr",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/timburr.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Gurdurr",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gurdurr.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Conkeldurr",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/conkeldurr.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

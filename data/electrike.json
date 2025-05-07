@@ -1,0 +1,35 @@
+{
+  "name": "Electrike",
+  "korName": "썬더라이",
+  "species": "천둥번개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/electrike.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "spAtk": 65,
+    "spDef": 40,
+    "speed": 65,
+    "total": 295
+  },
+  "evolutions": [
+    {
+      "name": "Electrike",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/electrike.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Manectric",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/manectric.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

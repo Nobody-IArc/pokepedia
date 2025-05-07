@@ -1,0 +1,19 @@
+{
+  "name": "Gouging Fire",
+  "korName": "",
+  "species": "",
+  "types": [
+    "Fire",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 115,
+    "defense": 121,
+    "spAtk": 65,
+    "spDef": 93,
+    "speed": 91,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Plusle",
+  "korName": "플러시",
+  "species": "응원포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/plusle.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "spAtk": 85,
+    "spDef": 75,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Garganacl",
+  "korName": "콜로솔트암염포켓몬",
+  "species": "암염포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/garganacl.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 130,
+    "spAtk": 45,
+    "spDef": 90,
+    "speed": 35,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Nacli",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/nacli.png",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Naclstack",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/naclstack.png",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Garganacl",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/garganacl.png",
+      "types": [
+        "Rock"
+      ]
+    }
+  ]
+}

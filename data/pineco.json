@@ -1,0 +1,36 @@
+{
+  "name": "Pineco",
+  "korName": "피콘",
+  "species": "도롱이벌레포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pineco.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "spAtk": 35,
+    "spDef": 35,
+    "speed": 15,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Pineco",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pineco.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 31)"
+    },
+    {
+      "name": "Forretress",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/forretress.jpg",
+      "types": [
+        "Bug",
+        "Steel"
+      ]
+    }
+  ]
+}

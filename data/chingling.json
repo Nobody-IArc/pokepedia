@@ -1,0 +1,35 @@
+{
+  "name": "Chingling",
+  "korName": "랑딸랑",
+  "species": "방울포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/chingling.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "spAtk": 65,
+    "spDef": 50,
+    "speed": 45,
+    "total": 285
+  },
+  "evolutions": [
+    {
+      "name": "Chingling",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chingling.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(high Friendship, Nighttime)"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chimecho.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Venomoth",
+  "korName": "도나리",
+  "species": "독나방포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/venomoth.avif",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "spAtk": 90,
+    "spDef": 75,
+    "speed": 90,
+    "total": 450
+  },
+  "evolutions": [
+    {
+      "name": "Venonat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/venonat.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 31)"
+    },
+    {
+      "name": "Venomoth",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/venomoth.jpg",
+      "types": [
+        "Bug",
+        "Poison"
+      ]
+    }
+  ]
+}

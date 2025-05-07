@@ -1,0 +1,19 @@
+{
+  "name": "Torkoal",
+  "korName": "코터스",
+  "species": "석탄포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/torkoal.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "spAtk": 85,
+    "spDef": 70,
+    "speed": 20,
+    "total": 470
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

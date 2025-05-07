@@ -1,0 +1,25 @@
+{
+  "name": "Necrozma",
+  "korName": "네크로즈마",
+  "species": "프리즘포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/necrozma.avif",
+  "types": [
+    "Psychic",
+    "Psychic",
+    "Steel",
+    "Psychic",
+    "Ghost",
+    "Psychic",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 97,
+    "attack": 107,
+    "defense": 101,
+    "spAtk": 127,
+    "spDef": 89,
+    "speed": 79,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

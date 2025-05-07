@@ -1,0 +1,47 @@
+{
+  "name": "Doublade",
+  "korName": "쌍검킬",
+  "species": "도검포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/doublade.avif",
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "spAtk": 45,
+    "spDef": 49,
+    "speed": 35,
+    "total": 448
+  },
+  "evolutions": [
+    {
+      "name": "Honedge",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/honedge.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Doublade",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/doublade.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "evolveMethod": "(use Dusk Stone)"
+    },
+    {
+      "name": "Aegislash",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aegislash-shield.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ]
+    }
+  ]
+}

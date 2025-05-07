@@ -1,0 +1,40 @@
+{
+  "name": "Steelix",
+  "korName": "강철톤",
+  "species": "철뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/steelix.avif",
+  "types": [
+    "Steel",
+    "Ground",
+    "Steel",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "spAtk": 55,
+    "spDef": 65,
+    "speed": 30,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Onix",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/onix.jpg",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "evolveMethod": "(trade holding Metal Coat)"
+    },
+    {
+      "name": "Steelix",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/steelix.jpg",
+      "types": [
+        "Steel",
+        "Ground"
+      ]
+    }
+  ]
+}

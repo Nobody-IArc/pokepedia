@@ -1,0 +1,175 @@
+{
+  "name": "Flareon",
+  "korName": "부스터",
+  "species": "불꽃포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/flareon.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "spAtk": 95,
+    "spDef": 110,
+    "speed": 65,
+    "total": 525
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Eevee",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/eevee.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Vaporeon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vaporeon.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Jolteon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/jolteon.jpg",
+        "types": [
+          "Electric"
+        ]
+      },
+      {
+        "name": "Flareon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/flareon.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Vaporeon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vaporeon.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Jolteon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/jolteon.jpg",
+        "types": [
+          "Electric"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Flareon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/flareon.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Eevee",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/eevee.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Espeon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/espeon.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Umbreon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/umbreon.jpg",
+        "types": [
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Espeon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/espeon.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Umbreon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/umbreon.jpg",
+        "types": [
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Eevee",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/eevee.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Leafeon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/leafeon.jpg",
+        "types": [
+          "Grass"
+        ]
+      },
+      {
+        "name": "Glaceon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/glaceon.jpg",
+        "types": [
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Leafeon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/leafeon.jpg",
+        "types": [
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Glaceon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/glaceon.jpg",
+        "types": [
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Eevee",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/eevee.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Sylveon",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sylveon.jpg",
+        "types": [
+          "Fairy"
+        ]
+      }
+    ]
+  ]
+}

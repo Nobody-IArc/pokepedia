@@ -1,0 +1,55 @@
+{
+  "name": "Rapidash",
+  "korName": "날쌩마",
+  "species": "불의말포켓몬일각포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rapidash.avif",
+  "types": [
+    "Fire",
+    "Psychic",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "spAtk": 80,
+    "spDef": 80,
+    "speed": 105,
+    "total": 500
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Ponyta",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ponyta.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Rapidash",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rapidash.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Ponyta",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ponyta-galarian.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Rapidash",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rapidash-galarian.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ]
+}

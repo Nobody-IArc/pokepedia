@@ -1,0 +1,62 @@
+{
+  "name": "Dudunsparce",
+  "korName": "노고고치땅뱀포켓몬",
+  "species": "땅뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dudunsparce-two-segment.avif",
+  "types": [
+    "Normal",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 125,
+    "attack": 100,
+    "defense": 80,
+    "spAtk": 85,
+    "spDef": 75,
+    "speed": 55,
+    "total": 520
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Dunsparce",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dunsparce.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Dudunsparce",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dudunsparce-two-segment.png",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Dudunsparce",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dudunsparce-three-segment.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Dudunsparce",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dudunsparce-two-segment.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Dudunsparce",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dudunsparce-three-segment.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ]
+  ]
+}

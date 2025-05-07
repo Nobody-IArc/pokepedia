@@ -1,0 +1,46 @@
+{
+  "name": "Vibrava",
+  "korName": "비브라바",
+  "species": "진동포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/vibrava.avif",
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 70,
+    "total": 340
+  },
+  "evolutions": [
+    {
+      "name": "Trapinch",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trapinch.jpg",
+      "types": [
+        "Ground"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Vibrava",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vibrava.jpg",
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 45)"
+    },
+    {
+      "name": "Flygon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/flygon.jpg",
+      "types": [
+        "Ground",
+        "Dragon"
+      ]
+    }
+  ]
+}

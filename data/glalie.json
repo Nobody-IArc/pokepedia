@@ -1,0 +1,64 @@
+{
+  "name": "Glalie",
+  "korName": "얼음귀신",
+  "species": "얼굴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/glalie.avif",
+  "types": [
+    "Ice",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "spAtk": 80,
+    "spDef": 80,
+    "speed": 80,
+    "total": 480
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Snorunt",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/snorunt.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Glalie",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/glalie.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Froslass",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/froslass.jpg",
+        "types": [
+          "Ice",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Glalie",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/glalie.jpg",
+        "types": [
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Froslass",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/froslass.jpg",
+        "types": [
+          "Ice",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

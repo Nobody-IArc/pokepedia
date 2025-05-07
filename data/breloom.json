@@ -1,0 +1,37 @@
+{
+  "name": "Breloom",
+  "korName": "버섯모",
+  "species": "버섯포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/breloom.avif",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "spAtk": 60,
+    "spDef": 60,
+    "speed": 70,
+    "total": 460
+  },
+  "evolutions": [
+    {
+      "name": "Shroomish",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shroomish.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 23)"
+    },
+    {
+      "name": "Breloom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/breloom.jpg",
+      "types": [
+        "Grass",
+        "Fighting"
+      ]
+    }
+  ]
+}

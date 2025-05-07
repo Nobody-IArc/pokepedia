@@ -1,0 +1,38 @@
+{
+  "name": "Golett",
+  "korName": "골비람",
+  "species": "골렘포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/golett.avif",
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "spAtk": 35,
+    "spDef": 50,
+    "speed": 35,
+    "total": 303
+  },
+  "evolutions": [
+    {
+      "name": "Golett",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/golett.jpg",
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 43)"
+    },
+    {
+      "name": "Golurk",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/golurk.jpg",
+      "types": [
+        "Ground",
+        "Ghost"
+      ]
+    }
+  ]
+}

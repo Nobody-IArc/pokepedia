@@ -1,0 +1,43 @@
+{
+  "name": "Naclstack",
+  "korName": "스태솔트암염포켓몬",
+  "species": "암염포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/naclstack.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "spAtk": 35,
+    "spDef": 65,
+    "speed": 35,
+    "total": 355
+  },
+  "evolutions": [
+    {
+      "name": "Nacli",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/nacli.png",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Naclstack",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/naclstack.png",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Garganacl",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/garganacl.png",
+      "types": [
+        "Rock"
+      ]
+    }
+  ]
+}

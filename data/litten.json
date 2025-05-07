@@ -1,0 +1,44 @@
+{
+  "name": "Litten",
+  "korName": "냐오불",
+  "species": "불고양이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/litten.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "spAtk": 60,
+    "spDef": 40,
+    "speed": 70,
+    "total": 320
+  },
+  "evolutions": [
+    {
+      "name": "Litten",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/litten.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Torracat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torracat.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Incineroar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/incineroar.jpg",
+      "types": [
+        "Fire",
+        "Dark"
+      ]
+    }
+  ]
+}

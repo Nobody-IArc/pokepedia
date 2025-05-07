@@ -1,0 +1,24 @@
+{
+  "name": "Tauros",
+  "korName": "켄타로스",
+  "species": "성난소포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tauros.avif",
+  "types": [
+    "Normal",
+    "Fighting",
+    "Fighting",
+    "Fire",
+    "Fighting",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 95,
+    "spAtk": 40,
+    "spDef": 70,
+    "speed": 110,
+    "total": 490
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

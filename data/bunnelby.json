@@ -1,0 +1,36 @@
+{
+  "name": "Bunnelby",
+  "korName": "파르빗",
+  "species": "땅구멍파기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bunnelby.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "spAtk": 32,
+    "spDef": 36,
+    "speed": 57,
+    "total": 237
+  },
+  "evolutions": [
+    {
+      "name": "Bunnelby",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bunnelby.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Diggersby",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/diggersby.jpg",
+      "types": [
+        "Normal",
+        "Ground"
+      ]
+    }
+  ]
+}

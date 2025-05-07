@@ -1,0 +1,20 @@
+{
+  "name": "Hawlucha",
+  "korName": "루차불",
+  "species": "레슬링포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hawlucha.avif",
+  "types": [
+    "Fighting",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 92,
+    "defense": 75,
+    "spAtk": 74,
+    "spDef": 63,
+    "speed": 118,
+    "total": 500
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

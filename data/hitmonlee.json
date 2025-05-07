@@ -1,0 +1,77 @@
+{
+  "name": "Hitmonlee",
+  "korName": "시라소몬",
+  "species": "킥포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hitmonlee.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "spAtk": 35,
+    "spDef": 110,
+    "speed": 87,
+    "total": 455
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Tyrogue",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/tyrogue.jpg",
+        "types": [
+          "Fighting"
+        ]
+      },
+      {
+        "name": "Hitmonlee",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/hitmonlee.jpg",
+        "types": [
+          "Fighting"
+        ]
+      },
+      {
+        "name": "Hitmonchan",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/hitmonchan.jpg",
+        "types": [
+          "Fighting"
+        ]
+      },
+      {
+        "name": "Hitmontop",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/hitmontop.jpg",
+        "types": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Hitmonlee",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/hitmonlee.jpg",
+        "types": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Hitmonchan",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/hitmonchan.jpg",
+        "types": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Hitmontop",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/hitmontop.jpg",
+        "types": [
+          "Fighting"
+        ]
+      }
+    ]
+  ]
+}

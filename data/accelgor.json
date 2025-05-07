@@ -1,0 +1,35 @@
+{
+  "name": "Accelgor",
+  "korName": "어지리더",
+  "species": "탈껍질포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/accelgor.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "spAtk": 100,
+    "spDef": 60,
+    "speed": 145,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Shelmet",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shelmet.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Trade with Karrablast)"
+    },
+    {
+      "name": "Accelgor",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/accelgor.jpg",
+      "types": [
+        "Bug"
+      ]
+    }
+  ]
+}

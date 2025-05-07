@@ -1,0 +1,38 @@
+{
+  "name": "Jellicent",
+  "korName": "탱탱겔",
+  "species": "부유포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/jellicent.avif",
+  "types": [
+    "Water",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "spAtk": 85,
+    "spDef": 105,
+    "speed": 60,
+    "total": 480
+  },
+  "evolutions": [
+    {
+      "name": "Frillish",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/frillish.jpg",
+      "types": [
+        "Water",
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Jellicent",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/jellicent.jpg",
+      "types": [
+        "Water",
+        "Ghost"
+      ]
+    }
+  ]
+}

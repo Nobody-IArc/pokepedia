@@ -1,0 +1,47 @@
+{
+  "name": "Skiploom",
+  "korName": "두코",
+  "species": "솜풀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/skiploom.avif",
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "spAtk": 45,
+    "spDef": 65,
+    "speed": 80,
+    "total": 340
+  },
+  "evolutions": [
+    {
+      "name": "Hoppip",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hoppip.jpg",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Skiploom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/skiploom.jpg",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 27)"
+    },
+    {
+      "name": "Jumpluff",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/jumpluff.jpg",
+      "types": [
+        "Grass",
+        "Flying"
+      ]
+    }
+  ]
+}

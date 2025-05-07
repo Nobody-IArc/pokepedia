@@ -1,0 +1,38 @@
+{
+  "name": "Araquanid",
+  "korName": "깨비물거미",
+  "species": "수포포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/araquanid.avif",
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 70,
+    "defense": 92,
+    "spAtk": 50,
+    "spDef": 132,
+    "speed": 42,
+    "total": 454
+  },
+  "evolutions": [
+    {
+      "name": "Dewpider",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dewpider.jpg",
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Araquanid",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/araquanid.jpg",
+      "types": [
+        "Water",
+        "Bug"
+      ]
+    }
+  ]
+}

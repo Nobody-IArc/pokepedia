@@ -1,0 +1,19 @@
+{
+  "name": "Pincurchin",
+  "korName": "찌르성게",
+  "species": "성게포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pincurchin.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 101,
+    "defense": 95,
+    "spAtk": 91,
+    "spDef": 85,
+    "speed": 15,
+    "total": 435
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

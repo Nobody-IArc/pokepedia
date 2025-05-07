@@ -1,0 +1,72 @@
+{
+  "name": "Cosmoem",
+  "korName": "코스모움",
+  "species": "원시성포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cosmoem.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 131,
+    "spAtk": 29,
+    "spDef": 131,
+    "speed": 37,
+    "total": 400
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Cosmog",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cosmog.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Cosmoem",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cosmoem.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Solgaleo",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/solgaleo.jpg",
+        "types": [
+          "Psychic",
+          "Steel"
+        ]
+      },
+      {
+        "name": "Lunala",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lunala.jpg",
+        "types": [
+          "Psychic",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Solgaleo",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/solgaleo.jpg",
+        "types": [
+          "Psychic",
+          "Steel"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Lunala",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/lunala.jpg",
+        "types": [
+          "Psychic",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Pecharunt",
+  "korName": "",
+  "species": "",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pecharunt.avif",
+  "types": [
+    "Poison",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 88,
+    "defense": 160,
+    "spAtk": 88,
+    "spDef": 88,
+    "speed": 88,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mesprit",
+  "korName": "엠라이트",
+  "species": "감정포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mesprit.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 105,
+    "spAtk": 105,
+    "spDef": 105,
+    "speed": 80,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

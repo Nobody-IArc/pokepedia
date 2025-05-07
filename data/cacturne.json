@@ -1,0 +1,37 @@
+{
+  "name": "Cacturne",
+  "korName": "밤선인",
+  "species": "허수아비포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cacturne.avif",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "spAtk": 115,
+    "spDef": 60,
+    "speed": 55,
+    "total": 475
+  },
+  "evolutions": [
+    {
+      "name": "Cacnea",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cacnea.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Cacturne",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cacturne.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ]
+    }
+  ]
+}

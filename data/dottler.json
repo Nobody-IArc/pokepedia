@@ -1,0 +1,46 @@
+{
+  "name": "Dottler",
+  "korName": "레돔벌레",
+  "species": "레이돔포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dottler.avif",
+  "types": [
+    "Bug",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 80,
+    "spAtk": 50,
+    "spDef": 90,
+    "speed": 30,
+    "total": 335
+  },
+  "evolutions": [
+    {
+      "name": "Blipbug",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blipbug.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 10)"
+    },
+    {
+      "name": "Dottler",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dottler.jpg",
+      "types": [
+        "Bug",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Orbeetle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/orbeetle.jpg",
+      "types": [
+        "Bug",
+        "Psychic"
+      ]
+    }
+  ]
+}

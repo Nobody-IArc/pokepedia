@@ -1,0 +1,45 @@
+{
+  "name": "Ampharos",
+  "korName": "전룡",
+  "species": "라이트포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ampharos.avif",
+  "types": [
+    "Electric",
+    "Electric",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "spAtk": 115,
+    "spDef": 90,
+    "speed": 55,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Mareep",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mareep.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Flaaffy",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/flaaffy.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Ampharos",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ampharos.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

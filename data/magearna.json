@@ -1,0 +1,20 @@
+{
+  "name": "Magearna",
+  "korName": "마기아나",
+  "species": "인조포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/magearna.avif",
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 115,
+    "spAtk": 130,
+    "spDef": 115,
+    "speed": 65,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Pancham",
+  "korName": "판짱",
+  "species": "개구쟁이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pancham.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "spAtk": 46,
+    "spDef": 48,
+    "speed": 43,
+    "total": 348
+  },
+  "evolutions": [
+    {
+      "name": "Pancham",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pancham.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 32, Dark type Pokémon in party)"
+    },
+    {
+      "name": "Pangoro",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pangoro.jpg",
+      "types": [
+        "Fighting",
+        "Dark"
+      ]
+    }
+  ]
+}

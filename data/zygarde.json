@@ -1,0 +1,24 @@
+{
+  "name": "Zygarde",
+  "korName": "지가르데",
+  "species": "질서포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/zygarde-50.avif",
+  "types": [
+    "Dragon",
+    "Ground",
+    "Dragon",
+    "Ground",
+    "Dragon",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "spAtk": 81,
+    "spDef": 95,
+    "speed": 95,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Cutiefly",
+  "korName": "에블리",
+  "species": "재니등에포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cutiefly.avif",
+  "types": [
+    "Bug",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "spAtk": 55,
+    "spDef": 40,
+    "speed": 84,
+    "total": 304
+  },
+  "evolutions": [
+    {
+      "name": "Cutiefly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/cutiefly.jpg",
+      "types": [
+        "Bug",
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Ribombee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ribombee.jpg",
+      "types": [
+        "Bug",
+        "Fairy"
+      ]
+    }
+  ]
+}

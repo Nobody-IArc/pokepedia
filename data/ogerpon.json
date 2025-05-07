@@ -1,0 +1,25 @@
+{
+  "name": "Ogerpon",
+  "korName": "",
+  "species": "",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ogerpon-teal.avif",
+  "types": [
+    "Grass",
+    "Grass",
+    "Water",
+    "Grass",
+    "Fire",
+    "Grass",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "spAtk": 60,
+    "spDef": 96,
+    "speed": 110,
+    "total": 550
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

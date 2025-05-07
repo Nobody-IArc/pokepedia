@@ -1,0 +1,35 @@
+{
+  "name": "Trubbish",
+  "korName": "깨봉이",
+  "species": "쓰레기봉투포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/trubbish.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "spAtk": 40,
+    "spDef": 62,
+    "speed": 65,
+    "total": 329
+  },
+  "evolutions": [
+    {
+      "name": "Trubbish",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trubbish.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Garbodor",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/garbodor.jpg",
+      "types": [
+        "Poison"
+      ]
+    }
+  ]
+}

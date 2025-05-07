@@ -1,0 +1,36 @@
+{
+  "name": "Riolu",
+  "korName": "리오르",
+  "species": "파문포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/riolu.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 40,
+    "spAtk": 35,
+    "spDef": 40,
+    "speed": 60,
+    "total": 285
+  },
+  "evolutions": [
+    {
+      "name": "Riolu",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/riolu.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(high Friendship, Daytime)"
+    },
+    {
+      "name": "Lucario",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lucario.jpg",
+      "types": [
+        "Fighting",
+        "Steel"
+      ]
+    }
+  ]
+}

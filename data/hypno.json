@@ -1,0 +1,35 @@
+{
+  "name": "Hypno",
+  "korName": "슬리퍼",
+  "species": "최면포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/hypno.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "spAtk": 73,
+    "spDef": 115,
+    "speed": 67,
+    "total": 483
+  },
+  "evolutions": [
+    {
+      "name": "Drowzee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drowzee.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Hypno",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hypno.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Pinsir",
+  "korName": "쁘사이저",
+  "species": "뿔집게포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pinsir.avif",
+  "types": [
+    "Bug",
+    "Bug",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "spAtk": 55,
+    "spDef": 70,
+    "speed": 85,
+    "total": 500
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

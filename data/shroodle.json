@@ -1,0 +1,38 @@
+{
+  "name": "Shroodle",
+  "korName": "땃쭈르독쥐포켓몬",
+  "species": "독쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shroodle.avif",
+  "types": [
+    "Poison",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 35,
+    "spAtk": 40,
+    "spDef": 35,
+    "speed": 75,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Shroodle",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/shroodle.png",
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "evolveMethod": "(Level 28)"
+    },
+    {
+      "name": "Grafaiai",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/grafaiai.png",
+      "types": [
+        "Poison",
+        "Normal"
+      ]
+    }
+  ]
+}

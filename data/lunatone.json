@@ -1,0 +1,20 @@
+{
+  "name": "Lunatone",
+  "korName": "루나톤",
+  "species": "별똥별포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lunatone.avif",
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "spAtk": 95,
+    "spDef": 85,
+    "speed": 70,
+    "total": 460
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

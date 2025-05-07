@@ -1,0 +1,55 @@
+{
+  "name": "Runerigus",
+  "korName": "데스판",
+  "species": "원념포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/runerigus.avif",
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 145,
+    "spAtk": 50,
+    "spDef": 105,
+    "speed": 30,
+    "total": 483
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Yamask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/yamask.jpg",
+        "types": [
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Cofagrigus",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cofagrigus.jpg",
+        "types": [
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Yamask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/yamask-galarian.jpg",
+        "types": [
+          "Ground",
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Runerigus",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/runerigus.jpg",
+        "types": [
+          "Ground",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Klefki",
+  "korName": "클레피",
+  "species": "열쇠꾸러미포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/klefki.avif",
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "spAtk": 80,
+    "spDef": 87,
+    "speed": 75,
+    "total": 470
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

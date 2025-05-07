@@ -1,0 +1,45 @@
+{
+  "name": "Tepig",
+  "korName": "뚜꾸리",
+  "species": "불돼지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tepig.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "spAtk": 45,
+    "spDef": 45,
+    "speed": 45,
+    "total": 308
+  },
+  "evolutions": [
+    {
+      "name": "Tepig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tepig.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Pignite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pignite.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Emboar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/emboar.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    }
+  ]
+}

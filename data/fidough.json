@@ -1,0 +1,35 @@
+{
+  "name": "Fidough",
+  "korName": "쫀도기강아지포켓몬",
+  "species": "강아지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/fidough.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 37,
+    "attack": 55,
+    "defense": 70,
+    "spAtk": 30,
+    "spDef": 55,
+    "speed": 65,
+    "total": 312
+  },
+  "evolutions": [
+    {
+      "name": "Fidough",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/fidough.png",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dachsbun.png",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

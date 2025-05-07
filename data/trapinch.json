@@ -1,0 +1,45 @@
+{
+  "name": "Trapinch",
+  "korName": "톱치",
+  "species": "개미지옥포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/trapinch.avif",
+  "types": [
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "spAtk": 45,
+    "spDef": 45,
+    "speed": 10,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Trapinch",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trapinch.jpg",
+      "types": [
+        "Ground"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Vibrava",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vibrava.jpg",
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 45)"
+    },
+    {
+      "name": "Flygon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/flygon.jpg",
+      "types": [
+        "Ground",
+        "Dragon"
+      ]
+    }
+  ]
+}

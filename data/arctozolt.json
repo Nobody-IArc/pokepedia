@@ -1,0 +1,20 @@
+{
+  "name": "Arctozolt",
+  "korName": "파치르돈",
+  "species": "화석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arctozolt.avif",
+  "types": [
+    "Electric",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "spAtk": 90,
+    "spDef": 80,
+    "speed": 55,
+    "total": 505
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

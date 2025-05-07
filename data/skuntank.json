@@ -1,0 +1,38 @@
+{
+  "name": "Skuntank",
+  "korName": "스컹탱크",
+  "species": "스컹크포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/skuntank.avif",
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 103,
+    "attack": 93,
+    "defense": 67,
+    "spAtk": 71,
+    "spDef": 61,
+    "speed": 84,
+    "total": 479
+  },
+  "evolutions": [
+    {
+      "name": "Stunky",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/stunky.jpg",
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Skuntank",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/skuntank.jpg",
+      "types": [
+        "Poison",
+        "Dark"
+      ]
+    }
+  ]
+}

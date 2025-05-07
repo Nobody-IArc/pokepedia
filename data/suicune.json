@@ -1,0 +1,19 @@
+{
+  "name": "Suicune",
+  "korName": "스이쿤",
+  "species": "오로라포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/suicune.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 75,
+    "defense": 115,
+    "spAtk": 90,
+    "spDef": 115,
+    "speed": 85,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

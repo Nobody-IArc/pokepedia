@@ -1,0 +1,38 @@
+{
+  "name": "Chinchou",
+  "korName": "초라기",
+  "species": "아귀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/chinchou.avif",
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "spAtk": 56,
+    "spDef": 56,
+    "speed": 67,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Chinchou",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chinchou.jpg",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "evolveMethod": "(Level 27)"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lanturn.jpg",
+      "types": [
+        "Water",
+        "Electric"
+      ]
+    }
+  ]
+}

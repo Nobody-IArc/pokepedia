@@ -1,0 +1,47 @@
+{
+  "name": "Arctibax",
+  "korName": "드니꽁얼음지느러미포켓몬",
+  "species": "얼음지느러미포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arctibax.avif",
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 66,
+    "spAtk": 45,
+    "spDef": 65,
+    "speed": 62,
+    "total": 423
+  },
+  "evolutions": [
+    {
+      "name": "Frigibax",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/frigibax.png",
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Arctibax",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/arctibax.png",
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "evolveMethod": "(Level 54)"
+    },
+    {
+      "name": "Baxcalibur",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/baxcalibur.png",
+      "types": [
+        "Dragon",
+        "Ice"
+      ]
+    }
+  ]
+}

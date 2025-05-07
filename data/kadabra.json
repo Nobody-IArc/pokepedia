@@ -1,0 +1,43 @@
+{
+  "name": "Kadabra",
+  "korName": "윤겔라",
+  "species": "초능력포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kadabra.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "spAtk": 120,
+    "spDef": 70,
+    "speed": 105,
+    "total": 400
+  },
+  "evolutions": [
+    {
+      "name": "Abra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/abra.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Kadabra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kadabra.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Alakazam",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/alakazam.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Croconaw",
+  "korName": "엘리게이",
+  "species": "큰턱포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/croconaw.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 80,
+    "spAtk": 59,
+    "spDef": 63,
+    "speed": 58,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Totodile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/totodile.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Croconaw",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/croconaw.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Feraligatr",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/feraligatr.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

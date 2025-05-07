@@ -1,0 +1,47 @@
+{
+  "name": "Swadloon",
+  "korName": "두르쿤",
+  "species": "잎숨기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swadloon.avif",
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 63,
+    "defense": 90,
+    "spAtk": 50,
+    "spDef": 80,
+    "speed": 42,
+    "total": 380
+  },
+  "evolutions": [
+    {
+      "name": "Sewaddle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sewaddle.jpg",
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Swadloon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swadloon.jpg",
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Leavanny",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/leavanny.jpg",
+      "types": [
+        "Bug",
+        "Grass"
+      ]
+    }
+  ]
+}

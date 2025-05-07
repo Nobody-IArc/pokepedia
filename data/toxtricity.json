@@ -1,0 +1,69 @@
+{
+  "name": "Toxtricity",
+  "korName": "스트린더",
+  "species": "펑크포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/toxtricity-amped.avif",
+  "types": [
+    "Electric",
+    "Poison",
+    "Electric",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 70,
+    "spAtk": 114,
+    "spDef": 70,
+    "speed": 75,
+    "total": 502
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Toxel",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxel.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-amped.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-low-key.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-amped.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-low-key.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    ]
+  ]
+}

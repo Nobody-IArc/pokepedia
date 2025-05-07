@@ -1,0 +1,38 @@
+{
+  "name": "Claydol",
+  "korName": "점토도리",
+  "species": "토우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/claydol.avif",
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "spAtk": 70,
+    "spDef": 120,
+    "speed": 75,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Baltoy",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/baltoy.jpg",
+      "types": [
+        "Ground",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Claydol",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/claydol.jpg",
+      "types": [
+        "Ground",
+        "Psychic"
+      ]
+    }
+  ]
+}

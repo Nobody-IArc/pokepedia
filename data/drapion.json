@@ -1,0 +1,38 @@
+{
+  "name": "Drapion",
+  "korName": "드래피온",
+  "species": "요괴전갈포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/drapion.avif",
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "spAtk": 60,
+    "spDef": 75,
+    "speed": 95,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Skorupi",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/skorupi.jpg",
+      "types": [
+        "Poison",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Drapion",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drapion.jpg",
+      "types": [
+        "Poison",
+        "Dark"
+      ]
+    }
+  ]
+}

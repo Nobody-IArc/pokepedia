@@ -1,0 +1,43 @@
+{
+  "name": "Slakoth",
+  "korName": "게을로",
+  "species": "게으름뱅이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/slakoth.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "spAtk": 35,
+    "spDef": 35,
+    "speed": 30,
+    "total": 280
+  },
+  "evolutions": [
+    {
+      "name": "Slakoth",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/slakoth.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Vigoroth",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vigoroth.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Slaking",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/slaking.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sirfetch'd",
+  "korName": "창파나이트",
+  "species": "청둥오리포켓몬",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 62,
+    "attack": 135,
+    "defense": 95,
+    "spAtk": 68,
+    "spDef": 82,
+    "speed": 65,
+    "total": 507
+  },
+  "evolutions": [
+    {
+      "name": "Farfetch'd",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/farfetchd-galarian.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(achieve 3 critical hits in one battle)"
+    },
+    {
+      "name": "Sirfetch'd",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sirfetchd.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

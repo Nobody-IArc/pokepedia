@@ -1,0 +1,40 @@
+{
+  "name": "Qwilfish",
+  "korName": "침바루",
+  "species": "풍선포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/qwilfish.avif",
+  "types": [
+    "Water",
+    "Poison",
+    "Dark",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 85,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 85,
+    "total": 440
+  },
+  "evolutions": [
+    {
+      "name": "Qwilfish",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/qwilfish-hisuian.jpg",
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "evolveMethod": "(use Barb Barrage 20 times in Strong Style)"
+    },
+    {
+      "name": "Overqwil",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/overqwil.jpg",
+      "types": [
+        "Dark",
+        "Poison"
+      ]
+    }
+  ]
+}

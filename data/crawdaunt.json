@@ -1,0 +1,37 @@
+{
+  "name": "Crawdaunt",
+  "korName": "가재장군",
+  "species": "불량배포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/crawdaunt.avif",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "spAtk": 90,
+    "spDef": 55,
+    "speed": 55,
+    "total": 468
+  },
+  "evolutions": [
+    {
+      "name": "Corphish",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/corphish.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Crawdaunt",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/crawdaunt.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ]
+    }
+  ]
+}

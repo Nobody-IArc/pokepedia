@@ -1,0 +1,45 @@
+{
+  "name": "Grubbin",
+  "korName": "턱지충이",
+  "species": "유충포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/grubbin.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 47,
+    "attack": 62,
+    "defense": 45,
+    "spAtk": 55,
+    "spDef": 45,
+    "speed": 46,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Grubbin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grubbin.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Charjabug",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/charjabug.jpg",
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "evolveMethod": "(use Thunder Stone, in Gen 8+, or level up in a Magnetic Field area)"
+    },
+    {
+      "name": "Vikavolt",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vikavolt.jpg",
+      "types": [
+        "Bug",
+        "Electric"
+      ]
+    }
+  ]
+}

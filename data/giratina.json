@@ -1,0 +1,22 @@
+{
+  "name": "Giratina",
+  "korName": "기라티나",
+  "species": "반골포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/giratina-altered.avif",
+  "types": [
+    "Ghost",
+    "Dragon",
+    "Ghost",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "spAtk": 100,
+    "spDef": 120,
+    "speed": 90,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

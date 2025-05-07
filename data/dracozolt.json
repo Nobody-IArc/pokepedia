@@ -1,0 +1,20 @@
+{
+  "name": "Dracozolt",
+  "korName": "파치래곤",
+  "species": "화석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dracozolt.avif",
+  "types": [
+    "Electric",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "spAtk": 80,
+    "spDef": 70,
+    "speed": 75,
+    "total": 505
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Manectric",
+  "korName": "썬더볼트",
+  "species": "방전포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/manectric.avif",
+  "types": [
+    "Electric",
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "spAtk": 105,
+    "spDef": 60,
+    "speed": 105,
+    "total": 475
+  },
+  "evolutions": [
+    {
+      "name": "Electrike",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/electrike.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Manectric",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/manectric.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

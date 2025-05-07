@@ -1,0 +1,61 @@
+{
+  "name": "Clamperl",
+  "korName": "진주몽",
+  "species": "두조개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/clamperl.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "spAtk": 74,
+    "spDef": 55,
+    "speed": 32,
+    "total": 345
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Clamperl",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/clamperl.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Huntail",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Gorebyss",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Huntail",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/huntail.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Gorebyss",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gorebyss.jpg",
+        "types": [
+          "Water"
+        ]
+      }
+    ]
+  ]
+}

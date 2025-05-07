@@ -1,0 +1,35 @@
+{
+  "name": "Spidops",
+  "korName": "트래피더트랩포켓몬",
+  "species": "트랩포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spidops.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 79,
+    "defense": 92,
+    "spAtk": 52,
+    "spDef": 86,
+    "speed": 35,
+    "total": 404
+  },
+  "evolutions": [
+    {
+      "name": "Tarountula",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/tarountula.png",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Spidops",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/spidops.png",
+      "types": [
+        "Bug"
+      ]
+    }
+  ]
+}

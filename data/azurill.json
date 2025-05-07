@@ -1,0 +1,47 @@
+{
+  "name": "Azurill",
+  "korName": "루리리",
+  "species": "물방울포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/azurill.avif",
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "spAtk": 20,
+    "spDef": 40,
+    "speed": 20,
+    "total": 190
+  },
+  "evolutions": [
+    {
+      "name": "Azurill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/azurill.jpg",
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Marill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/marill.jpg",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Azumarill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/azumarill.jpg",
+      "types": [
+        "Water",
+        "Fairy"
+      ]
+    }
+  ]
+}

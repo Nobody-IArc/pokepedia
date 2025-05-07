@@ -1,0 +1,35 @@
+{
+  "name": "Simisage",
+  "korName": "야나키",
+  "species": "가시원숭이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/simisage.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "spAtk": 98,
+    "spDef": 63,
+    "speed": 101,
+    "total": 498
+  },
+  "evolutions": [
+    {
+      "name": "Pansage",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pansage.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(use Leaf Stone)"
+    },
+    {
+      "name": "Simisage",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/simisage.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Orbeetle",
+  "korName": "이올브",
+  "species": "칠성포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/orbeetle.avif",
+  "types": [
+    "Bug",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 110,
+    "spAtk": 80,
+    "spDef": 120,
+    "speed": 90,
+    "total": 505
+  },
+  "evolutions": [
+    {
+      "name": "Blipbug",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blipbug.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 10)"
+    },
+    {
+      "name": "Dottler",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dottler.jpg",
+      "types": [
+        "Bug",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Orbeetle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/orbeetle.jpg",
+      "types": [
+        "Bug",
+        "Psychic"
+      ]
+    }
+  ]
+}

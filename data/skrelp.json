@@ -1,0 +1,38 @@
+{
+  "name": "Skrelp",
+  "korName": "수레기",
+  "species": "풀모방포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/skrelp.avif",
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 60,
+    "spAtk": 60,
+    "spDef": 60,
+    "speed": 30,
+    "total": 320
+  },
+  "evolutions": [
+    {
+      "name": "Skrelp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/skrelp.jpg",
+      "types": [
+        "Poison",
+        "Water"
+      ],
+      "evolveMethod": "(Level 48)"
+    },
+    {
+      "name": "Dragalge",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dragalge.jpg",
+      "types": [
+        "Poison",
+        "Dragon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Pignite",
+  "korName": "차오꿀",
+  "species": "불돼지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pignite.avif",
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 93,
+    "defense": 55,
+    "spAtk": 70,
+    "spDef": 55,
+    "speed": 55,
+    "total": 418
+  },
+  "evolutions": [
+    {
+      "name": "Tepig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tepig.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Pignite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pignite.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Emboar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/emboar.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    }
+  ]
+}

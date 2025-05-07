@@ -1,0 +1,35 @@
+{
+  "name": "Arbok",
+  "korName": "아보크",
+  "species": "코브라포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arbok.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 69,
+    "spAtk": 65,
+    "spDef": 79,
+    "speed": 80,
+    "total": 448
+  },
+  "evolutions": [
+    {
+      "name": "Ekans",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ekans.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 22)"
+    },
+    {
+      "name": "Arbok",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/arbok.jpg",
+      "types": [
+        "Poison"
+      ]
+    }
+  ]
+}

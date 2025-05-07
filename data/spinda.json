@@ -1,0 +1,19 @@
+{
+  "name": "Spinda",
+  "korName": "얼루기",
+  "species": "얼룩팬더포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spinda.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "spAtk": 60,
+    "spDef": 60,
+    "speed": 60,
+    "total": 360
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

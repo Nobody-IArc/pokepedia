@@ -1,0 +1,45 @@
+{
+  "name": "Torchic",
+  "korName": "아차모",
+  "species": "풋내기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/torchic.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "spAtk": 70,
+    "spDef": 50,
+    "speed": 45,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Torchic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torchic.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Combusken",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/combusken.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Blaziken",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/blaziken.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    }
+  ]
+}

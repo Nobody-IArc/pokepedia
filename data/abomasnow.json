@@ -1,0 +1,40 @@
+{
+  "name": "Abomasnow",
+  "korName": "눈설왕",
+  "species": "얼음나무포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/abomasnow.avif",
+  "types": [
+    "Grass",
+    "Ice",
+    "Grass",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 75,
+    "spAtk": 92,
+    "spDef": 85,
+    "speed": 60,
+    "total": 494
+  },
+  "evolutions": [
+    {
+      "name": "Snover",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/snover.jpg",
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Abomasnow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/abomasnow.jpg",
+      "types": [
+        "Grass",
+        "Ice"
+      ]
+    }
+  ]
+}

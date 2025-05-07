@@ -1,0 +1,62 @@
+{
+  "name": "Meowstic",
+  "korName": "냐오닉스",
+  "species": "억제포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/meowstic-male.avif",
+  "types": [
+    "Psychic",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "spAtk": 83,
+    "spDef": 81,
+    "speed": 104,
+    "total": 466
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Espurr",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/espurr.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-male.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-female.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-male.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-female.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Gabite",
+  "korName": "한바이트",
+  "species": "동굴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gabite.avif",
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "spAtk": 50,
+    "spDef": 55,
+    "speed": 82,
+    "total": 410
+  },
+  "evolutions": [
+    {
+      "name": "Gible",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gible.jpg",
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Gabite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gabite.jpg",
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 48)"
+    },
+    {
+      "name": "Garchomp",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/garchomp.jpg",
+      "types": [
+        "Dragon",
+        "Ground"
+      ]
+    }
+  ]
+}

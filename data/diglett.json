@@ -1,0 +1,56 @@
+{
+  "name": "Diglett",
+  "korName": "디그다",
+  "species": "두더지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/diglett.avif",
+  "types": [
+    "Ground",
+    "Ground",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "spAtk": 35,
+    "spDef": 45,
+    "speed": 95,
+    "total": 265
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Diglett",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/diglett.jpg",
+        "types": [
+          "Ground"
+        ]
+      },
+      {
+        "name": "Dugtrio",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dugtrio.jpg",
+        "types": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Diglett",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/diglett-alolan.jpg",
+        "types": [
+          "Ground",
+          "Steel"
+        ]
+      },
+      {
+        "name": "Dugtrio",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/dugtrio-alolan.jpg",
+        "types": [
+          "Ground",
+          "Steel"
+        ]
+      }
+    ]
+  ]
+}

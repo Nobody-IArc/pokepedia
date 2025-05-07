@@ -1,0 +1,20 @@
+{
+  "name": "Wishiwashi",
+  "korName": "약어리",
+  "species": "잔물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wishiwashi-solo.avif",
+  "types": [
+    "Water",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "spAtk": 25,
+    "spDef": 25,
+    "speed": 40,
+    "total": 175
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

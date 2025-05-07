@@ -1,0 +1,38 @@
+{
+  "name": "Wattrel",
+  "korName": "찌리비바다제비포켓몬",
+  "species": "바다제비포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wattrel.avif",
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "spAtk": 55,
+    "spDef": 40,
+    "speed": 70,
+    "total": 280
+  },
+  "evolutions": [
+    {
+      "name": "Wattrel",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/wattrel.png",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/kilowattrel.png",
+      "types": [
+        "Electric",
+        "Flying"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Miraidon",
+  "korName": "미라이돈패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/miraidon.avif",
+  "types": [
+    "Electric",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 100,
+    "spAtk": 135,
+    "spDef": 115,
+    "speed": 135,
+    "total": 670
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

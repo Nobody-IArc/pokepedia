@@ -1,0 +1,38 @@
+{
+  "name": "Smoochum",
+  "korName": "뽀뽀라",
+  "species": "뽀뽀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/smoochum.avif",
+  "types": [
+    "Ice",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "spAtk": 85,
+    "spDef": 65,
+    "speed": 65,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Smoochum",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/smoochum.jpg",
+      "types": [
+        "Ice",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Jynx",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/jynx.jpg",
+      "types": [
+        "Ice",
+        "Psychic"
+      ]
+    }
+  ]
+}

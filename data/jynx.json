@@ -1,0 +1,38 @@
+{
+  "name": "Jynx",
+  "korName": "루주라",
+  "species": "인간형태포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/jynx.avif",
+  "types": [
+    "Ice",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "spAtk": 115,
+    "spDef": 95,
+    "speed": 95,
+    "total": 455
+  },
+  "evolutions": [
+    {
+      "name": "Smoochum",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/smoochum.jpg",
+      "types": [
+        "Ice",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Jynx",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/jynx.jpg",
+      "types": [
+        "Ice",
+        "Psychic"
+      ]
+    }
+  ]
+}

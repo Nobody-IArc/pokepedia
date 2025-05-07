@@ -1,0 +1,20 @@
+{
+  "name": "Fezandipiti",
+  "korName": "",
+  "species": "",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/fezandipiti.avif",
+  "types": [
+    "Poison",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 88,
+    "attack": 91,
+    "defense": 82,
+    "spAtk": 70,
+    "spDef": 125,
+    "speed": 99,
+    "total": 555
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

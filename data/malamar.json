@@ -1,0 +1,38 @@
+{
+  "name": "Malamar",
+  "korName": "칼라마네로",
+  "species": "역전포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/malamar.avif",
+  "types": [
+    "Dark",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 86,
+    "attack": 92,
+    "defense": 88,
+    "spAtk": 68,
+    "spDef": 75,
+    "speed": 73,
+    "total": 482
+  },
+  "evolutions": [
+    {
+      "name": "Inkay",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/inkay.jpg",
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 30, holding console upside down)"
+    },
+    {
+      "name": "Malamar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/malamar.jpg",
+      "types": [
+        "Dark",
+        "Psychic"
+      ]
+    }
+  ]
+}

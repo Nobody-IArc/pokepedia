@@ -1,0 +1,43 @@
+{
+  "name": "Eelektrik",
+  "korName": "저리릴",
+  "species": "전기물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/eelektrik.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "spAtk": 75,
+    "spDef": 70,
+    "speed": 40,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Tynamo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tynamo.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 39)"
+    },
+    {
+      "name": "Eelektrik",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/eelektrik.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(use Thunder Stone)"
+    },
+    {
+      "name": "Eelektross",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/eelektross.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

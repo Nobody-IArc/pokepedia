@@ -1,0 +1,38 @@
+{
+  "name": "Noctowl",
+  "korName": "야부엉",
+  "species": "부엉이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/noctowl.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 50,
+    "spAtk": 86,
+    "spDef": 96,
+    "speed": 70,
+    "total": 452
+  },
+  "evolutions": [
+    {
+      "name": "Hoothoot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hoothoot.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 20)"
+    },
+    {
+      "name": "Noctowl",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/noctowl.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

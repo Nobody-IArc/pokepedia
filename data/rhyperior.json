@@ -1,0 +1,47 @@
+{
+  "name": "Rhyperior",
+  "korName": "거대코뿌리",
+  "species": "드릴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rhyperior.avif",
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 140,
+    "defense": 130,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 40,
+    "total": 535
+  },
+  "evolutions": [
+    {
+      "name": "Rhyhorn",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rhyhorn.jpg",
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Rhydon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rhydon.jpg",
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "evolveMethod": "(trade holding Protector)"
+    },
+    {
+      "name": "Rhyperior",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rhyperior.jpg",
+      "types": [
+        "Ground",
+        "Rock"
+      ]
+    }
+  ]
+}

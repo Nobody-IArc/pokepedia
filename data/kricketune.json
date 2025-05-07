@@ -1,0 +1,35 @@
+{
+  "name": "Kricketune",
+  "korName": "귀뚤톡크",
+  "species": "귀뚜라미포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kricketune.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 77,
+    "attack": 85,
+    "defense": 51,
+    "spAtk": 55,
+    "spDef": 51,
+    "speed": 65,
+    "total": 384
+  },
+  "evolutions": [
+    {
+      "name": "Kricketot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kricketot.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 10)"
+    },
+    {
+      "name": "Kricketune",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kricketune.jpg",
+      "types": [
+        "Bug"
+      ]
+    }
+  ]
+}

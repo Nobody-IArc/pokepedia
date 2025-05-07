@@ -1,0 +1,22 @@
+{
+  "name": "Rayquaza",
+  "korName": "레쿠쟈",
+  "species": "천공포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rayquaza.avif",
+  "types": [
+    "Dragon",
+    "Flying",
+    "Dragon",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "spAtk": 150,
+    "spDef": 90,
+    "speed": 95,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Ninetales",
+  "korName": "나인테일",
+  "species": "여우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ninetales.avif",
+  "types": [
+    "Fire",
+    "Ice",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "spAtk": 81,
+    "spDef": 100,
+    "speed": 100,
+    "total": 505
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Vulpix",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vulpix.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Ninetales",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninetales.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Vulpix",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vulpix-alolan.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Ninetales",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninetales-alolan.jpg",
+        "types": [
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ]
+}

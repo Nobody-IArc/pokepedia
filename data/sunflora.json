@@ -1,0 +1,35 @@
+{
+  "name": "Sunflora",
+  "korName": "해루미",
+  "species": "태양포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sunflora.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 55,
+    "spAtk": 105,
+    "spDef": 85,
+    "speed": 30,
+    "total": 425
+  },
+  "evolutions": [
+    {
+      "name": "Sunkern",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sunkern.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(use Sun Stone)"
+    },
+    {
+      "name": "Sunflora",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sunflora.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

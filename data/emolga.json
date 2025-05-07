@@ -1,0 +1,20 @@
+{
+  "name": "Emolga",
+  "korName": "에몽가",
+  "species": "하늘다람쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/emolga.avif",
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 60,
+    "spAtk": 75,
+    "spDef": 60,
+    "speed": 103,
+    "total": 428
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

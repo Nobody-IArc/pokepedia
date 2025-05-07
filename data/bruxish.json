@@ -1,0 +1,20 @@
+{
+  "name": "Bruxish",
+  "korName": "치갈기",
+  "species": "이갈기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bruxish.avif",
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 105,
+    "defense": 70,
+    "spAtk": 70,
+    "spDef": 70,
+    "speed": 92,
+    "total": 475
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

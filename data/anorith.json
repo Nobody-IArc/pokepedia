@@ -1,0 +1,38 @@
+{
+  "name": "Anorith",
+  "korName": "아노딥스",
+  "species": "고대새우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/anorith.avif",
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 75,
+    "total": 355
+  },
+  "evolutions": [
+    {
+      "name": "Anorith",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/anorith.jpg",
+      "types": [
+        "Rock",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Armaldo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/armaldo.jpg",
+      "types": [
+        "Rock",
+        "Bug"
+      ]
+    }
+  ]
+}

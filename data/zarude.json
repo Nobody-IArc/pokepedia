@@ -1,0 +1,20 @@
+{
+  "name": "Zarude",
+  "korName": "자루도",
+  "species": "나쁜원숭이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/zarude.avif",
+  "types": [
+    "Dark",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 120,
+    "defense": 105,
+    "spAtk": 70,
+    "spDef": 95,
+    "speed": 105,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

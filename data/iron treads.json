@@ -1,0 +1,19 @@
+{
+  "name": "Iron Treads",
+  "korName": "무쇠바퀴패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 112,
+    "defense": 120,
+    "spAtk": 72,
+    "spDef": 70,
+    "speed": 106,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Skarmory",
+  "korName": "무장조",
+  "species": "갑옷새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/skarmory.avif",
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "spAtk": 40,
+    "spDef": 70,
+    "speed": 70,
+    "total": 465
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

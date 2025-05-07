@@ -1,0 +1,19 @@
+{
+  "name": "Tapu Bulu",
+  "korName": "카푸브루루",
+  "species": "토속신포켓몬",
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 115,
+    "spAtk": 85,
+    "spDef": 95,
+    "speed": 75,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

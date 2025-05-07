@@ -1,0 +1,19 @@
+{
+  "name": "Pyukumuku",
+  "korName": "해무기",
+  "species": "해삼포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pyukumuku.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "spAtk": 30,
+    "spDef": 130,
+    "speed": 5,
+    "total": 410
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

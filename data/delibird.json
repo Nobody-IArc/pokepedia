@@ -1,0 +1,20 @@
+{
+  "name": "Delibird",
+  "korName": "딜리버드",
+  "species": "배달포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/delibird.avif",
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "spAtk": 65,
+    "spDef": 45,
+    "speed": 75,
+    "total": 330
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

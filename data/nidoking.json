@@ -1,0 +1,45 @@
+{
+  "name": "Nidoking",
+  "korName": "니드킹",
+  "species": "드릴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nidoking.avif",
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "spAtk": 85,
+    "spDef": 75,
+    "speed": 85,
+    "total": 505
+  },
+  "evolutions": [
+    {
+      "name": "Nidoran♂",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidoran-m.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Nidorino",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidorino.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(use Moon Stone)"
+    },
+    {
+      "name": "Nidoking",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidoking.jpg",
+      "types": [
+        "Poison",
+        "Ground"
+      ]
+    }
+  ]
+}

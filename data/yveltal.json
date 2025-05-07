@@ -1,0 +1,20 @@
+{
+  "name": "Yveltal",
+  "korName": "이벨타르",
+  "species": "파괴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/yveltal.avif",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "spAtk": 131,
+    "spDef": 98,
+    "speed": 99,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

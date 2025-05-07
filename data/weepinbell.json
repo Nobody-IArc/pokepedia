@@ -1,0 +1,47 @@
+{
+  "name": "Weepinbell",
+  "korName": "우츠동",
+  "species": "파리잡이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/weepinbell.avif",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "spAtk": 85,
+    "spDef": 45,
+    "speed": 55,
+    "total": 390
+  },
+  "evolutions": [
+    {
+      "name": "Bellsprout",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bellsprout.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 21)"
+    },
+    {
+      "name": "Weepinbell",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/weepinbell.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "evolveMethod": "(use Leaf Stone)"
+    },
+    {
+      "name": "Victreebel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/victreebel.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ]
+    }
+  ]
+}

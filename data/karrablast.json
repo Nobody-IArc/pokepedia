@@ -1,0 +1,36 @@
+{
+  "name": "Karrablast",
+  "korName": "딱정곤",
+  "species": "덥석물기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/karrablast.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "spAtk": 40,
+    "spDef": 45,
+    "speed": 60,
+    "total": 315
+  },
+  "evolutions": [
+    {
+      "name": "Karrablast",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/karrablast.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Trade with Shelmet)"
+    },
+    {
+      "name": "Escavalier",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/escavalier.jpg",
+      "types": [
+        "Bug",
+        "Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Marshadow",
+  "korName": "마샤도",
+  "species": "그림자살이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/marshadow.avif",
+  "types": [
+    "Fighting",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "spAtk": 90,
+    "spDef": 90,
+    "speed": 125,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

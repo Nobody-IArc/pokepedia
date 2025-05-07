@@ -1,0 +1,43 @@
+{
+  "name": "Herdier",
+  "korName": "하데리어",
+  "species": "충견포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/herdier.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 65,
+    "spAtk": 35,
+    "spDef": 65,
+    "speed": 60,
+    "total": 370
+  },
+  "evolutions": [
+    {
+      "name": "Lillipup",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lillipup.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Herdier",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/herdier.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Stoutland",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/stoutland.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

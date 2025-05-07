@@ -1,0 +1,20 @@
+{
+  "name": "Buzzwole",
+  "korName": "매시붕",
+  "species": "팽창포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/buzzwole.avif",
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 107,
+    "attack": 139,
+    "defense": 139,
+    "spAtk": 53,
+    "spDef": 53,
+    "speed": 79,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

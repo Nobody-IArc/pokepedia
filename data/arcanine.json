@@ -1,0 +1,56 @@
+{
+  "name": "Arcanine",
+  "korName": "윈디",
+  "species": "전설포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arcanine.avif",
+  "types": [
+    "Fire",
+    "Fire",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "spAtk": 100,
+    "spDef": 80,
+    "speed": 95,
+    "total": 555
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Growlithe",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/growlithe.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Arcanine",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/arcanine.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Growlithe",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/growlithe-hisuian.jpg",
+        "types": [
+          "Fire",
+          "Rock"
+        ]
+      },
+      {
+        "name": "Arcanine",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/arcanine-hisuian.jpg",
+        "types": [
+          "Fire",
+          "Rock"
+        ]
+      }
+    ]
+  ]
+}

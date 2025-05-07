@@ -1,0 +1,19 @@
+{
+  "name": "Iron Jugulis",
+  "korName": "무쇠머리패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 94,
+    "attack": 80,
+    "defense": 86,
+    "spAtk": 122,
+    "spDef": 80,
+    "speed": 108,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

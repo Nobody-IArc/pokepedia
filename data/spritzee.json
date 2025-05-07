@@ -1,0 +1,35 @@
+{
+  "name": "Spritzee",
+  "korName": "슈쁘",
+  "species": "향수포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/spritzee.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "spAtk": 63,
+    "spDef": 65,
+    "speed": 23,
+    "total": 341
+  },
+  "evolutions": [
+    {
+      "name": "Spritzee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spritzee.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(trade holding Sachet)"
+    },
+    {
+      "name": "Aromatisse",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aromatisse.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

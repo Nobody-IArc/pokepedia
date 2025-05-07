@@ -1,0 +1,35 @@
+{
+  "name": "Wailmer",
+  "korName": "고래왕자",
+  "species": "둥근고래포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wailmer.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "spAtk": 70,
+    "spDef": 35,
+    "speed": 60,
+    "total": 400
+  },
+  "evolutions": [
+    {
+      "name": "Wailmer",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wailmer.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Wailord",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wailord.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

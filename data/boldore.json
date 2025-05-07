@@ -1,0 +1,43 @@
+{
+  "name": "Boldore",
+  "korName": "암트르",
+  "species": "광석포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/boldore.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "spAtk": 50,
+    "spDef": 40,
+    "speed": 20,
+    "total": 390
+  },
+  "evolutions": [
+    {
+      "name": "Roggenrola",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/roggenrola.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Boldore",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/boldore.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Gigalith",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gigalith.jpg",
+      "types": [
+        "Rock"
+      ]
+    }
+  ]
+}

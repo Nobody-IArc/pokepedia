@@ -1,0 +1,40 @@
+{
+  "name": "Altaria",
+  "korName": "파비코리",
+  "species": "허밍포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/altaria.avif",
+  "types": [
+    "Dragon",
+    "Flying",
+    "Dragon",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "spAtk": 70,
+    "spDef": 105,
+    "speed": 80,
+    "total": 490
+  },
+  "evolutions": [
+    {
+      "name": "Swablu",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swablu.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Altaria",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/altaria.jpg",
+      "types": [
+        "Dragon",
+        "Flying"
+      ]
+    }
+  ]
+}

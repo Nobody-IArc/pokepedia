@@ -1,0 +1,46 @@
+{
+  "name": "Infernape",
+  "korName": "초염몽",
+  "species": "화염포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/infernape.avif",
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "spAtk": 104,
+    "spDef": 71,
+    "speed": 108,
+    "total": 534
+  },
+  "evolutions": [
+    {
+      "name": "Chimchar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chimchar.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 14)"
+    },
+    {
+      "name": "Monferno",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/monferno.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Infernape",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/infernape.jpg",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    }
+  ]
+}

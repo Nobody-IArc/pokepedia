@@ -1,0 +1,34 @@
+{
+  "name": "Type: Null",
+  "korName": "타입:널",
+  "species": "인공포켓몬",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "spAtk": 95,
+    "spDef": 95,
+    "speed": 59,
+    "total": 534
+  },
+  "evolutions": [
+    {
+      "name": "Type: Null",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/type-null.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Silvally",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/silvally.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Salamence",
+  "korName": "보만다",
+  "species": "드래곤포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/salamence.avif",
+  "types": [
+    "Dragon",
+    "Flying",
+    "Dragon",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "spAtk": 110,
+    "spDef": 80,
+    "speed": 100,
+    "total": 600
+  },
+  "evolutions": [
+    {
+      "name": "Bagon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bagon.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Shelgon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shelgon.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 50)"
+    },
+    {
+      "name": "Salamence",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/salamence.jpg",
+      "types": [
+        "Dragon",
+        "Flying"
+      ]
+    }
+  ]
+}

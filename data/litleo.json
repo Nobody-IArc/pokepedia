@@ -1,0 +1,38 @@
+{
+  "name": "Litleo",
+  "korName": "레오꼬",
+  "species": "어린사자포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/litleo.avif",
+  "types": [
+    "Fire",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "spAtk": 73,
+    "spDef": 54,
+    "speed": 72,
+    "total": 369
+  },
+  "evolutions": [
+    {
+      "name": "Litleo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/litleo.jpg",
+      "types": [
+        "Fire",
+        "Normal"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Pyroar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pyroar.jpg",
+      "types": [
+        "Fire",
+        "Normal"
+      ]
+    }
+  ]
+}

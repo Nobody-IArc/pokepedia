@@ -1,0 +1,37 @@
+{
+  "name": "Forretress",
+  "korName": "쏘콘",
+  "species": "도롱이벌레포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/forretress.avif",
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "spAtk": 60,
+    "spDef": 60,
+    "speed": 40,
+    "total": 465
+  },
+  "evolutions": [
+    {
+      "name": "Pineco",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pineco.jpg",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 31)"
+    },
+    {
+      "name": "Forretress",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/forretress.jpg",
+      "types": [
+        "Bug",
+        "Steel"
+      ]
+    }
+  ]
+}

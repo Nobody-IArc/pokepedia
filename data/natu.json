@@ -1,0 +1,38 @@
+{
+  "name": "Natu",
+  "korName": "네이티",
+  "species": "아기새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/natu.avif",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "spAtk": 70,
+    "spDef": 45,
+    "speed": 70,
+    "total": 320
+  },
+  "evolutions": [
+    {
+      "name": "Natu",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/natu.jpg",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/xatu.jpg",
+      "types": [
+        "Psychic",
+        "Flying"
+      ]
+    }
+  ]
+}

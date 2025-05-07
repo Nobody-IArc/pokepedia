@@ -1,0 +1,54 @@
+{
+  "name": "Vulpix",
+  "korName": "식스테일",
+  "species": "여우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/vulpix.avif",
+  "types": [
+    "Fire",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "spAtk": 50,
+    "spDef": 65,
+    "speed": 65,
+    "total": 299
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Vulpix",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vulpix.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Ninetales",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninetales.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Vulpix",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vulpix-alolan.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Ninetales",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ninetales-alolan.jpg",
+        "types": [
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ]
+}

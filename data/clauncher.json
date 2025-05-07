@@ -1,0 +1,35 @@
+{
+  "name": "Clauncher",
+  "korName": "완철포",
+  "species": "물대포포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/clauncher.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "spAtk": 58,
+    "spDef": 63,
+    "speed": 44,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Clauncher",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/clauncher.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Clawitzer",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/clawitzer.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

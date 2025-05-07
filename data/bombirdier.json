@@ -1,0 +1,20 @@
+{
+  "name": "Bombirdier",
+  "korName": "떨구새낙하물포켓몬",
+  "species": "낙하물포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bombirdier.avif",
+  "types": [
+    "Flying",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 103,
+    "defense": 85,
+    "spAtk": 60,
+    "spDef": 85,
+    "speed": 82,
+    "total": 485
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

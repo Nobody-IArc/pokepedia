@@ -1,0 +1,101 @@
+{
+  "name": "Flapple",
+  "korName": "애프룡",
+  "species": "사과날개포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/flapple.avif",
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "spAtk": 95,
+    "spDef": 60,
+    "speed": 70,
+    "total": 485
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Applin",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/applin.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Flapple",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/flapple.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Appletun",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/appletun.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Dipplin",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dipplin.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Hydrapple",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/hydrapple.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Flapple",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/flapple.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Appletun",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/appletun.jpg",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Dipplin",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/dipplin.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Hydrapple",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/hydrapple.png",
+        "types": [
+          "Grass",
+          "Dragon"
+        ]
+      }
+    ]
+  ]
+}

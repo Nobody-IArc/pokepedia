@@ -1,0 +1,45 @@
+{
+  "name": "Meowscarada",
+  "korName": "마스카나매지션포켓몬",
+  "species": "매지션포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/meowscarada.avif",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 76,
+    "attack": 110,
+    "defense": 70,
+    "spAtk": 81,
+    "spDef": 70,
+    "speed": 123,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Sprigatito",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/sprigatito.png",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Floragato",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/floragato.png",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Meowscarada",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/meowscarada.png",
+      "types": [
+        "Grass",
+        "Dark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Articuno",
+  "korName": "프리져",
+  "species": "냉동포켓몬냉혹포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/articuno.avif",
+  "types": [
+    "Ice",
+    "Flying",
+    "Psychic",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "spAtk": 95,
+    "spDef": 125,
+    "speed": 85,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

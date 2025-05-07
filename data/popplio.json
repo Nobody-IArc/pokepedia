@@ -1,0 +1,44 @@
+{
+  "name": "Popplio",
+  "korName": "누리공",
+  "species": "강치포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/popplio.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 54,
+    "defense": 54,
+    "spAtk": 66,
+    "spDef": 56,
+    "speed": 40,
+    "total": 320
+  },
+  "evolutions": [
+    {
+      "name": "Popplio",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/popplio.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Brionne",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/brionne.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Primarina",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/primarina.jpg",
+      "types": [
+        "Water",
+        "Fairy"
+      ]
+    }
+  ]
+}

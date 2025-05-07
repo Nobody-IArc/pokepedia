@@ -1,0 +1,38 @@
+{
+  "name": "Swanna",
+  "korName": "스완나",
+  "species": "백조포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swanna.avif",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "spAtk": 87,
+    "spDef": 63,
+    "speed": 98,
+    "total": 473
+  },
+  "evolutions": [
+    {
+      "name": "Ducklett",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ducklett.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Swanna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swanna.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ]
+    }
+  ]
+}

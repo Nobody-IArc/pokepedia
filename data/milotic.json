@@ -1,0 +1,35 @@
+{
+  "name": "Milotic",
+  "korName": "밀로틱",
+  "species": "사랑포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/milotic.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "spAtk": 100,
+    "spDef": 125,
+    "speed": 81,
+    "total": 540
+  },
+  "evolutions": [
+    {
+      "name": "Feebas",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/feebas.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(trade holding Prism Scale, or level up with max Beauty)"
+    },
+    {
+      "name": "Milotic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/milotic.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Lucario",
+  "korName": "루카리오",
+  "species": "파동포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lucario.avif",
+  "types": [
+    "Fighting",
+    "Steel",
+    "Fighting",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 70,
+    "spAtk": 115,
+    "spDef": 70,
+    "speed": 90,
+    "total": 525
+  },
+  "evolutions": [
+    {
+      "name": "Riolu",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/riolu.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(high Friendship, Daytime)"
+    },
+    {
+      "name": "Lucario",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lucario.jpg",
+      "types": [
+        "Fighting",
+        "Steel"
+      ]
+    }
+  ]
+}

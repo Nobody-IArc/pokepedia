@@ -1,0 +1,19 @@
+{
+  "name": "Scream Tail",
+  "korName": "우렁찬꼬리패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Fairy",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 65,
+    "defense": 99,
+    "spAtk": 65,
+    "spDef": 115,
+    "speed": 111,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

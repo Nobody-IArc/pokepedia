@@ -1,0 +1,38 @@
+{
+  "name": "Scrafty",
+  "korName": "곤율거니",
+  "species": "악당포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/scrafty.avif",
+  "types": [
+    "Dark",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 115,
+    "spAtk": 45,
+    "spDef": 115,
+    "speed": 58,
+    "total": 488
+  },
+  "evolutions": [
+    {
+      "name": "Scraggy",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/scraggy.jpg",
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 39)"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/scrafty.jpg",
+      "types": [
+        "Dark",
+        "Fighting"
+      ]
+    }
+  ]
+}

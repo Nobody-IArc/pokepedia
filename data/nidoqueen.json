@@ -1,0 +1,45 @@
+{
+  "name": "Nidoqueen",
+  "korName": "니드퀸",
+  "species": "드릴포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nidoqueen.avif",
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 87,
+    "spAtk": 75,
+    "spDef": 85,
+    "speed": 76,
+    "total": 505
+  },
+  "evolutions": [
+    {
+      "name": "Nidoran♀",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidoran-f.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Nidorina",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidorina.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(use Moon Stone)"
+    },
+    {
+      "name": "Nidoqueen",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nidoqueen.jpg",
+      "types": [
+        "Poison",
+        "Ground"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Darmanitan",
+  "korName": "불비달마",
+  "species": "염상포켓몬달마포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/darmanitan-standard.avif",
+  "types": [
+    "Fire",
+    "Fire",
+    "Psychic",
+    "Ice",
+    "Ice",
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "spAtk": 30,
+    "spDef": 55,
+    "speed": 95,
+    "total": 480
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Darumaka",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/darumaka.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Darmanitan",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/darmanitan-standard.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Darumaka",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/darumaka-galarian.jpg",
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Darmanitan",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/darmanitan-galarian-standard.jpg",
+        "types": [
+          "Ice"
+        ]
+      }
+    ]
+  ]
+}

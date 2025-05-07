@@ -1,0 +1,38 @@
+{
+  "name": "Bramblin",
+  "korName": "그푸리회전초포켓몬",
+  "species": "회전초포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bramblin.avif",
+  "types": [
+    "Grass",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 30,
+    "spAtk": 45,
+    "spDef": 35,
+    "speed": 60,
+    "total": 275
+  },
+  "evolutions": [
+    {
+      "name": "Bramblin",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/bramblin.png",
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "evolveMethod": "(walk 1,000 steps in Let's Go mode)"
+    },
+    {
+      "name": "Brambleghast",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/brambleghast.png",
+      "types": [
+        "Grass",
+        "Ghost"
+      ]
+    }
+  ]
+}

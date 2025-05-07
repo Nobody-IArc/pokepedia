@@ -1,0 +1,44 @@
+{
+  "name": "Corvisquire",
+  "korName": "파크로우",
+  "species": "까마귀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/corvisquire.avif",
+  "types": [
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 67,
+    "defense": 55,
+    "spAtk": 43,
+    "spDef": 55,
+    "speed": 77,
+    "total": 365
+  },
+  "evolutions": [
+    {
+      "name": "Rookidee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rookidee.jpg",
+      "types": [
+        "Flying"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Corvisquire",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/corvisquire.jpg",
+      "types": [
+        "Flying"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Corviknight",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/corviknight.jpg",
+      "types": [
+        "Flying",
+        "Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Armaldo",
+  "korName": "아말도",
+  "species": "갑주포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/armaldo.avif",
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "spAtk": 70,
+    "spDef": 80,
+    "speed": 45,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Anorith",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/anorith.jpg",
+      "types": [
+        "Rock",
+        "Bug"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Armaldo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/armaldo.jpg",
+      "types": [
+        "Rock",
+        "Bug"
+      ]
+    }
+  ]
+}

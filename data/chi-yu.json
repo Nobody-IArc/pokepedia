@@ -1,0 +1,20 @@
+{
+  "name": "Chi-Yu",
+  "korName": "위유이재액포켓몬",
+  "species": "재액포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/chi-yu.avif",
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 80,
+    "defense": 80,
+    "spAtk": 135,
+    "spDef": 120,
+    "speed": 100,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

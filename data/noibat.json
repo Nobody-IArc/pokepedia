@@ -1,0 +1,38 @@
+{
+  "name": "Noibat",
+  "korName": "음뱃",
+  "species": "음파포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/noibat.avif",
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "spAtk": 45,
+    "spDef": 40,
+    "speed": 55,
+    "total": 245
+  },
+  "evolutions": [
+    {
+      "name": "Noibat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/noibat.jpg",
+      "types": [
+        "Flying",
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 48)"
+    },
+    {
+      "name": "Noivern",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/noivern.jpg",
+      "types": [
+        "Flying",
+        "Dragon"
+      ]
+    }
+  ]
+}

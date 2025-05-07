@@ -1,0 +1,44 @@
+{
+  "name": "Teddiursa",
+  "korName": "깜지곰",
+  "species": "아기곰포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/teddiursa.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 40,
+    "total": 330
+  },
+  "evolutions": [
+    {
+      "name": "Teddiursa",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/teddiursa.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Ursaring",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ursaring.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(use Peat Block, under a full moon, in Legends: Arceus)"
+    },
+    {
+      "name": "Ursaluna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ursaluna.jpg",
+      "types": [
+        "Ground",
+        "Normal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Fennekin",
+  "korName": "푸호꼬",
+  "species": "여우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/fennekin.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "spAtk": 62,
+    "spDef": 60,
+    "speed": 60,
+    "total": 307
+  },
+  "evolutions": [
+    {
+      "name": "Fennekin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fennekin.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Braixen",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/braixen.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Delphox",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/delphox.jpg",
+      "types": [
+        "Fire",
+        "Psychic"
+      ]
+    }
+  ]
+}

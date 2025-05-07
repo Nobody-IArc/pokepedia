@@ -1,0 +1,43 @@
+{
+  "name": "Axew",
+  "korName": "터검니",
+  "species": "이빨포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/axew.avif",
+  "types": [
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 46,
+    "attack": 87,
+    "defense": 60,
+    "spAtk": 30,
+    "spDef": 40,
+    "speed": 57,
+    "total": 320
+  },
+  "evolutions": [
+    {
+      "name": "Axew",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/axew.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Fraxure",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fraxure.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 48)"
+    },
+    {
+      "name": "Haxorus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/haxorus.jpg",
+      "types": [
+        "Dragon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Tsareena",
+  "korName": "달코퀸",
+  "species": "후르츠포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tsareena.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 120,
+    "defense": 98,
+    "spAtk": 50,
+    "spDef": 98,
+    "speed": 72,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Bounsweet",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bounsweet.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Steenee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/steenee.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(after Stomp learned)"
+    },
+    {
+      "name": "Tsareena",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tsareena.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

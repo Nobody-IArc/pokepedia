@@ -1,0 +1,20 @@
+{
+  "name": "Tropius",
+  "korName": "트로피우스",
+  "species": "후르츠포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tropius.avif",
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "spAtk": 72,
+    "spDef": 87,
+    "speed": 51,
+    "total": 460
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Flutter Mane",
+  "korName": "날개치는머리패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Ghost",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "spAtk": 135,
+    "spDef": 135,
+    "speed": 135,
+    "total": 570
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

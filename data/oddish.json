@@ -1,0 +1,73 @@
+{
+  "name": "Oddish",
+  "korName": "뚜벅쵸",
+  "species": "잡초포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/oddish.avif",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "spAtk": 75,
+    "spDef": 65,
+    "speed": 30,
+    "total": 320
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Oddish",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/oddish.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Gloom",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gloom.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Vileplume",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vileplume.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Bellossom",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/bellossom.jpg",
+        "types": [
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Vileplume",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/vileplume.jpg",
+        "types": [
+          "Grass",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Bellossom",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/bellossom.jpg",
+        "types": [
+          "Grass"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Uxie",
+  "korName": "유크시",
+  "species": "지식포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/uxie.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 130,
+    "spAtk": 75,
+    "spDef": 130,
+    "speed": 95,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

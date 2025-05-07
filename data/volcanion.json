@@ -1,0 +1,20 @@
+{
+  "name": "Volcanion",
+  "korName": "볼케니온",
+  "species": "스팀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/volcanion.avif",
+  "types": [
+    "Fire",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 120,
+    "spAtk": 130,
+    "spDef": 90,
+    "speed": 70,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

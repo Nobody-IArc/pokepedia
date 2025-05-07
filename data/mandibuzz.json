@@ -1,0 +1,38 @@
+{
+  "name": "Mandibuzz",
+  "korName": "버랜지나",
+  "species": "뼈독수리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mandibuzz.avif",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 65,
+    "defense": 105,
+    "spAtk": 55,
+    "spDef": 95,
+    "speed": 80,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Vullaby",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vullaby.jpg",
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 54)"
+    },
+    {
+      "name": "Mandibuzz",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mandibuzz.jpg",
+      "types": [
+        "Dark",
+        "Flying"
+      ]
+    }
+  ]
+}

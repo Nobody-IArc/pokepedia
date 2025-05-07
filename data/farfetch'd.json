@@ -1,0 +1,36 @@
+{
+  "name": "Farfetch'd",
+  "korName": "파오리",
+  "species": "청둥오리포켓몬",
+  "types": [
+    "Normal",
+    "Flying",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "spAtk": 58,
+    "spDef": 62,
+    "speed": 60,
+    "total": 377
+  },
+  "evolutions": [
+    {
+      "name": "Farfetch'd",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/farfetchd-galarian.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(achieve 3 critical hits in one battle)"
+    },
+    {
+      "name": "Sirfetch'd",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sirfetchd.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Roaring Moon",
+  "korName": "고동치는달패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Dragon",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 139,
+    "defense": 71,
+    "spAtk": 55,
+    "spDef": 101,
+    "speed": 119,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

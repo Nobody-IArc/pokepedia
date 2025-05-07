@@ -1,0 +1,20 @@
+{
+  "name": "Veluza",
+  "korName": "가비루사분리포켓몬",
+  "species": "분리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/veluza.avif",
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 102,
+    "defense": 73,
+    "spAtk": 78,
+    "spDef": 65,
+    "speed": 70,
+    "total": 478
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

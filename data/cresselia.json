@@ -1,0 +1,19 @@
+{
+  "name": "Cresselia",
+  "korName": "크레세리아",
+  "species": "초승달포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cresselia.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 120,
+    "attack": 70,
+    "defense": 110,
+    "spAtk": 75,
+    "spDef": 120,
+    "speed": 85,
+    "total": 580
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

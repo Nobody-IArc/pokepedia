@@ -1,0 +1,69 @@
+{
+  "name": "Scizor",
+  "korName": "핫삼",
+  "species": "집게포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/scizor.avif",
+  "types": [
+    "Bug",
+    "Steel",
+    "Bug",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "spAtk": 55,
+    "spDef": 80,
+    "speed": 65,
+    "total": 500
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Scyther",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/scyther.jpg",
+        "types": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Scizor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/scizor.jpg",
+        "types": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "name": "Kleavor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/kleavor.jpg",
+        "types": [
+          "Bug",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Scizor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/scizor.jpg",
+        "types": [
+          "Bug",
+          "Steel"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Kleavor",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/kleavor.jpg",
+        "types": [
+          "Bug",
+          "Rock"
+        ]
+      }
+    ]
+  ]
+}

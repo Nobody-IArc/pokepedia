@@ -1,0 +1,38 @@
+{
+  "name": "Carracosta",
+  "korName": "늑골라",
+  "species": "옛날거북포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/carracosta.avif",
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 74,
+    "attack": 108,
+    "defense": 133,
+    "spAtk": 83,
+    "spDef": 65,
+    "speed": 32,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Tirtouga",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tirtouga.jpg",
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Carracosta",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/carracosta.jpg",
+      "types": [
+        "Water",
+        "Rock"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Solosis",
+  "korName": "유니란",
+  "species": "세포포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/solosis.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 40,
+    "spAtk": 105,
+    "spDef": 50,
+    "speed": 20,
+    "total": 290
+  },
+  "evolutions": [
+    {
+      "name": "Solosis",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/solosis.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Duosion",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/duosion.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 41)"
+    },
+    {
+      "name": "Reuniclus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/reuniclus.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

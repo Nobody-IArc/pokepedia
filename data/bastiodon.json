@@ -1,0 +1,38 @@
+{
+  "name": "Bastiodon",
+  "korName": "바리톱스",
+  "species": "실드포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bastiodon.avif",
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 52,
+    "defense": 168,
+    "spAtk": 47,
+    "spDef": 138,
+    "speed": 30,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Shieldon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shieldon.jpg",
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Bastiodon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bastiodon.jpg",
+      "types": [
+        "Rock",
+        "Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Seismitoad",
+  "korName": "두빅굴",
+  "species": "진동포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/seismitoad.avif",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "spAtk": 85,
+    "spDef": 75,
+    "speed": 74,
+    "total": 509
+  },
+  "evolutions": [
+    {
+      "name": "Tympole",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/tympole.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Palpitoad",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/palpitoad.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Seismitoad",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/seismitoad.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ]
+    }
+  ]
+}

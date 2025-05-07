@@ -1,0 +1,70 @@
+{
+  "name": "Cyndaquil",
+  "korName": "브케인",
+  "species": "불쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cyndaquil.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "spAtk": 60,
+    "spDef": 50,
+    "speed": 65,
+    "total": 309
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Cyndaquil",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cyndaquil.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Quilava",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/quilava.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Typhlosion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/typhlosion.jpg",
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Typhlosion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/typhlosion-hisuian.jpg",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Typhlosion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/typhlosion.jpg",
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Typhlosion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/typhlosion-hisuian.jpg",
+        "types": [
+          "Fire",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

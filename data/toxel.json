@@ -1,0 +1,67 @@
+{
+  "name": "Toxel",
+  "korName": "일레즌",
+  "species": "젖먹이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/toxel.avif",
+  "types": [
+    "Electric",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 38,
+    "defense": 35,
+    "spAtk": 54,
+    "spDef": 35,
+    "speed": 40,
+    "total": 242
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Toxel",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxel.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-amped.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-low-key.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-amped.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Toxtricity",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/toxtricity-low-key.jpg",
+        "types": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    ]
+  ]
+}

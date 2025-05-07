@@ -1,0 +1,56 @@
+{
+  "name": "Zoroark",
+  "korName": "조로아크",
+  "species": "요괴여우포켓몬저주여우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/zoroark.avif",
+  "types": [
+    "Dark",
+    "Normal",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 105,
+    "defense": 60,
+    "spAtk": 120,
+    "spDef": 60,
+    "speed": 105,
+    "total": 510
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Zorua",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/zorua.jpg",
+        "types": [
+          "Dark"
+        ]
+      },
+      {
+        "name": "Zoroark",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/zoroark.jpg",
+        "types": [
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Zorua",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/zorua-hisuian.jpg",
+        "types": [
+          "Normal",
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Zoroark",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/zoroark-hisuian.jpg",
+        "types": [
+          "Normal",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

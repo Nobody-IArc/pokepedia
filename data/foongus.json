@@ -1,0 +1,38 @@
+{
+  "name": "Foongus",
+  "korName": "깜놀버슬",
+  "species": "버섯포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/foongus.avif",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "spAtk": 55,
+    "spDef": 55,
+    "speed": 15,
+    "total": 294
+  },
+  "evolutions": [
+    {
+      "name": "Foongus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/foongus.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 39)"
+    },
+    {
+      "name": "Amoonguss",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/amoonguss.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ]
+    }
+  ]
+}

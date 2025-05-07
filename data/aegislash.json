@@ -1,0 +1,49 @@
+{
+  "name": "Aegislash",
+  "korName": "킬가르도",
+  "species": "왕검포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/aegislash-shield.avif",
+  "types": [
+    "Steel",
+    "Ghost",
+    "Steel",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 140,
+    "spAtk": 50,
+    "spDef": 140,
+    "speed": 60,
+    "total": 500
+  },
+  "evolutions": [
+    {
+      "name": "Honedge",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/honedge.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Doublade",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/doublade.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "evolveMethod": "(use Dusk Stone)"
+    },
+    {
+      "name": "Aegislash",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aegislash-shield.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ]
+    }
+  ]
+}

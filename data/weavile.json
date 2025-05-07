@@ -1,0 +1,57 @@
+{
+  "name": "Weavile",
+  "korName": "포푸니라",
+  "species": "갈고리손톱포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/weavile.avif",
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 65,
+    "spAtk": 45,
+    "spDef": 85,
+    "speed": 125,
+    "total": 510
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Sneasel",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sneasel.jpg",
+        "types": [
+          "Dark",
+          "Ice"
+        ]
+      },
+      {
+        "name": "Weavile",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/weavile.jpg",
+        "types": [
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Sneasel",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sneasel-hisuian.jpg",
+        "types": [
+          "Fighting",
+          "Poison"
+        ]
+      },
+      {
+        "name": "Sneasler",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sneasler.jpg",
+        "types": [
+          "Fighting",
+          "Poison"
+        ]
+      }
+    ]
+  ]
+}

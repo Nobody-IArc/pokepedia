@@ -1,0 +1,26 @@
+{
+  "name": "Oricorio",
+  "korName": "춤추새",
+  "species": "댄스포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/oricorio-baile.avif",
+  "types": [
+    "Fire",
+    "Flying",
+    "Electric",
+    "Flying",
+    "Psychic",
+    "Flying",
+    "Ghost",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "spAtk": 98,
+    "spDef": 70,
+    "speed": 93,
+    "total": 476
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

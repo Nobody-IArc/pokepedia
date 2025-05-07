@@ -1,0 +1,47 @@
+{
+  "name": "Mamoswine",
+  "korName": "맘모꾸리",
+  "species": "2개송곳니포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mamoswine.avif",
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 130,
+    "defense": 80,
+    "spAtk": 70,
+    "spDef": 60,
+    "speed": 80,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Swinub",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swinub.jpg",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Piloswine",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/piloswine.jpg",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "evolveMethod": "(after Ancient Power learned)"
+    },
+    {
+      "name": "Mamoswine",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mamoswine.jpg",
+      "types": [
+        "Ice",
+        "Ground"
+      ]
+    }
+  ]
+}

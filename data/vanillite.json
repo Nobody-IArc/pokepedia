@@ -1,0 +1,43 @@
+{
+  "name": "Vanillite",
+  "korName": "바닐프티",
+  "species": "신설포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/vanillite.avif",
+  "types": [
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 36,
+    "attack": 50,
+    "defense": 50,
+    "spAtk": 65,
+    "spDef": 60,
+    "speed": 44,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Vanillite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vanillite.jpg",
+      "types": [
+        "Ice"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Vanillish",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vanillish.jpg",
+      "types": [
+        "Ice"
+      ],
+      "evolveMethod": "(Level 47)"
+    },
+    {
+      "name": "Vanilluxe",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vanilluxe.jpg",
+      "types": [
+        "Ice"
+      ]
+    }
+  ]
+}

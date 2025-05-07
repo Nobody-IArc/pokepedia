@@ -1,0 +1,35 @@
+{
+  "name": "Furret",
+  "korName": "다꼬리",
+  "species": "긴몸통포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/furret.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 76,
+    "defense": 64,
+    "spAtk": 45,
+    "spDef": 55,
+    "speed": 90,
+    "total": 415
+  },
+  "evolutions": [
+    {
+      "name": "Sentret",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sentret.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Furret",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/furret.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

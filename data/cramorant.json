@@ -1,0 +1,20 @@
+{
+  "name": "Cramorant",
+  "korName": "윽우지",
+  "species": "그대로삼키기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/cramorant.avif",
+  "types": [
+    "Flying",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 55,
+    "spAtk": 85,
+    "spDef": 95,
+    "speed": 85,
+    "total": 475
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

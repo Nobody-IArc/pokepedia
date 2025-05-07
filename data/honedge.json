@@ -1,0 +1,47 @@
+{
+  "name": "Honedge",
+  "korName": "단칼빙",
+  "species": "도검포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/honedge.avif",
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 80,
+    "defense": 100,
+    "spAtk": 35,
+    "spDef": 37,
+    "speed": 28,
+    "total": 325
+  },
+  "evolutions": [
+    {
+      "name": "Honedge",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/honedge.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Doublade",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/doublade.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "evolveMethod": "(use Dusk Stone)"
+    },
+    {
+      "name": "Aegislash",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aegislash-shield.jpg",
+      "types": [
+        "Steel",
+        "Ghost"
+      ]
+    }
+  ]
+}

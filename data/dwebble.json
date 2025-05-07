@@ -1,0 +1,38 @@
+{
+  "name": "Dwebble",
+  "korName": "돌살이",
+  "species": "돌집포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dwebble.avif",
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "spAtk": 35,
+    "spDef": 35,
+    "speed": 55,
+    "total": 325
+  },
+  "evolutions": [
+    {
+      "name": "Dwebble",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dwebble.jpg",
+      "types": [
+        "Bug",
+        "Rock"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Crustle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/crustle.jpg",
+      "types": [
+        "Bug",
+        "Rock"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Snubbull",
+  "korName": "블루",
+  "species": "요정포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/snubbull.avif",
+  "types": [
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 40,
+    "speed": 30,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Snubbull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/snubbull.jpg",
+      "types": [
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 23)"
+    },
+    {
+      "name": "Granbull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/granbull.jpg",
+      "types": [
+        "Fairy"
+      ]
+    }
+  ]
+}

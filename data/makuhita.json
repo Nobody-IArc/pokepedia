@@ -1,0 +1,35 @@
+{
+  "name": "Makuhita",
+  "korName": "마크탕",
+  "species": "근성포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/makuhita.avif",
+  "types": [
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 60,
+    "defense": 30,
+    "spAtk": 20,
+    "spDef": 30,
+    "speed": 25,
+    "total": 237
+  },
+  "evolutions": [
+    {
+      "name": "Makuhita",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/makuhita.jpg",
+      "types": [
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Hariyama",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hariyama.jpg",
+      "types": [
+        "Fighting"
+      ]
+    }
+  ]
+}

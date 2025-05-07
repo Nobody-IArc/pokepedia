@@ -1,0 +1,38 @@
+{
+  "name": "Wingull",
+  "korName": "갈모매",
+  "species": "괭이갈매기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/wingull.avif",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "spAtk": 55,
+    "spDef": 30,
+    "speed": 85,
+    "total": 270
+  },
+  "evolutions": [
+    {
+      "name": "Wingull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/wingull.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Pelipper",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pelipper.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ]
+    }
+  ]
+}

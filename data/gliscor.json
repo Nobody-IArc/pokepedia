@@ -1,0 +1,38 @@
+{
+  "name": "Gliscor",
+  "korName": "글라이온",
+  "species": "송곳니전갈포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gliscor.avif",
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 125,
+    "spAtk": 45,
+    "spDef": 75,
+    "speed": 95,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Gligar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gligar.jpg",
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "evolveMethod": "(hold Razor Fang, Nighttime)"
+    },
+    {
+      "name": "Gliscor",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gliscor.jpg",
+      "types": [
+        "Ground",
+        "Flying"
+      ]
+    }
+  ]
+}

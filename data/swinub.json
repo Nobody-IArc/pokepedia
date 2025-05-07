@@ -1,0 +1,47 @@
+{
+  "name": "Swinub",
+  "korName": "꾸꾸리",
+  "species": "산돼지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swinub.avif",
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "spAtk": 30,
+    "spDef": 30,
+    "speed": 50,
+    "total": 250
+  },
+  "evolutions": [
+    {
+      "name": "Swinub",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swinub.jpg",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Piloswine",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/piloswine.jpg",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "evolveMethod": "(after Ancient Power learned)"
+    },
+    {
+      "name": "Mamoswine",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mamoswine.jpg",
+      "types": [
+        "Ice",
+        "Ground"
+      ]
+    }
+  ]
+}

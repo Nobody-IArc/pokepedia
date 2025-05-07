@@ -1,0 +1,35 @@
+{
+  "name": "Sandaconda",
+  "korName": "사다이사",
+  "species": "모래뱀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sandaconda.avif",
+  "types": [
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 72,
+    "attack": 107,
+    "defense": 125,
+    "spAtk": 65,
+    "spDef": 70,
+    "speed": 71,
+    "total": 510
+  },
+  "evolutions": [
+    {
+      "name": "Silicobra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/silicobra.jpg",
+      "types": [
+        "Ground"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Sandaconda",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandaconda.jpg",
+      "types": [
+        "Ground"
+      ]
+    }
+  ]
+}

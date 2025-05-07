@@ -1,0 +1,19 @@
+{
+  "name": "Phione",
+  "korName": "피오네",
+  "species": "해양포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/phione.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "spAtk": 80,
+    "spDef": 80,
+    "speed": 80,
+    "total": 480
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

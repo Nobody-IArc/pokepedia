@@ -1,0 +1,45 @@
+{
+  "name": "Empoleon",
+  "korName": "엠페르트",
+  "species": "황제포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/empoleon.avif",
+  "types": [
+    "Water",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "spAtk": 111,
+    "spDef": 101,
+    "speed": 60,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Piplup",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/piplup.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Prinplup",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/prinplup.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Empoleon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/empoleon.jpg",
+      "types": [
+        "Water",
+        "Steel"
+      ]
+    }
+  ]
+}

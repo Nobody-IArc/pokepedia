@@ -1,0 +1,35 @@
+{
+  "name": "Lickitung",
+  "korName": "내루미",
+  "species": "핥기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lickitung.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "spAtk": 60,
+    "spDef": 75,
+    "speed": 30,
+    "total": 385
+  },
+  "evolutions": [
+    {
+      "name": "Lickitung",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lickitung.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(after Rollout learned)"
+    },
+    {
+      "name": "Lickilicky",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/lickilicky.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

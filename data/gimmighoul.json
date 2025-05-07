@@ -1,0 +1,37 @@
+{
+  "name": "Gimmighoul",
+  "korName": "모으령보물상자포켓몬보물찾기포켓몬",
+  "species": "보물상자포켓몬보물찾기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gimmighoul-chest.avif",
+  "types": [
+    "Ghost",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 70,
+    "spAtk": 75,
+    "spDef": 70,
+    "speed": 10,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Gimmighoul",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/gimmighoul-chest.png",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(collect 999 Coins from Roaming Form)"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/gholdengo.png",
+      "types": [
+        "Steel",
+        "Ghost"
+      ]
+    }
+  ]
+}

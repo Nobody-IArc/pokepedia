@@ -1,0 +1,38 @@
+{
+  "name": "Archaludon",
+  "korName": "",
+  "species": "",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/archaludon.avif",
+  "types": [
+    "Steel",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 105,
+    "defense": 130,
+    "spAtk": 125,
+    "spDef": 65,
+    "speed": 85,
+    "total": 600
+  },
+  "evolutions": [
+    {
+      "name": "Duraludon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/duraludon.jpg",
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "evolveMethod": "(use Metal Alloy)"
+    },
+    {
+      "name": "Archaludon",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/archaludon.png",
+      "types": [
+        "Steel",
+        "Dragon"
+      ]
+    }
+  ]
+}

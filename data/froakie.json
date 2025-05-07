@@ -1,0 +1,44 @@
+{
+  "name": "Froakie",
+  "korName": "개구마르",
+  "species": "거품개구리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/froakie.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 41,
+    "attack": 56,
+    "defense": 40,
+    "spAtk": 62,
+    "spDef": 44,
+    "speed": 71,
+    "total": 314
+  },
+  "evolutions": [
+    {
+      "name": "Froakie",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/froakie.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Frogadier",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/frogadier.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Greninja",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/greninja.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ]
+    }
+  ]
+}

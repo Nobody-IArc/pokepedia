@@ -1,0 +1,36 @@
+{
+  "name": "Seel",
+  "korName": "쥬쥬",
+  "species": "강치포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/seel.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "spAtk": 45,
+    "spDef": 70,
+    "speed": 45,
+    "total": 325
+  },
+  "evolutions": [
+    {
+      "name": "Seel",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/seel.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 34)"
+    },
+    {
+      "name": "Dewgong",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dewgong.jpg",
+      "types": [
+        "Water",
+        "Ice"
+      ]
+    }
+  ]
+}

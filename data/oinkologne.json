@@ -1,0 +1,62 @@
+{
+  "name": "Oinkologne",
+  "korName": "퍼퓨돈돼지포켓몬",
+  "species": "돼지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/oinkologne-male.avif",
+  "types": [
+    "Normal",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 100,
+    "defense": 75,
+    "spAtk": 59,
+    "spDef": 80,
+    "speed": 65,
+    "total": 489
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Lechonk",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/lechonk.png",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-male.png",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-female.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-male.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Oinkologne",
+        "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/oinkologne-female.png",
+        "types": [
+          "Normal"
+        ]
+      }
+    ]
+  ]
+}

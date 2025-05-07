@@ -1,0 +1,37 @@
+{
+  "name": "Gastrodon",
+  "korName": "트리토돈",
+  "species": "갯민숭달팽이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gastrodon.avif",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "spAtk": 92,
+    "spDef": 82,
+    "speed": 39,
+    "total": 475
+  },
+  "evolutions": [
+    {
+      "name": "Shellos",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shellos.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Gastrodon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gastrodon.jpg",
+      "types": [
+        "Water",
+        "Ground"
+      ]
+    }
+  ]
+}

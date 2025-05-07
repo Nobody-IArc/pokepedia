@@ -1,0 +1,38 @@
+{
+  "name": "Phantump",
+  "korName": "나목령",
+  "species": "그루터기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/phantump.avif",
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 43,
+    "attack": 70,
+    "defense": 48,
+    "spAtk": 50,
+    "spDef": 60,
+    "speed": 38,
+    "total": 309
+  },
+  "evolutions": [
+    {
+      "name": "Phantump",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/phantump.jpg",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Trevenant",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trevenant.jpg",
+      "types": [
+        "Ghost",
+        "Grass"
+      ]
+    }
+  ]
+}

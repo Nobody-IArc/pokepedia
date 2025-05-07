@@ -1,0 +1,20 @@
+{
+  "name": "Lugia",
+  "korName": "루기아",
+  "species": "잠수포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/lugia.avif",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "spAtk": 90,
+    "spDef": 154,
+    "speed": 110,
+    "total": 680
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Deoxys",
+  "korName": "테오키스",
+  "species": "DNA포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/deoxys-normal.avif",
+  "types": [
+    "Psychic",
+    "Psychic",
+    "Psychic",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "spAtk": 150,
+    "spDef": 50,
+    "speed": 150,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

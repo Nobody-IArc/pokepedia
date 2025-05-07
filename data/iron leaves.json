@@ -1,0 +1,19 @@
+{
+  "name": "Iron Leaves",
+  "korName": "무쇠잎새패러독스포켓몬",
+  "species": "패러독스포켓몬",
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 88,
+    "spAtk": 70,
+    "spDef": 108,
+    "speed": 104,
+    "total": 590
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

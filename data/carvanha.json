@@ -1,0 +1,38 @@
+{
+  "name": "Carvanha",
+  "korName": "샤프니아",
+  "species": "사나움포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/carvanha.avif",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "spAtk": 65,
+    "spDef": 20,
+    "speed": 65,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Carvanha",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/carvanha.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Sharpedo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sharpedo.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ]
+    }
+  ]
+}

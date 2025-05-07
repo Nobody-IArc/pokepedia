@@ -1,0 +1,35 @@
+{
+  "name": "Tarountula",
+  "korName": "타랜툴라실타래포켓몬",
+  "species": "실타래포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/tarountula.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 41,
+    "defense": 45,
+    "spAtk": 29,
+    "spDef": 40,
+    "speed": 20,
+    "total": 210
+  },
+  "evolutions": [
+    {
+      "name": "Tarountula",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/tarountula.png",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Spidops",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/spidops.png",
+      "types": [
+        "Bug"
+      ]
+    }
+  ]
+}

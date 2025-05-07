@@ -1,0 +1,20 @@
+{
+  "name": "Eiscue",
+  "korName": "빙큐보",
+  "species": "펭귄포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/eiscue-ice.avif",
+  "types": [
+    "Ice",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 110,
+    "spAtk": 65,
+    "spDef": 90,
+    "speed": 50,
+    "total": 470
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

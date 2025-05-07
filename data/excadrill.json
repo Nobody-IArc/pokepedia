@@ -1,0 +1,37 @@
+{
+  "name": "Excadrill",
+  "korName": "몰드류",
+  "species": "땅밑포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/excadrill.avif",
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "spAtk": 50,
+    "spDef": 65,
+    "speed": 88,
+    "total": 508
+  },
+  "evolutions": [
+    {
+      "name": "Drilbur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drilbur.jpg",
+      "types": [
+        "Ground"
+      ],
+      "evolveMethod": "(Level 31)"
+    },
+    {
+      "name": "Excadrill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/excadrill.jpg",
+      "types": [
+        "Ground",
+        "Steel"
+      ]
+    }
+  ]
+}

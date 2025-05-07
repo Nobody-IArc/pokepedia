@@ -1,0 +1,46 @@
+{
+  "name": "Kommo-o",
+  "korName": "짜랑고우거",
+  "species": "비늘포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/kommo-o.avif",
+  "types": [
+    "Dragon",
+    "Fighting"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 125,
+    "spAtk": 100,
+    "spDef": 105,
+    "speed": 85,
+    "total": 600
+  },
+  "evolutions": [
+    {
+      "name": "Jangmo-o",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/jangmo-o.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Hakamo-o",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/hakamo-o.jpg",
+      "types": [
+        "Dragon",
+        "Fighting"
+      ],
+      "evolveMethod": "(Level 45)"
+    },
+    {
+      "name": "Kommo-o",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/kommo-o.jpg",
+      "types": [
+        "Dragon",
+        "Fighting"
+      ]
+    }
+  ]
+}

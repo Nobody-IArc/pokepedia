@@ -1,0 +1,35 @@
+{
+  "name": "Beheeyem",
+  "korName": "벰크",
+  "species": "브레인포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/beheeyem.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "spAtk": 125,
+    "spDef": 95,
+    "speed": 40,
+    "total": 485
+  },
+  "evolutions": [
+    {
+      "name": "Elgyem",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/elgyem.jpg",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Beheeyem",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/beheeyem.jpg",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

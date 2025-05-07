@@ -1,0 +1,36 @@
+{
+  "name": "Slugma",
+  "korName": "마그마그",
+  "species": "용암포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/slugma.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "spAtk": 70,
+    "spDef": 40,
+    "speed": 20,
+    "total": 250
+  },
+  "evolutions": [
+    {
+      "name": "Slugma",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/slugma.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Magcargo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/magcargo.jpg",
+      "types": [
+        "Fire",
+        "Rock"
+      ]
+    }
+  ]
+}

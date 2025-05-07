@@ -1,0 +1,19 @@
+{
+  "name": "Heatmor",
+  "korName": "앤티골",
+  "species": "개미핥기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/heatmor.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 97,
+    "defense": 66,
+    "spAtk": 105,
+    "spDef": 66,
+    "speed": 65,
+    "total": 484
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

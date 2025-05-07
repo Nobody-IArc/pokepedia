@@ -1,0 +1,43 @@
+{
+  "name": "Fraxure",
+  "korName": "액슨도",
+  "species": "도끼턱포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/fraxure.avif",
+  "types": [
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 66,
+    "attack": 117,
+    "defense": 70,
+    "spAtk": 40,
+    "spDef": 50,
+    "speed": 67,
+    "total": 410
+  },
+  "evolutions": [
+    {
+      "name": "Axew",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/axew.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 38)"
+    },
+    {
+      "name": "Fraxure",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fraxure.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 48)"
+    },
+    {
+      "name": "Haxorus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/haxorus.jpg",
+      "types": [
+        "Dragon"
+      ]
+    }
+  ]
+}

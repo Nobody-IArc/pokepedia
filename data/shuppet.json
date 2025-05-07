@@ -1,0 +1,35 @@
+{
+  "name": "Shuppet",
+  "korName": "어둠대신",
+  "species": "인형포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shuppet.avif",
+  "types": [
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 44,
+    "attack": 75,
+    "defense": 35,
+    "spAtk": 63,
+    "spDef": 33,
+    "speed": 45,
+    "total": 295
+  },
+  "evolutions": [
+    {
+      "name": "Shuppet",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shuppet.jpg",
+      "types": [
+        "Ghost"
+      ],
+      "evolveMethod": "(Level 37)"
+    },
+    {
+      "name": "Banette",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/banette.jpg",
+      "types": [
+        "Ghost"
+      ]
+    }
+  ]
+}

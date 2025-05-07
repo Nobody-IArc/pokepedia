@@ -1,0 +1,22 @@
+{
+  "name": "Eternatus",
+  "korName": "무한다이노",
+  "species": "거대포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/eternatus.avif",
+  "types": [
+    "Poison",
+    "Dragon",
+    "Poison",
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 140,
+    "attack": 85,
+    "defense": 95,
+    "spAtk": 145,
+    "spDef": 95,
+    "speed": 130,
+    "total": 690
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

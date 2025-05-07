@@ -1,0 +1,38 @@
+{
+  "name": "Morelull",
+  "korName": "자마슈",
+  "species": "발광포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/morelull.avif",
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 55,
+    "spAtk": 65,
+    "spDef": 75,
+    "speed": 15,
+    "total": 285
+  },
+  "evolutions": [
+    {
+      "name": "Morelull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/morelull.jpg",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Shiinotic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shiinotic.jpg",
+      "types": [
+        "Grass",
+        "Fairy"
+      ]
+    }
+  ]
+}

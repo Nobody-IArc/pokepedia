@@ -1,0 +1,35 @@
+{
+  "name": "Panpour",
+  "korName": "앗차프",
+  "species": "물뿌리기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/panpour.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "spAtk": 53,
+    "spDef": 48,
+    "speed": 64,
+    "total": 316
+  },
+  "evolutions": [
+    {
+      "name": "Panpour",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/panpour.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(use Water Stone)"
+    },
+    {
+      "name": "Simipour",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/simipour.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

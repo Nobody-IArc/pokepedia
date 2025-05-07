@@ -1,0 +1,44 @@
+{
+  "name": "Grotle",
+  "korName": "수풀부기",
+  "species": "나무숲포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/grotle.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "spAtk": 55,
+    "spDef": 65,
+    "speed": 36,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Turtwig",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/turtwig.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Grotle",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grotle.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Torterra",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/torterra.jpg",
+      "types": [
+        "Grass",
+        "Ground"
+      ]
+    }
+  ]
+}

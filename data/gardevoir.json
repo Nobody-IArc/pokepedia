@@ -1,0 +1,77 @@
+{
+  "name": "Gardevoir",
+  "korName": "가디안",
+  "species": "포용포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gardevoir.avif",
+  "types": [
+    "Psychic",
+    "Fairy",
+    "Psychic",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "spAtk": 125,
+    "spDef": 115,
+    "speed": 80,
+    "total": 518
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Ralts",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/ralts.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "name": "Kirlia",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/kirlia.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "name": "Gardevoir",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gardevoir.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "name": "Gallade",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gallade.jpg",
+        "types": [
+          "Psychic",
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Gardevoir",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gardevoir.jpg",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Gallade",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/gallade.jpg",
+        "types": [
+          "Psychic",
+          "Fighting"
+        ]
+      }
+    ]
+  ]
+}

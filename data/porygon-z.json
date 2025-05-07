@@ -1,0 +1,43 @@
+{
+  "name": "Porygon-Z",
+  "korName": "폴리곤Z",
+  "species": "가상포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/porygon-z.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "spAtk": 135,
+    "spDef": 75,
+    "speed": 90,
+    "total": 535
+  },
+  "evolutions": [
+    {
+      "name": "Porygon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/porygon.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(trade holding Upgrade)"
+    },
+    {
+      "name": "Porygon2",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/porygon2.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(trade holding Dubious Disc)"
+    },
+    {
+      "name": "Porygon-Z",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/porygon-z.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

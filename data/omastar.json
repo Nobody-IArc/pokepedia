@@ -1,0 +1,38 @@
+{
+  "name": "Omastar",
+  "korName": "암스타",
+  "species": "소용돌이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/omastar.avif",
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "spAtk": 115,
+    "spDef": 70,
+    "speed": 55,
+    "total": 495
+  },
+  "evolutions": [
+    {
+      "name": "Omanyte",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/omanyte.jpg",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Omastar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/omastar.jpg",
+      "types": [
+        "Rock",
+        "Water"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Drilbur",
+  "korName": "두더류",
+  "species": "두더지포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/drilbur.avif",
+  "types": [
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "spAtk": 30,
+    "spDef": 45,
+    "speed": 68,
+    "total": 328
+  },
+  "evolutions": [
+    {
+      "name": "Drilbur",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/drilbur.jpg",
+      "types": [
+        "Ground"
+      ],
+      "evolveMethod": "(Level 31)"
+    },
+    {
+      "name": "Excadrill",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/excadrill.jpg",
+      "types": [
+        "Ground",
+        "Steel"
+      ]
+    }
+  ]
+}

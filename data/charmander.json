@@ -1,0 +1,44 @@
+{
+  "name": "Charmander",
+  "korName": "파이리",
+  "species": "도롱뇽포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/charmander.avif",
+  "types": [
+    "Fire"
+  ],
+  "baseStats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "spAtk": 60,
+    "spDef": 50,
+    "speed": 65,
+    "total": 309
+  },
+  "evolutions": [
+    {
+      "name": "Charmander",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/charmander.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/charmeleon.jpg",
+      "types": [
+        "Fire"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Charizard",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/charizard.jpg",
+      "types": [
+        "Fire",
+        "Flying"
+      ]
+    }
+  ]
+}

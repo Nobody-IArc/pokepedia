@@ -1,0 +1,47 @@
+{
+  "name": "Fletchling",
+  "korName": "화살꼬빈",
+  "species": "울새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/fletchling.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "spAtk": 40,
+    "spDef": 38,
+    "speed": 62,
+    "total": 278
+  },
+  "evolutions": [
+    {
+      "name": "Fletchling",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fletchling.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 17)"
+    },
+    {
+      "name": "Fletchinder",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/fletchinder.jpg",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Talonflame",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/talonflame.jpg",
+      "types": [
+        "Fire",
+        "Flying"
+      ]
+    }
+  ]
+}

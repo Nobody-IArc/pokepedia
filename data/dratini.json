@@ -1,0 +1,44 @@
+{
+  "name": "Dratini",
+  "korName": "미뇽",
+  "species": "드래곤포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/dratini.avif",
+  "types": [
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "spAtk": 50,
+    "spDef": 50,
+    "speed": 50,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Dratini",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dratini.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Dragonair",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dragonair.jpg",
+      "types": [
+        "Dragon"
+      ],
+      "evolveMethod": "(Level 55)"
+    },
+    {
+      "name": "Dragonite",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/dragonite.jpg",
+      "types": [
+        "Dragon",
+        "Flying"
+      ]
+    }
+  ]
+}

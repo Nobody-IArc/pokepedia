@@ -1,0 +1,19 @@
+{
+  "name": "Darkrai",
+  "korName": "다크라이",
+  "species": "암흑포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/darkrai.avif",
+  "types": [
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 90,
+    "spAtk": 135,
+    "spDef": 90,
+    "speed": 125,
+    "total": 600
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

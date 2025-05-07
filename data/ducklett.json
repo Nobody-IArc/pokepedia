@@ -1,0 +1,38 @@
+{
+  "name": "Ducklett",
+  "korName": "꼬지보리",
+  "species": "물새포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/ducklett.avif",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "spAtk": 44,
+    "spDef": 50,
+    "speed": 55,
+    "total": 305
+  },
+  "evolutions": [
+    {
+      "name": "Ducklett",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/ducklett.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Swanna",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swanna.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ]
+    }
+  ]
+}

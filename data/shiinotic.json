@@ -1,0 +1,38 @@
+{
+  "name": "Shiinotic",
+  "korName": "마셰이드",
+  "species": "발광포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shiinotic.avif",
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 80,
+    "spAtk": 90,
+    "spDef": 100,
+    "speed": 30,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Morelull",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/morelull.jpg",
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Shiinotic",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shiinotic.jpg",
+      "types": [
+        "Grass",
+        "Fairy"
+      ]
+    }
+  ]
+}

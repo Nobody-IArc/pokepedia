@@ -1,0 +1,38 @@
+{
+  "name": "Mantine",
+  "korName": "만타인",
+  "species": "연포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mantine.avif",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 40,
+    "defense": 70,
+    "spAtk": 80,
+    "spDef": 140,
+    "speed": 70,
+    "total": 485
+  },
+  "evolutions": [
+    {
+      "name": "Mantyke",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mantyke.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "evolveMethod": "(with Remoraid in party)"
+    },
+    {
+      "name": "Mantine",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/mantine.jpg",
+      "types": [
+        "Water",
+        "Flying"
+      ]
+    }
+  ]
+}

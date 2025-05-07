@@ -1,0 +1,35 @@
+{
+  "name": "Munchlax",
+  "korName": "먹고자",
+  "species": "대식가포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/munchlax.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 135,
+    "attack": 85,
+    "defense": 40,
+    "spAtk": 40,
+    "spDef": 85,
+    "speed": 5,
+    "total": 390
+  },
+  "evolutions": [
+    {
+      "name": "Munchlax",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/munchlax.jpg",
+      "types": [
+        "Normal"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Snorlax",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/snorlax.jpg",
+      "types": [
+        "Normal"
+      ]
+    }
+  ]
+}

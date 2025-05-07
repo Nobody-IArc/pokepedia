@@ -1,0 +1,36 @@
+{
+  "name": "Nymble",
+  "korName": "콩알뚜기메뚜기포켓몬",
+  "species": "메뚜기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nymble.avif",
+  "types": [
+    "Bug"
+  ],
+  "baseStats": {
+    "hp": 33,
+    "attack": 46,
+    "defense": 40,
+    "spAtk": 21,
+    "spDef": 25,
+    "speed": 45,
+    "total": 210
+  },
+  "evolutions": [
+    {
+      "name": "Nymble",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/nymble.png",
+      "types": [
+        "Bug"
+      ],
+      "evolveMethod": "(Level 24)"
+    },
+    {
+      "name": "Lokix",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/lokix.png",
+      "types": [
+        "Bug",
+        "Dark"
+      ]
+    }
+  ]
+}

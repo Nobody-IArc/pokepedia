@@ -1,0 +1,93 @@
+{
+  "name": "Goomy",
+  "korName": "미끄메라",
+  "species": "연체포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/goomy.avif",
+  "types": [
+    "Dragon"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "spAtk": 55,
+    "spDef": 75,
+    "speed": 40,
+    "total": 300
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Goomy",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/goomy.jpg",
+        "types": [
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Sliggoo",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sliggoo.jpg",
+        "types": [
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Goodra",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/goodra.jpg",
+        "types": [
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Sliggoo",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sliggoo-hisuian.jpg",
+        "types": [
+          "Steel",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Goodra",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/goodra-hisuian.jpg",
+        "types": [
+          "Steel",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Sliggoo",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sliggoo.jpg",
+        "types": [
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Goodra",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/goodra.jpg",
+        "types": [
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Sliggoo",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/sliggoo-hisuian.jpg",
+        "types": [
+          "Steel",
+          "Dragon"
+        ]
+      },
+      {
+        "name": "Goodra",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/goodra-hisuian.jpg",
+        "types": [
+          "Steel",
+          "Dragon"
+        ]
+      }
+    ]
+  ]
+}

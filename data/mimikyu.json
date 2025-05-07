@@ -1,0 +1,20 @@
+{
+  "name": "Mimikyu",
+  "korName": "따라큐",
+  "species": "탈포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/mimikyu.avif",
+  "types": [
+    "Ghost",
+    "Fairy"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 90,
+    "defense": 80,
+    "spAtk": 50,
+    "spDef": 105,
+    "speed": 96,
+    "total": 476
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

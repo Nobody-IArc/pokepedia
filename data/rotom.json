@@ -1,0 +1,30 @@
+{
+  "name": "Rotom",
+  "korName": "로토무",
+  "species": "플라스마포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/rotom.avif",
+  "types": [
+    "Electric",
+    "Ghost",
+    "Electric",
+    "Fire",
+    "Electric",
+    "Water",
+    "Electric",
+    "Ice",
+    "Electric",
+    "Flying",
+    "Electric",
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "spAtk": 95,
+    "spDef": 77,
+    "speed": 91,
+    "total": 440
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

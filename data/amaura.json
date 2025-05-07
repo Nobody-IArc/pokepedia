@@ -1,0 +1,38 @@
+{
+  "name": "Amaura",
+  "korName": "아마루스",
+  "species": "툰드라포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/amaura.avif",
+  "types": [
+    "Rock",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 77,
+    "attack": 59,
+    "defense": 50,
+    "spAtk": 67,
+    "spDef": 63,
+    "speed": 46,
+    "total": 362
+  },
+  "evolutions": [
+    {
+      "name": "Amaura",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/amaura.jpg",
+      "types": [
+        "Rock",
+        "Ice"
+      ],
+      "evolveMethod": "(Level 39, Nighttime)"
+    },
+    {
+      "name": "Aurorus",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/aurorus.jpg",
+      "types": [
+        "Rock",
+        "Ice"
+      ]
+    }
+  ]
+}

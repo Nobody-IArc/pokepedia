@@ -1,0 +1,56 @@
+{
+  "name": "Raticate",
+  "korName": "레트라",
+  "species": "쥐포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/raticate.avif",
+  "types": [
+    "Normal",
+    "Dark",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "spAtk": 50,
+    "spDef": 70,
+    "speed": 97,
+    "total": 413
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Rattata",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rattata.jpg",
+        "types": [
+          "Normal"
+        ]
+      },
+      {
+        "name": "Raticate",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/raticate.jpg",
+        "types": [
+          "Normal"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Rattata",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/rattata-alolan.jpg",
+        "types": [
+          "Dark",
+          "Normal"
+        ]
+      },
+      {
+        "name": "Raticate",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/raticate-alolan.jpg",
+        "types": [
+          "Dark",
+          "Normal"
+        ]
+      }
+    ]
+  ]
+}

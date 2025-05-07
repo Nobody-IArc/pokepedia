@@ -1,0 +1,38 @@
+{
+  "name": "Palossand",
+  "korName": "모래성이당",
+  "species": "모래성포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/palossand.avif",
+  "types": [
+    "Ghost",
+    "Ground"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 75,
+    "defense": 110,
+    "spAtk": 100,
+    "spDef": 75,
+    "speed": 35,
+    "total": 480
+  },
+  "evolutions": [
+    {
+      "name": "Sandygast",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sandygast.jpg",
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "evolveMethod": "(Level 42)"
+    },
+    {
+      "name": "Palossand",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/palossand.jpg",
+      "types": [
+        "Ghost",
+        "Ground"
+      ]
+    }
+  ]
+}

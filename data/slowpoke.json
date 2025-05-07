@@ -1,0 +1,113 @@
+{
+  "name": "Slowpoke",
+  "korName": "야돈",
+  "species": "얼간이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/slowpoke.avif",
+  "types": [
+    "Water",
+    "Psychic",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "spAtk": 40,
+    "spDef": 40,
+    "speed": 15,
+    "total": 315
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Slowpoke",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowpoke.jpg",
+        "types": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Slowbro",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowbro.jpg",
+        "types": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Slowking",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowking.jpg",
+        "types": [
+          "Water",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Slowbro",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowbro.jpg",
+        "types": [
+          "Water",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Slowking",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowking.jpg",
+        "types": [
+          "Water",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Slowpoke",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowpoke-galarian.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Slowbro",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowbro-galarian.jpg",
+        "types": [
+          "Poison",
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Slowking",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowking-galarian.jpg",
+        "types": [
+          "Poison",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Slowbro",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowbro-galarian.jpg",
+        "types": [
+          "Poison",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Slowking",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/slowking-galarian.jpg",
+        "types": [
+          "Poison",
+          "Psychic"
+        ]
+      }
+    ]
+  ]
+}

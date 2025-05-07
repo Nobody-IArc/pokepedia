@@ -1,0 +1,21 @@
+{
+  "name": "Terapagos",
+  "korName": "",
+  "species": "",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/terapagos-normal.avif",
+  "types": [
+    "Normal",
+    "Normal",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 85,
+    "spAtk": 65,
+    "spDef": 85,
+    "speed": 60,
+    "total": 450
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

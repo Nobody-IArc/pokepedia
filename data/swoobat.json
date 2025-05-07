@@ -1,0 +1,38 @@
+{
+  "name": "Swoobat",
+  "korName": "맘박쥐",
+  "species": "구애포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/swoobat.avif",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "spAtk": 77,
+    "spDef": 55,
+    "speed": 114,
+    "total": 425
+  },
+  "evolutions": [
+    {
+      "name": "Woobat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/woobat.jpg",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "evolveMethod": "(high Friendship)"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swoobat.jpg",
+      "types": [
+        "Psychic",
+        "Flying"
+      ]
+    }
+  ]
+}

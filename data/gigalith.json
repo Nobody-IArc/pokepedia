@@ -1,0 +1,43 @@
+{
+  "name": "Gigalith",
+  "korName": "기가이어스",
+  "species": "고압포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gigalith.avif",
+  "types": [
+    "Rock"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 135,
+    "defense": 130,
+    "spAtk": 60,
+    "spDef": 80,
+    "speed": 25,
+    "total": 515
+  },
+  "evolutions": [
+    {
+      "name": "Roggenrola",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/roggenrola.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Boldore",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/boldore.jpg",
+      "types": [
+        "Rock"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Gigalith",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gigalith.jpg",
+      "types": [
+        "Rock"
+      ]
+    }
+  ]
+}

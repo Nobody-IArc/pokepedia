@@ -1,0 +1,38 @@
+{
+  "name": "Joltik",
+  "korName": "파쪼옥",
+  "species": "들러붙기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/joltik.avif",
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "spAtk": 57,
+    "spDef": 50,
+    "speed": 65,
+    "total": 319
+  },
+  "evolutions": [
+    {
+      "name": "Joltik",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/joltik.jpg",
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Galvantula",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/galvantula.jpg",
+      "types": [
+        "Bug",
+        "Electric"
+      ]
+    }
+  ]
+}

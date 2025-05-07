@@ -1,0 +1,43 @@
+{
+  "name": "Bayleef",
+  "korName": "베이리프",
+  "species": "잎사귀포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/bayleef.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "spAtk": 63,
+    "spDef": 80,
+    "speed": 60,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Chikorita",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/chikorita.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Bayleef",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/bayleef.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Meganium",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/meganium.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

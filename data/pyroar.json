@@ -1,0 +1,38 @@
+{
+  "name": "Pyroar",
+  "korName": "화염레오",
+  "species": "임금포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pyroar.avif",
+  "types": [
+    "Fire",
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "spAtk": 109,
+    "spDef": 66,
+    "speed": 106,
+    "total": 507
+  },
+  "evolutions": [
+    {
+      "name": "Litleo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/litleo.jpg",
+      "types": [
+        "Fire",
+        "Normal"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Pyroar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pyroar.jpg",
+      "types": [
+        "Fire",
+        "Normal"
+      ]
+    }
+  ]
+}

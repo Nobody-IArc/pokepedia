@@ -1,0 +1,38 @@
+{
+  "name": "Baltoy",
+  "korName": "오뚝군",
+  "species": "토우포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/baltoy.avif",
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "spAtk": 40,
+    "spDef": 70,
+    "speed": 55,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Baltoy",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/baltoy.jpg",
+      "types": [
+        "Ground",
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 36)"
+    },
+    {
+      "name": "Claydol",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/claydol.jpg",
+      "types": [
+        "Ground",
+        "Psychic"
+      ]
+    }
+  ]
+}

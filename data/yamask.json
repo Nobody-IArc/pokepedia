@@ -1,0 +1,56 @@
+{
+  "name": "Yamask",
+  "korName": "데스마스",
+  "species": "영혼포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/yamask.avif",
+  "types": [
+    "Ghost",
+    "Ground",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 30,
+    "defense": 85,
+    "spAtk": 55,
+    "spDef": 65,
+    "speed": 30,
+    "total": 303
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Yamask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/yamask.jpg",
+        "types": [
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Cofagrigus",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/cofagrigus.jpg",
+        "types": [
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Yamask",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/yamask-galarian.jpg",
+        "types": [
+          "Ground",
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Runerigus",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/runerigus.jpg",
+        "types": [
+          "Ground",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}

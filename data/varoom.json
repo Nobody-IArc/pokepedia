@@ -1,0 +1,38 @@
+{
+  "name": "Varoom",
+  "korName": "부르롱단기통포켓몬",
+  "species": "단기통포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/varoom.avif",
+  "types": [
+    "Steel",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 70,
+    "defense": 63,
+    "spAtk": 30,
+    "spDef": 45,
+    "speed": 47,
+    "total": 300
+  },
+  "evolutions": [
+    {
+      "name": "Varoom",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/varoom.png",
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/revavroom.png",
+      "types": [
+        "Steel",
+        "Poison"
+      ]
+    }
+  ]
+}

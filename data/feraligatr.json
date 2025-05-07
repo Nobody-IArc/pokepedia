@@ -1,0 +1,43 @@
+{
+  "name": "Feraligatr",
+  "korName": "장크로다일",
+  "species": "큰턱포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/feraligatr.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "spAtk": 79,
+    "spDef": 83,
+    "speed": 78,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Totodile",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/totodile.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 18)"
+    },
+    {
+      "name": "Croconaw",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/croconaw.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Feraligatr",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/feraligatr.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

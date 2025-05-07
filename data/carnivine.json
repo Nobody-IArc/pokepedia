@@ -1,0 +1,19 @@
+{
+  "name": "Carnivine",
+  "korName": "무스틈니",
+  "species": "벌레잡이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/carnivine.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "spAtk": 90,
+    "spDef": 72,
+    "speed": 46,
+    "total": 454
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

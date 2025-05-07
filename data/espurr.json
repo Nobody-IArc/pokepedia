@@ -1,0 +1,61 @@
+{
+  "name": "Espurr",
+  "korName": "냐스퍼",
+  "species": "자제포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/espurr.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 62,
+    "attack": 48,
+    "defense": 54,
+    "spAtk": 63,
+    "spDef": 60,
+    "speed": 68,
+    "total": 355
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Espurr",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/espurr.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-male.jpg",
+        "types": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-female.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-male.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Meowstic",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/meowstic-female.jpg",
+        "types": [
+          "Psychic"
+        ]
+      }
+    ]
+  ]
+}

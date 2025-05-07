@@ -1,0 +1,47 @@
+{
+  "name": "Walrein",
+  "korName": "씨카이저",
+  "species": "얼음깨기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/walrein.avif",
+  "types": [
+    "Ice",
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 90,
+    "spAtk": 95,
+    "spDef": 90,
+    "speed": 65,
+    "total": 530
+  },
+  "evolutions": [
+    {
+      "name": "Spheal",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/spheal.jpg",
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "evolveMethod": "(Level 32)"
+    },
+    {
+      "name": "Sealeo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sealeo.jpg",
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "evolveMethod": "(Level 44)"
+    },
+    {
+      "name": "Walrein",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/walrein.jpg",
+      "types": [
+        "Ice",
+        "Water"
+      ]
+    }
+  ]
+}

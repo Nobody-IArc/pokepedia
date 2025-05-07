@@ -1,0 +1,19 @@
+{
+  "name": "Regigigas",
+  "korName": "레지기가스",
+  "species": "거대포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/regigigas.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "spAtk": 80,
+    "spDef": 110,
+    "speed": 100,
+    "total": 670
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

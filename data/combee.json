@@ -1,0 +1,38 @@
+{
+  "name": "Combee",
+  "korName": "세꿀버리",
+  "species": "꼬마벌포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/combee.avif",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "spAtk": 30,
+    "spDef": 42,
+    "speed": 70,
+    "total": 244
+  },
+  "evolutions": [
+    {
+      "name": "Combee",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/combee.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 21, Female)"
+    },
+    {
+      "name": "Vespiquen",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/vespiquen.jpg",
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ]
+}

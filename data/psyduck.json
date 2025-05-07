@@ -1,0 +1,35 @@
+{
+  "name": "Psyduck",
+  "korName": "고라파덕",
+  "species": "오리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/psyduck.avif",
+  "types": [
+    "Water"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "spAtk": 65,
+    "spDef": 50,
+    "speed": 55,
+    "total": 320
+  },
+  "evolutions": [
+    {
+      "name": "Psyduck",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/psyduck.jpg",
+      "types": [
+        "Water"
+      ],
+      "evolveMethod": "(Level 33)"
+    },
+    {
+      "name": "Golduck",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/golduck.jpg",
+      "types": [
+        "Water"
+      ]
+    }
+  ]
+}

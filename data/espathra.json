@@ -1,0 +1,35 @@
+{
+  "name": "Espathra",
+  "korName": "클레스퍼트라타조포켓몬",
+  "species": "타조포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/espathra.avif",
+  "types": [
+    "Psychic"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 60,
+    "spAtk": 101,
+    "spDef": 60,
+    "speed": 105,
+    "total": 481
+  },
+  "evolutions": [
+    {
+      "name": "Flittle",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/flittle.png",
+      "types": [
+        "Psychic"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Espathra",
+      "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/espathra.png",
+      "types": [
+        "Psychic"
+      ]
+    }
+  ]
+}

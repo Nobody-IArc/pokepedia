@@ -1,0 +1,19 @@
+{
+  "name": "Arceus",
+  "korName": "아르세우스",
+  "species": "창조포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/arceus.avif",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "spAtk": 120,
+    "spDef": 120,
+    "speed": 120,
+    "total": 720
+  },
+  "evolutions": "진화가 없는 포켓몬입니다."
+}

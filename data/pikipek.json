@@ -1,0 +1,47 @@
+{
+  "name": "Pikipek",
+  "korName": "콕코구리",
+  "species": "딱따구리포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/pikipek.avif",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 75,
+    "defense": 30,
+    "spAtk": 30,
+    "spDef": 30,
+    "speed": 65,
+    "total": 265
+  },
+  "evolutions": [
+    {
+      "name": "Pikipek",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/pikipek.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 14)"
+    },
+    {
+      "name": "Trumbeak",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/trumbeak.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "evolveMethod": "(Level 28)"
+    },
+    {
+      "name": "Toucannon",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/toucannon.jpg",
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
+  ]
+}

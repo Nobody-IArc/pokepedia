@@ -1,0 +1,35 @@
+{
+  "name": "Gulpin",
+  "korName": "꼴깍몬",
+  "species": "밥통포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/gulpin.avif",
+  "types": [
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "spAtk": 43,
+    "spDef": 53,
+    "speed": 40,
+    "total": 302
+  },
+  "evolutions": [
+    {
+      "name": "Gulpin",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gulpin.jpg",
+      "types": [
+        "Poison"
+      ],
+      "evolveMethod": "(Level 26)"
+    },
+    {
+      "name": "Swalot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/swalot.jpg",
+      "types": [
+        "Poison"
+      ]
+    }
+  ]
+}

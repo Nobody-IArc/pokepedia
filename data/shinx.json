@@ -1,0 +1,43 @@
+{
+  "name": "Shinx",
+  "korName": "꼬링크",
+  "species": "섬광포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/shinx.avif",
+  "types": [
+    "Electric"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 34,
+    "spAtk": 40,
+    "spDef": 34,
+    "speed": 45,
+    "total": 263
+  },
+  "evolutions": [
+    {
+      "name": "Shinx",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shinx.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 15)"
+    },
+    {
+      "name": "Luxio",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/luxio.jpg",
+      "types": [
+        "Electric"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Luxray",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/luxray.jpg",
+      "types": [
+        "Electric"
+      ]
+    }
+  ]
+}

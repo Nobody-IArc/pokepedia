@@ -1,0 +1,46 @@
+{
+  "name": "Nuzleaf",
+  "korName": "잎새코",
+  "species": "꾀부리기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/nuzleaf.avif",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "spAtk": 60,
+    "spDef": 40,
+    "speed": 60,
+    "total": 340
+  },
+  "evolutions": [
+    {
+      "name": "Seedot",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/seedot.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 14)"
+    },
+    {
+      "name": "Nuzleaf",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/nuzleaf.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "evolveMethod": "(use Leaf Stone)"
+    },
+    {
+      "name": "Shiftry",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/shiftry.jpg",
+      "types": [
+        "Grass",
+        "Dark"
+      ]
+    }
+  ]
+}

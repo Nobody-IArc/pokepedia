@@ -1,0 +1,43 @@
+{
+  "name": "Grookey",
+  "korName": "흥나숭",
+  "species": "꼬마원숭이포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/grookey.avif",
+  "types": [
+    "Grass"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 50,
+    "spAtk": 40,
+    "spDef": 40,
+    "speed": 65,
+    "total": 310
+  },
+  "evolutions": [
+    {
+      "name": "Grookey",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/grookey.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 16)"
+    },
+    {
+      "name": "Thwackey",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/thwackey.jpg",
+      "types": [
+        "Grass"
+      ],
+      "evolveMethod": "(Level 35)"
+    },
+    {
+      "name": "Rillaboom",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/rillaboom.jpg",
+      "types": [
+        "Grass"
+      ]
+    }
+  ]
+}

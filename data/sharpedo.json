@@ -1,0 +1,40 @@
+{
+  "name": "Sharpedo",
+  "korName": "샤크니아",
+  "species": "난폭포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/sharpedo.avif",
+  "types": [
+    "Water",
+    "Dark",
+    "Water",
+    "Dark"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 40,
+    "spAtk": 95,
+    "spDef": 40,
+    "speed": 95,
+    "total": 460
+  },
+  "evolutions": [
+    {
+      "name": "Carvanha",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/carvanha.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "evolveMethod": "(Level 30)"
+    },
+    {
+      "name": "Sharpedo",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/sharpedo.jpg",
+      "types": [
+        "Water",
+        "Dark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Haunter",
+  "korName": "고우스트",
+  "species": "가스포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/haunter.avif",
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "spAtk": 115,
+    "spDef": 55,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutions": [
+    {
+      "name": "Gastly",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gastly.jpg",
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "evolveMethod": "(Level 25)"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/haunter.jpg",
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "evolveMethod": "(Trade)"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/gengar.jpg",
+      "types": [
+        "Ghost",
+        "Poison"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Snover",
+  "korName": "눈쓰개",
+  "species": "얼음나무포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/snover.avif",
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 50,
+    "spAtk": 62,
+    "spDef": 60,
+    "speed": 40,
+    "total": 334
+  },
+  "evolutions": [
+    {
+      "name": "Snover",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/snover.jpg",
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "evolveMethod": "(Level 40)"
+    },
+    {
+      "name": "Abomasnow",
+      "image": "https://img.pokemondb.net/sprites/home/normal/2x/abomasnow.jpg",
+      "types": [
+        "Grass",
+        "Ice"
+      ]
+    }
+  ]
+}

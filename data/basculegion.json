@@ -1,0 +1,68 @@
+{
+  "name": "Basculegion",
+  "korName": "대쓰여너큰물고기포켓몬",
+  "species": "큰물고기포켓몬",
+  "imageUrl": "https://img.pokemondb.net/artwork/avif/basculegion-male.avif",
+  "types": [
+    "Water",
+    "Ghost",
+    "Water",
+    "Ghost"
+  ],
+  "baseStats": {
+    "hp": 120,
+    "attack": 112,
+    "defense": 65,
+    "spAtk": 80,
+    "spDef": 75,
+    "speed": 78,
+    "total": 530
+  },
+  "evolutions": [
+    [
+      {
+        "name": "Basculin",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/basculin-white-striped.jpg",
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Basculegion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/basculegion-male.jpg",
+        "types": [
+          "Water",
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Basculegion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/basculegion-female.jpg",
+        "types": [
+          "Water",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Basculegion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/basculegion-male.jpg",
+        "types": [
+          "Water",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Basculegion",
+        "image": "https://img.pokemondb.net/sprites/home/normal/2x/basculegion-female.jpg",
+        "types": [
+          "Water",
+          "Ghost"
+        ]
+      }
+    ]
+  ]
+}
