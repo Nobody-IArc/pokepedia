@@ -7,7 +7,8 @@
     "crawltest": "npx ts-node src/crawler/pokemon.crawler.ts",
     "calculate": "npx ts-node src/utils/calculateEffectiveness.ts",
     "lint": "eslint . --ext .ts",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "start": "nodemon app.ts"
   },
   "keywords": [],
   "author": "",

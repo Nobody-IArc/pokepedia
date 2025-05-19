@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <title>Pokepedia - 포켓몬 도감</title>
+    <link rel="stylesheet" href="/lib/bootstrap-5.3.6-dist/css/bootstrap.min.css" />
+</head>
+<body class="container py-4">
+<h1 class="mb-4">포켓몬 도감</h1>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+    <% pokemons.forEach(pokemon => { %>
+        <div class="col">
+            <div class="card h-100">
+                <a href="/pokemon/<%= pokemon.name.toLowerCase() %>" class="text-decoration-none text-dark">
+                    <img src="<%= pokemon.imageUrl %>" class="card-img-top" alt="<%= pokemon.name %>" style="height: 120px; object-fit: contain;">
+                    <div class="card-body">
+                        <h5 class="card-title"><%= pokemon.korName %> (<%= pokemon.name %>)</h5>
+                        <% pokemon.types.forEach(type => { %>
+                            <span class="badge bg-secondary me-1"><%= type %></span>
+                        <% }) %>
+                    </div>
+                </a>
+            </div>
+        </div>
+    <% }) %>
+</div>
+
+<nav class="mt-4">
+    <ul class="pagination justify-content-center">
+        <%
+        const maxVisible = 5;
+        const startPage = Math.max(1, currentPage - 2);
+        const endPage = Math.min(totalPages, startPage + maxVisible - 1);
+        %>
+
+        <% if (currentPage > 1) { %>
+            <li class="page-item">
+                <a class="page-link" href="/pokemon?page=<%= currentPage - 1 %>">&laquo;</a>
+            </li>
+        <% } %>
+
+        <% if (startPage > 1) { %>
+            <li class="page-item">
+                <a class="page-link" href="/pokemon?page=1">1</a>
+            </li>
+            <li class="page-item disabled">
+                <span class="page-link">...</span>
+            </li>
+        <% } %>
+
+        <% for (let i = startPage; i <= endPage; i++) { %>
+            <li class="page-item <%= i === currentPage ? 'active' : '' %>">
+                <a class="page-link" href="/pokemon?page=<%= i %>"><%= i %></a>
+            </li>
+        <% } %>
+
+        <% if (endPage < totalPages) { %>
+            <li class="page-item disabled">
+                <span class="page-link">...</span>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="/pokemon?page=<%= totalPages %>"><%= totalPages %></a>
+            </li>
+        <% } %>
+
+        <% if (currentPage < totalPages) { %>
+            <li class="page-item">
+                <a class="page-link" href="/pokemon?page=<%= currentPage + 1 %>">&raquo;</a>
+            </li>
+        <% } %>
+    </ul>
+</nav>
+
+
+</body>
+</html>
