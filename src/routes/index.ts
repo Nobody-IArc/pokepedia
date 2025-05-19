@@ -15,7 +15,7 @@ router.get('/:name', (req: Request, res: Response) => {
   const content = fs.readFileSync(filePath, 'utf8');
   const jsonData = JSON.parse(content);
 
-  res.render('testPage', jsonData);
+  res.render('index.ejs', jsonData);
 });
 
 export default router;
